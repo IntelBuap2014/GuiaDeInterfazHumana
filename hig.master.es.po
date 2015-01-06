@@ -45,7 +45,8 @@ msgstr ""
 "Jorge González <jorgegonz@svn.gnome.org>, 2009\n"
 "Rosa Elena Pérez <rozydicemiau@gmail.com>, 2014\n"
 "Oscar Rafael Arachi <arachi910@gmail.com>, 2014\n"
-"Miguel Ajuech <miguel.ann.28@gmail.com>, 2014"
+"Miguel Ajuech <miguel.ann.28@gmail.com>, 2014\n"
+"Adrian Perez Dominguez <adrian@aztli.org>, 2015"
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -82,8 +83,9 @@ msgstr "Allan Day"
 #. (itstool) path: page/title
 #: C/action-bars.page:14
 #, fuzzy
+#: Arreglada
 msgid "Action bars"
-msgstr "Diccionario"
+msgstr "Barras de Acción"
 
 #. (itstool) path: page/p
 #: C/action-bars.page:18
@@ -167,8 +169,9 @@ msgstr "Características básicas de la aplicación."
 #. (itstool) path: page/title
 #: C/application-basics.page:14
 #, fuzzy
+#: Arreglada 
 msgid "Application basics"
-msgstr "Iconos de aplicación"
+msgstr "Aplicaciones Basicas"
 
 #. (itstool) path: page/p
 #: C/application-basics.page:16
@@ -203,8 +206,9 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/application-basics.page:21
 #, fuzzy
+#: Arreglada
 msgid "Defining an application"
-msgstr "Elementos de menú en aplicaciones"
+msgstr "Definiendo una aplicacion"
 
 #. (itstool) path: quote/p
 #: C/application-basics.page:23
@@ -279,8 +283,9 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/application-basics.page:49
 #, fuzzy
+#: Arreglada
 msgid "Naming your application"
-msgstr "Sale de la aplicación"
+msgstr "Nombrando tu aplicación"
 
 #. (itstool) path: section/p
 #: C/application-basics.page:51
@@ -293,6 +298,7 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/application-basics.page:53
 #, fuzzy
+#: Por terminar
 msgid "An application name plays a number of functions:"
 msgstr "Usar nombres de aplicaciones como títulos de ventanas"
 
