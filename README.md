@@ -3,7 +3,7 @@
 > Malditas mentiras!.
 ```ruby
 require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
+markdown = Redcarpet.new("Hola mundo!")
 puts markdown.to_html
 ```
 Este es un repositorio que nos servira para traducir de manera colaborativa la guia de interfaz humana de Gnome.
