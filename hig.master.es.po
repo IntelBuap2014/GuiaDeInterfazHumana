@@ -9248,7 +9248,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/visual-layout.page:71
 msgid "Visual hierarchy"
-msgstr ""
+msgstr "Jerarquia visual"
 
 #. (itstool) path: section/p
 #: C/visual-layout.page:73
