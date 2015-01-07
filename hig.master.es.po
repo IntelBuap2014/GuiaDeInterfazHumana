@@ -46,7 +46,8 @@ msgstr ""
 "Rosa Elena Pérez <rozydicemiau@gmail.com>, 2014\n"
 "Oscar Rafael Arachi <arachi910@gmail.com>, 2014\n"
 "Miguel Ajuech <miguel.ann.28@gmail.com>, 2014\n"
-"Adrian Perez Dominguez <adrian@aztli.org>, 2015"
+"Adrian Perez Dominguez <adrian@aztli.org>, 2015\n"
+"Celina Osorio Ochoa <chelinoska@gmail.com>, 2015"
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -253,7 +254,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/application-basics.page:32
 msgid "Do not affect or interfere with the behavior of other applications."
-msgstr ""
+msgstr "No afecta ni interfiere con el comportamiento de otras aplicaciones."
 
 #. (itstool) path: item/p
 #: C/application-basics.page:33
@@ -5260,6 +5261,8 @@ msgid ""
 "When using column headers, indicate the sort order using arrows on the "
 "header."
 msgstr ""
+"Al usar encabezados de columnas, indicar el orden usando las flechas "
+"en el encabezado."
 
 #. (itstool) path: td/p
 #: C/lists.page:76
