@@ -1343,7 +1343,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/design-principles.page:91
 msgid "Provide quick and effective search"
-msgstr ""
+msgstr "Ofrece una búsqueda rápida y efectiva"
 
 #. (itstool) path: section/p
 #: C/design-principles.page:93
