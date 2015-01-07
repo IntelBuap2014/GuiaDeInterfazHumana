@@ -5892,7 +5892,7 @@ msgstr "Alertas de confirmación"
 #. (itstool) path: section/p
 #: C/notifications.page:30
 msgid "Notifications in GNOME 3 have a number of standard components:"
-msgstr ""
+msgstr "Las notificaciones en GNOME 3 tienen un número estándar de componentes:"
 
 #. (itstool) path: td/p
 #: C/notifications.page:35
