@@ -256,7 +256,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/application-basics.page:32
 msgid "Do not affect or interfere with the behavior of other applications."
-msgstr ""
+msgstr "No afecta ni interfiere con el comportamiento de otras aplicaciones."
 
 #. (itstool) path: item/p
 #: C/application-basics.page:33
