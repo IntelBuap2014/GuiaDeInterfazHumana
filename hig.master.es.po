@@ -5265,6 +5265,8 @@ msgid ""
 "When using column headers, indicate the sort order using arrows on the "
 "header."
 msgstr ""
+"Al usar encabezados de columnas, indicar el orden usando las flechas "
+"en el encabezado."
 
 #. (itstool) path: td/p
 #: C/lists.page:76
