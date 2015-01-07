@@ -14,15 +14,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-05 19:32+0000\n"
-"PO-Revision-Date: 2015-01-05 08:47+0100\n"
-"Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
+"PO-Revision-Date: 2015-01-07 17:00-0600\n"
+"Last-Translator: Rodrigo Cuevas <roalcuve@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #. (itstool) path: p/link
 #: C/legal.xml:5
@@ -81,9 +81,8 @@ msgid "Allan Day"
 msgstr "Allan Day"
 
 #. (itstool) path: page/title
-#: C/action-bars.page:14
+#: C/action-bars.page:14 Arreglada
 #, fuzzy
-#: Arreglada
 msgid "Action bars"
 msgstr "Barras de Acción"
 
@@ -167,9 +166,8 @@ msgid "Basic application characteristics."
 msgstr "Características básicas de la aplicación."
 
 #. (itstool) path: page/title
-#: C/application-basics.page:14
+#: C/application-basics.page:14 Arreglada
 #, fuzzy
-#: Arreglada 
 msgid "Application basics"
 msgstr "Aplicaciones Basicas"
 
@@ -204,9 +202,8 @@ msgstr ""
 "para instalar y quitar aplicaciones."
 
 #. (itstool) path: section/title
-#: C/application-basics.page:21
+#: C/application-basics.page:21 Arreglada
 #, fuzzy
-#: Arreglada
 msgid "Defining an application"
 msgstr "Definiendo una aplicacion"
 
@@ -281,9 +278,8 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/application-basics.page:49
+#: C/application-basics.page:49 Arreglada
 #, fuzzy
-#: Arreglada
 msgid "Naming your application"
 msgstr "Nombrando tu aplicación"
 
@@ -296,9 +292,8 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/application-basics.page:53
+#: C/application-basics.page:53 Por terminar
 #, fuzzy
-#: Por terminar
 msgid "An application name plays a number of functions:"
 msgstr "Usar nombres de aplicaciones como títulos de ventanas"
 
@@ -1781,7 +1776,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/dialogs.page:158
 msgid "Dialogs should always have a parent window."
-msgstr ""
+msgstr "Los diálogos deberían siempre tener una ventana padre.  "
 
 #. (itstool) path: item/p
 #: C/dialogs.page:159
