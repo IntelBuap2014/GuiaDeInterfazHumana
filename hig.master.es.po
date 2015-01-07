@@ -1361,7 +1361,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/design-principles.page:100
 msgid "Use configuration options sparingly"
-msgstr ""
+msgstr "Utilice las opciones de configuración con moderación"
 
 #. (itstool) path: section/p
 #: C/design-principles.page:102
