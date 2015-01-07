@@ -9052,7 +9052,7 @@ msgstr "Botones adicionales"
 #. (itstool) path: item/p
 #: C/view-switchers.page:38
 msgid "Each view should have a short and clear title."
-msgstr ""
+msgstr "Cada vista debe tener un título corto y claro."
 
 #. (itstool) path: item/p
 #: C/view-switchers.page:39
