@@ -1361,7 +1361,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/design-principles.page:100
 msgid "Use configuration options sparingly"
-msgstr ""
+msgstr "Utilice las opciones de configuración con moderación"
 
 #. (itstool) path: section/p
 #: C/design-principles.page:102
@@ -5892,7 +5892,7 @@ msgstr "Alertas de confirmación"
 #. (itstool) path: section/p
 #: C/notifications.page:30
 msgid "Notifications in GNOME 3 have a number of standard components:"
-msgstr ""
+msgstr "Las notificaciones en GNOME 3 tienen un número estándar de componentes:"
 
 #. (itstool) path: td/p
 #: C/notifications.page:35
