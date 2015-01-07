@@ -382,7 +382,7 @@ msgstr ""
 #: C/visual-layout.page:33
 #, fuzzy
 msgid "General guidelines"
-msgstr "Guías"
+msgstr "Normas Generales"
 
 #. (itstool) path: item/p
 #: C/application-menus.page:31
