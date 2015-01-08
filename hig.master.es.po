@@ -1314,6 +1314,8 @@ msgid ""
 "Automatically correct potentially invalid input, and always make it possible "
 "to undo destructive operations."
 msgstr ""
+"Corregir automáticamente entradas potencialmente inválidas, y hacer siempre " 
+"lo posible para deshacer operaciones destructivas."
 
 #. (itstool) path: section/title
 #: C/design-principles.page:82
