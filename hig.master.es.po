@@ -47,7 +47,8 @@ msgstr ""
 "Oscar Rafael Arachi <arachi910@gmail.com>, 2014\n"
 "Miguel Ajuech <miguel.ann.28@gmail.com>, 2014\n"
 "Adrian Perez Dominguez <adrian@aztli.org>, 2015\n"
-"Celina Osorio Ochoa <chelinoska@gmail.com>, 2015"
+"Celina Osorio Ochoa <chelinoska@gmail.com>, 2015\n"
+"Dario Amigon Espinoza <daramigon@gmail.com>, 2015"
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
