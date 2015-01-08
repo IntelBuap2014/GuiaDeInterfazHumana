@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-05 19:32+0000\n"
-"PO-Revision-Date: 2015-01-07 18:18-0600\n"
+"PO-Revision-Date: 2015-01-07 18:34-0600\n"
 "Last-Translator: Rodrigo Cuevas <roalcuve@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -4132,7 +4132,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-input.page:360
 msgid "<gui>Print…</gui>"
-msgstr ""
+msgstr "<gui>Imprimir…</gui>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:361
