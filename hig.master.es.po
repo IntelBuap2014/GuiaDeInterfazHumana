@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-05 19:32+0000\n"
-"PO-Revision-Date: 2015-01-07 18:34-0600\n"
+"PO-Revision-Date: 2015-01-07 20:03-0600\n"
 "Last-Translator: Rodrigo Cuevas <roalcuve@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -2144,9 +2144,9 @@ msgid ""
 "using your application. Ordering content according to most recently used is "
 "often the best arrangement."
 msgstr ""
-"Ordena los articulos en la cuadricula de acuerdo a lo que sea mas util para las personas "
-"al usar tu aplicacion. Ordenar el contenido de acuerdo a lo que se uso recientemente es "
-"a veces la mejor opcion."
+"Ordena los articulos en la cuadricula de acuerdo a lo que sea mas util para "
+"las personas al usar tu aplicacion. Ordenar el contenido de acuerdo a lo que "
+"se uso recientemente es a veces la mejor opcion."
 
 #. (itstool) path: item/p
 #: C/grids.page:35
@@ -2154,8 +2154,8 @@ msgid ""
 "Selecting an item in the grid will typically switch to a dedicated view of "
 "that item."
 msgstr ""
-"Seleccionar un articulo en la cuadricula normalmente cambiara a una vista dedicada "
-"de ese articuo."
+"Seleccionar un articulo en la cuadricula normalmente cambiara a una vista "
+"dedicada de ese articuo."
 
 #. (itstool) path: item/p
 #: C/grids.page:36
@@ -8536,7 +8536,7 @@ msgid ""
 "button), use its symbolic variant from the GNOME Symbolic Icon Theme."
 msgstr ""
 "Si coloca un icono en un campo de entrada de texto (ya sea como un indicador "
-"o un boton), use su variante simbólico de el tema de iconos simbólicos de "
+"o un boton), use su variante simbólico del Tema de Iconos Simbólicos de "
 "GNOME."
 
 #. (itstool) path: section/p
