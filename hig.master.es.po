@@ -2144,6 +2144,9 @@ msgid ""
 "using your application. Ordering content according to most recently used is "
 "often the best arrangement."
 msgstr ""
+"Ordena los articulos en la cuadricula de acuerdo a lo que sea mas util para las personas "
+"al usar tu aplicacion. Ordenar el contenido de acuerdo a lo que se uso recientemente es "
+"a veces la mejor opcion"
 
 #. (itstool) path: item/p
 #: C/grids.page:35
