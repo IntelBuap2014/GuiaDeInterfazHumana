@@ -2146,7 +2146,7 @@ msgid ""
 msgstr ""
 "Ordena los articulos en la cuadricula de acuerdo a lo que sea mas util para las personas "
 "al usar tu aplicacion. Ordenar el contenido de acuerdo a lo que se uso recientemente es "
-"a veces la mejor opcion"
+"a veces la mejor opcion."
 
 #. (itstool) path: item/p
 #: C/grids.page:35
@@ -2154,6 +2154,8 @@ msgid ""
 "Selecting an item in the grid will typically switch to a dedicated view of "
 "that item."
 msgstr ""
+"Seleccionar un articulo en la cuadricula normalmente cambiara a una vista dedicada "
+"de ese articuo."
 
 #. (itstool) path: item/p
 #: C/grids.page:36
