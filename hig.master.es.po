@@ -83,7 +83,7 @@ msgid "Allan Day"
 msgstr "Allan Day"
 
 #. (itstool) path: page/title
-#: C/action-bars.page:14 Arreglada
+#: C/action-bars.page:14 
 #, fuzzy
 msgid "Action bars"
 msgstr "Barras de Acción"
@@ -168,7 +168,7 @@ msgid "Basic application characteristics."
 msgstr "Características básicas de la aplicación."
 
 #. (itstool) path: page/title
-#: C/application-basics.page:14 Arreglada
+#: C/application-basics.page:14 
 #, fuzzy
 msgid "Application basics"
 msgstr "Aplicaciones Basicas"
@@ -204,7 +204,7 @@ msgstr ""
 "para instalar y quitar aplicaciones."
 
 #. (itstool) path: section/title
-#: C/application-basics.page:21 Arreglada
+#: C/application-basics.page:21 
 #, fuzzy
 msgid "Defining an application"
 msgstr "Definiendo una aplicacion"
@@ -280,7 +280,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/application-basics.page:49 Arreglada
+#: C/application-basics.page:49 
 #, fuzzy
 msgid "Naming your application"
 msgstr "Nombrando tu aplicación"
@@ -353,7 +353,7 @@ msgstr ""
 #: C/application-menus.page:14
 #, fuzzy
 msgid "Application menus"
-msgstr "Nombre de la aplicación"
+msgstr "Menus de aplicación"
 
 #. (itstool) path: page/p
 #: C/application-menus.page:18
@@ -379,7 +379,7 @@ msgstr ""
 #: C/visual-layout.page:33
 #, fuzzy
 msgid "General guidelines"
-msgstr "Normas Generales"
+msgstr "Guías Generales"
 
 #. (itstool) path: item/p
 #: C/application-menus.page:31
@@ -517,7 +517,7 @@ msgstr ""
 #: C/button-menus.page:13
 #, fuzzy
 msgid "Button menus"
-msgstr "Botones"
+msgstr "Botones de menu"
 
 #. (itstool) path: page/p
 #: C/button-menus.page:15
