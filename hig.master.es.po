@@ -7585,6 +7585,8 @@ msgid ""
 "The keyboard shortcut for search (<keyseq><key>Ctrl</key><key>F</key></"
 "keyseq>)."
 msgstr ""
+"El atajo de teclado para buscar (<keyseq><key>Ctrl</key><key>F</key></"
+"keyseq>)."
 
 #. (itstool) path: item/p
 #: C/search.page:41
