@@ -294,7 +294,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/application-basics.page:53 Por terminar
+#: C/application-basics.page:53 
 #, fuzzy
 msgid "An application name plays a number of functions:"
 msgstr "Usar nombres de aplicaciones como títulos de ventanas"
