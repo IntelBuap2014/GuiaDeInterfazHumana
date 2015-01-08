@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-05 19:32+0000\n"
-"PO-Revision-Date: 2015-01-07 17:00-0600\n"
+"PO-Revision-Date: 2015-01-07 18:09-0600\n"
 "Last-Translator: Rodrigo Cuevas <roalcuve@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -5261,8 +5261,8 @@ msgid ""
 "When using column headers, indicate the sort order using arrows on the "
 "header."
 msgstr ""
-"Al usar encabezados de columnas, indicar el orden usando las flechas "
-"en el encabezado."
+"Al usar encabezados de columnas, indicar el orden usando las flechas en el "
+"encabezado."
 
 #. (itstool) path: td/p
 #: C/lists.page:76
@@ -5895,7 +5895,8 @@ msgstr "Alertas de confirmación"
 #. (itstool) path: section/p
 #: C/notifications.page:30
 msgid "Notifications in GNOME 3 have a number of standard components:"
-msgstr "Las notificaciones en GNOME 3 tienen un número estándar de componentes:"
+msgstr ""
+"Las notificaciones en GNOME 3 tienen un número estándar de componentes:"
 
 #. (itstool) path: td/p
 #: C/notifications.page:35
@@ -8529,6 +8530,9 @@ msgid ""
 "If you place an icon in a text entry field (either as an indicator or a "
 "button), use its symbolic variant from the GNOME Symbolic Icon Theme."
 msgstr ""
+"Si coloca un icono en un campo de entrada de texto (ya sea como un indicador "
+"o un boton), use su variante simbólico de el tema de iconos simbólicos de "
+"GNOME."
 
 #. (itstool) path: section/p
 #: C/text-fields.page:58
