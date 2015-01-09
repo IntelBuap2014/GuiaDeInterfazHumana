@@ -7578,7 +7578,7 @@ msgstr ""
 #: C/search.page:32
 #, fuzzy
 msgid "The search bar"
-msgstr "La barra de menú"
+msgstr "La barra de búsqueda"
 
 #. (itstool) path: section/p
 #: C/search.page:34
@@ -7588,6 +7588,10 @@ msgid ""
 "search bar is typically hidden until it is activated by the user. There are "
 "three common ways to activate search in this context:"
 msgstr ""
+"El estándar para buscar en GNOME 3 utiliza una barra de búsqueda especial "
+"que se desliza en la parte inferior de la barra de encabezado. En la ventana "
+"primaria, la barra de búsqueda esta típicamente oculta y es activada por el "
+"usuario. Existen tres manera de activar la búsqueda en este contexto:"
 
 #. (itstool) path: item/p
 #: C/search.page:39
