@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-05 19:32+0000\n"
-"PO-Revision-Date: 2015-01-05 08:47+0100\n"
+"PO-Revision-Date: 2015-01-08 21:00-0600\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -49,7 +49,7 @@ msgstr ""
 "Adrian Perez Dominguez <adrian@aztli.org>, 2015\n"
 "Celina Osorio Ochoa <chelinoska@gmail.com>, 2015\n"
 "Dario Amigon Espinoza <daramigon@gmail.com>, 2015\n"
-"Yenisei Ramirez Perez <yeniseirape@gmail.com>, 2015\n"
+"Yenisei Ramírez Pérez <yeniseirape@gmail.com>, 2015\n"
 "José Roberto Ramíres Mendoza <aczella@gmail.com>, 2015"
 
 #. (itstool) path: media
@@ -85,7 +85,7 @@ msgid "Allan Day"
 msgstr "Allan Day"
 
 #. (itstool) path: page/title
-#: C/action-bars.page:14 
+#: C/action-bars.page:14
 #, fuzzy
 msgid "Action bars"
 msgstr "Barras de Acción"
@@ -170,7 +170,7 @@ msgid "Basic application characteristics."
 msgstr "Características básicas de la aplicación."
 
 #. (itstool) path: page/title
-#: C/application-basics.page:14 
+#: C/application-basics.page:14
 #, fuzzy
 msgid "Application basics"
 msgstr "Aplicaciones Basicas"
@@ -206,7 +206,7 @@ msgstr ""
 "para instalar y quitar aplicaciones."
 
 #. (itstool) path: section/title
-#: C/application-basics.page:21 
+#: C/application-basics.page:21
 #, fuzzy
 msgid "Defining an application"
 msgstr "Definiendo una aplicacion"
@@ -282,7 +282,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/application-basics.page:49 
+#: C/application-basics.page:49
 #, fuzzy
 msgid "Naming your application"
 msgstr "Nombrando tu aplicación"
@@ -296,7 +296,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/application-basics.page:53 
+#: C/application-basics.page:53
 #, fuzzy
 msgid "An application name plays a number of functions:"
 msgstr "Usar nombres de aplicaciones como títulos de ventanas"
@@ -1316,7 +1316,7 @@ msgid ""
 "Automatically correct potentially invalid input, and always make it possible "
 "to undo destructive operations."
 msgstr ""
-"Corregir automáticamente entradas potencialmente inválidas, y hacer siempre " 
+"Corregir automáticamente entradas potencialmente inválidas, y hacer siempre "
 "lo posible para deshacer operaciones destructivas."
 
 #. (itstool) path: section/title
@@ -6988,9 +6988,9 @@ msgid ""
 "not rely on dialogs or secondary windows in order to present basic "
 "functionality."
 msgstr ""
-"La ventana principal debe alojar la principal funcionabilidad de su aplicación."
-"No se base en dialogos o ventanas secundarias a fin de preserbar funcionalidades"
-"básicas."
+"La ventana principal debe alojar la principal funcionabilidad de su "
+"aplicación.No se base en dialogos o ventanas secundarias a fin de preserbar "
+"funcionalidadesbásicas."
 
 #. (itstool) path: item/p
 #: C/primary-windows.page:62
@@ -8555,6 +8555,10 @@ msgid ""
 "display additional information, this should only be done when it is "
 "necessary."
 msgstr ""
+"Cuando un usuario quiera apoyarse de información adicional para usar un "
+"campo de entrada de texto, este puede estar pre-llenado con un texto de "
+"sugerencia. Como cualquier decisión para desplegar información adicional, "
+"este deberá hacerse solo cuando sea necesario."
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
