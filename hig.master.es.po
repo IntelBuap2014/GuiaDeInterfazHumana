@@ -6987,6 +6987,9 @@ msgid ""
 "not rely on dialogs or secondary windows in order to present basic "
 "functionality."
 msgstr ""
+"La ventana principal debe alojar la principal funcionabilidad de su aplicación."
+"No se base en dialogos o ventanas secundarias a fin de preserbar funcionalidades"
+"básicas."
 
 #. (itstool) path: item/p
 #: C/primary-windows.page:62
