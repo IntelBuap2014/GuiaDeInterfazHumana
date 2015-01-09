@@ -1381,7 +1381,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/design-principles.page:107
 msgid "Give your application an instructive name and an attractive icon"
-msgstr ""
+msgstr "Dele a su aplicación un nombre instructivo y un icono atractivo"
 
 #. (itstool) path: section/p
 #: C/design-principles.page:109
