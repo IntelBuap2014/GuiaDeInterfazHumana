@@ -5299,6 +5299,8 @@ msgstr "Abajo"
 msgid ""
 "Alphabetical, smallest number first, earliest date first, checked items first"
 msgstr ""
+"Alfabético, número más pequeño primero, fecha más antigua primero, "
+"elementos marcados primero"
 
 #. (itstool) path: td/p
 #: C/lists.page:87
@@ -5316,6 +5318,8 @@ msgid ""
 "Reverse alphabetical, largest number first, most recent date first, "
 "unchecked items first"
 msgstr ""
+"Alfabético invertido, número más grande primero, fecha más reciente primero, "
+"elementos sin marcar primero"
 
 #. (itstool) path: section/title
 #: C/lists.page:98
