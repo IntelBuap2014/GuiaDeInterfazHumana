@@ -1340,6 +1340,9 @@ msgid ""
 "avoid spontaneously popping up dialogs without user intent, and avoid "
 "disruptive feedback mechanisms like message dialogs."
 msgstr ""
+"Use <link xref=\"notifications\">notificaciones</link> con modreación, "
+"evitando siempre la aparición de diálogos sin la intención del usuario, y "
+"evitando mecanismos disruptivos de feedback como mensajes de diálogo"
 
 #. (itstool) path: section/title
 #: C/design-principles.page:91
