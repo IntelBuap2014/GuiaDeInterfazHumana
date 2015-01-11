@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-05 19:32+0000\n"
-"PO-Revision-Date: 2015-01-10 22:11-0600\n"
+"PO-Revision-Date: 2015-01-10 22:21-0600\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -7684,8 +7684,8 @@ msgid ""
 "Results should be ordered in a way that ensures that the most relevant items "
 "are displayed first."
 msgstr ""
-"Los resultados deben ser ordenados de tal manera que se asegure que "
-"losresultados más relevantes se muestren primero."
+"Los resultados deben ser ordenados de tal manera que se asegure que los "
+"resultados más relevantes se muestren primero."
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -8614,6 +8614,11 @@ msgid ""
 "this role, and a toolbar is generally not required if you are using header "
 "bars."
 msgstr ""
+"Utilice una barra de herramientas para proporcionar acceso a acciones, "
+"herramientas u opciones comunes en ventanas principales. Las <link xref=\\"
+"\"header-bars\\\">Barras de encabezado</link> también realizan este rol, y "
+"una barra de herramientas generalmente no es necesaria si está usando barras "
+"de encabezado."
 
 #. (itstool) path: section/p
 #: C/toolbars.page:36
