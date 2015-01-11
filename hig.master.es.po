@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-05 19:32+0000\n"
-"PO-Revision-Date: 2015-01-08 21:15-0600\n"
+"PO-Revision-Date: 2015-01-10 22:11-0600\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -5302,8 +5302,8 @@ msgstr "Abajo"
 msgid ""
 "Alphabetical, smallest number first, earliest date first, checked items first"
 msgstr ""
-"Alfabético, número más pequeño primero, fecha más antigua primero, "
-"elementos marcados primero"
+"Alfabético, número más pequeño primero, fecha más antigua primero, elementos "
+"marcados primero"
 
 #. (itstool) path: td/p
 #: C/lists.page:87
@@ -7684,8 +7684,8 @@ msgid ""
 "Results should be ordered in a way that ensures that the most relevant items "
 "are displayed first."
 msgstr ""
-"Los resultados deben ser ordenados de tal manera que se asegure que los" 
-"resultados más relevantes se muestren primero."
+"Los resultados deben ser ordenados de tal manera que se asegure que "
+"losresultados más relevantes se muestren primero."
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -8600,6 +8600,11 @@ msgid ""
 "complex applications, other types of controls such as drop-down lists, can "
 "also be useful."
 msgstr ""
+"Una barra de herramientas es un tira de controles que permite el acceso "
+"conveniente a funciones usadas comúnmente. La mayoría de las barras de "
+"herramientas solo contienen botones gráficos, pero en aplicaciones más "
+"complejas, otros tipos de controles, tales como listas desplegables, también "
+"pueden ser útiles."
 
 #. (itstool) path: section/p
 #: C/toolbars.page:34
