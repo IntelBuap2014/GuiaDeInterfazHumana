@@ -7684,6 +7684,8 @@ msgid ""
 "Results should be ordered in a way that ensures that the most relevant items "
 "are displayed first."
 msgstr ""
+"Los resultados deben ser ordenados de tal manera que se asegure que los" 
+"resultados más relevantes se muestren primero."
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
