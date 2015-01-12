@@ -86,7 +86,6 @@ msgstr "Allan Day"
 
 #. (itstool) path: page/title
 #: C/action-bars.page:14
-#, fuzzy
 msgid "Action bars"
 msgstr "Barras de Acción"
 
@@ -171,7 +170,6 @@ msgstr "Características básicas de la aplicación."
 
 #. (itstool) path: page/title
 #: C/application-basics.page:14
-#, fuzzy
 msgid "Application basics"
 msgstr "Aplicaciones Basicas"
 
@@ -207,7 +205,6 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/application-basics.page:21
-#, fuzzy
 msgid "Defining an application"
 msgstr "Definiendo una aplicacion"
 
@@ -283,7 +280,6 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/application-basics.page:49
-#, fuzzy
 msgid "Naming your application"
 msgstr "Nombrando tu aplicación"
 
@@ -353,9 +349,8 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/application-menus.page:14
-#, fuzzy
 msgid "Application menus"
-msgstr "Menus de aplicación"
+msgstr "Menús de aplicación"
 
 #. (itstool) path: page/p
 #: C/application-menus.page:18
@@ -517,9 +512,8 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/button-menus.page:13
-#, fuzzy
 msgid "Button menus"
-msgstr "Botones de menu"
+msgstr "Botones de menú"
 
 #. (itstool) path: page/p
 #: C/button-menus.page:15
@@ -1347,7 +1341,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/design-principles.page:91
 msgid "Provide quick and effective search"
-msgstr "Ofrece una búsqueda rápida y efectiva"
+msgstr "Ofrecer una búsqueda rápida y efectiva"
 
 #. (itstool) path: section/p
 #: C/design-principles.page:93
@@ -1785,7 +1779,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/dialogs.page:158
 msgid "Dialogs should always have a parent window."
-msgstr "Los diálogos deberían siempre tener una ventana padre.  "
+msgstr "Los diálogos deberían siempre tener una ventana padre."
 
 #. (itstool) path: item/p
 #: C/dialogs.page:159
@@ -2152,9 +2146,9 @@ msgid ""
 "using your application. Ordering content according to most recently used is "
 "often the best arrangement."
 msgstr ""
-"Ordena los articulos en la cuadricula de acuerdo a lo que sea mas util para "
-"las personas al usar tu aplicacion. Ordenar el contenido de acuerdo a lo que "
-"se uso recientemente es a veces la mejor opcion."
+"Ordene los elementos en la cuadrícula de acuerdo a lo que sea mas útil para "
+"las personas al usar su aplicación. Ordenar el contenido de acuerdo a lo que "
+"se uso recientemente es a veces la mejor opción."
 
 #. (itstool) path: item/p
 #: C/grids.page:35
@@ -2162,8 +2156,8 @@ msgid ""
 "Selecting an item in the grid will typically switch to a dedicated view of "
 "that item."
 msgstr ""
-"Seleccionar un articulo en la cuadricula normalmente cambiara a una vista "
-"dedicada de ese articuo."
+"Seleccionar un elemento en la cuadrícula normalmente cambiará a una vista "
+"dedicada de ese elemento."
 
 #. (itstool) path: item/p
 #: C/grids.page:36
@@ -5274,7 +5268,7 @@ msgid ""
 "When using column headers, indicate the sort order using arrows on the "
 "header."
 msgstr ""
-"Al usar encabezados de columnas, indicar el orden usando las flechas en el "
+"Al usar encabezados de columnas, indique el orden usando las flechas en el "
 "encabezado."
 
 #. (itstool) path: td/p
@@ -8557,7 +8551,7 @@ msgid ""
 "button), use its symbolic variant from the GNOME Symbolic Icon Theme."
 msgstr ""
 "Si coloca un icono en un campo de entrada de texto (ya sea como un indicador "
-"o un boton), use su variante simbólico del Tema de Iconos Simbólicos de "
+"o un botón), use su variante simbólico del tema de iconos simbólicos de "
 "GNOME."
 
 #. (itstool) path: section/p
