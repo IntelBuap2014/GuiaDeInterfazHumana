@@ -9240,6 +9240,8 @@ msgstr ""
 msgid ""
 "For vertical spacing between groups of components, 18 pixels is adequate."
 msgstr ""
+"Para espaciado vertical entre grupos de componentes, 18 píxeles "
+"es adecuado."
 
 #. (itstool) path: item/p
 #: C/visual-layout.page:44
