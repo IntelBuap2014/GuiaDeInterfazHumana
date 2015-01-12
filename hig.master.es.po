@@ -1501,7 +1501,7 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/dialogs.page:41
 msgid "There are many ways to avoid using dialogs:"
-msgstr ""
+msgstr "Hay muchas formas de evitar el uso de diálogos:"
 
 #. (itstool) path: item/p
 #: C/dialogs.page:44
