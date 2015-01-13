@@ -263,6 +263,8 @@ msgid ""
 "Have a unique name and <link xref=\"icons-and-artwork#application-icons"
 "\">icon</link>."
 msgstr ""
+"Tiene un unico nombre e <link xref=\"icons-and-artwork#application-icons"
+"\">iconos</link>."
 
 #. (itstool) path: section/p
 #: C/application-basics.page:36
@@ -282,7 +284,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/application-basics.page:49
 msgid "Naming your application"
-msgstr "Nombrando tu aplicación"
+msgstr "Nombrando su aplicación"
 
 #. (itstool) path: section/p
 #: C/application-basics.page:51
@@ -404,7 +406,7 @@ msgstr ""
 #: C/application-menus.page:39
 #, fuzzy
 msgid "Standard menu items"
-msgstr "Menús estándar"
+msgstr "Objetos estándar de Menú"
 
 #. (itstool) path: section/p
 #: C/application-menus.page:41
@@ -437,7 +439,7 @@ msgstr ""
 #, fuzzy
 #| msgid "<gui>Refresh</gui>"
 msgid "<gui>Preferences</gui>"
-msgstr "<gui>Actualizar</gui>"
+msgstr "<gui>Preferencias</gui>"
 
 #. (itstool) path: td/p
 #: C/application-menus.page:50
