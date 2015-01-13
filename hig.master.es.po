@@ -420,7 +420,7 @@ msgstr ""
 #, fuzzy
 #| msgid "<gui>New</gui>"
 msgid "<gui>New Window</gui>"
-msgstr "<gui>Nuevo</gui>"
+msgstr "<gui>Nueva Ventana</gui>"
 
 #. (itstool) path: td/p
 #: C/application-menus.page:46
@@ -759,7 +759,7 @@ msgstr ""
 #: C/buttons.page:47
 #, fuzzy
 msgid "Text buttons"
-msgstr "Botones de alerta"
+msgstr "Botones de Texto"
 
 #. (itstool) path: item/p
 #: C/buttons.page:50
@@ -1515,7 +1515,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/dialogs.page:45
 msgid "In-application notifications are an alternative to message dialogs."
-msgstr ""
+msgstr "En las aplicaciones las notificaciones son una alternativa a los mensajes de dialogo."
 
 #. (itstool) path: item/p
 #: C/dialogs.page:46
@@ -1528,7 +1528,7 @@ msgstr ""
 #: C/dialogs.page:52
 #, fuzzy
 msgid "Message Dialogs"
-msgstr "Diálogos"
+msgstr "Diálogos de Mensaje"
 
 #. (itstool) path: section/p
 #: C/dialogs.page:56
@@ -1580,7 +1580,7 @@ msgstr ""
 #: C/dialogs.page:73
 #, fuzzy
 msgid "Action Dialogs"
-msgstr "Diálogos comunes"
+msgstr "Diálogos de Acción"
 
 #. (itstool) path: section/p
 #: C/dialogs.page:77
@@ -1613,7 +1613,7 @@ msgstr ""
 #: C/dialogs.page:90
 #, fuzzy
 msgid "Presentation Dialogs"
-msgstr "Contenido de la presentación"
+msgstr "Dialogos de presentación"
 
 #. (itstool) path: section/p
 #: C/dialogs.page:94
