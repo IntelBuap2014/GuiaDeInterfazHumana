@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-05 19:32+0000\n"
-"PO-Revision-Date: 2015-01-11 22:19-0600\n"
+"PO-Revision-Date: 2015-01-12 21:01-0600\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -1327,8 +1327,8 @@ msgid ""
 "stays out of the way when it is not in use, and does not surprise when it is "
 "in use."
 msgstr ""
-"Las interrupciones causan frustración y molestia, y evitan que las personas"
-"se enfoquen en loque les interesa. Diseñe su aplicación para que se queda "
+"Las interrupciones causan frustración y molestia, y evitan que las personas "
+"se enfoquen en lo que les interesa. Diseñe su aplicación para que se queda "
 "fuera cuando no esté en uso, y no sorprenda cuando esté en uso."
 
 #. (itstool) path: section/p
@@ -8643,6 +8643,11 @@ msgid ""
 "too many rows of toolbars reduces the amount of screen space available to "
 "the rest of the application."
 msgstr ""
+"Solo incluir controles para las funciones más importantes. Tener demasiados "
+"controles en la barra de herramientas reduce su eficiencia, haciéndolos más "
+"difícil de encontrar, y demasiadas filas en la barra de herramientas reduce "
+"la cantidad de espacio disponible en la pantalla para el resto de la "
+"aplicación."
 
 #. (itstool) path: item/p
 #: C/toolbars.page:45
@@ -9241,8 +9246,7 @@ msgstr ""
 msgid ""
 "For vertical spacing between groups of components, 18 pixels is adequate."
 msgstr ""
-"Para espaciado vertical entre grupos de componentes, 18 píxeles "
-"es adecuado."
+"Para espaciado vertical entre grupos de componentes, 18 píxeles es adecuado."
 
 #. (itstool) path: item/p
 #: C/visual-layout.page:44
