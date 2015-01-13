@@ -5325,7 +5325,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/lists.page:98
 msgid "Row behavior"
-msgstr ""
+msgstr "Comportamiento de Fila"
 
 #. (itstool) path: section/p
 #: C/lists.page:100
@@ -5333,6 +5333,9 @@ msgid ""
 "Depending on the type of list, rows have different behaviors when they are "
 "clicked or pressed. There are three types of list in this regard:"
 msgstr ""
+"Dependiendo del tipo de lista, las filas tienen diferente comportamiento "
+"cuando ellas son seleccionadas o presionadas con el botón del ratón. En este "
+"sentido, hay tres tipos de listas:"
 
 #. (itstool) path: td/p
 #: C/lists.page:105
@@ -5342,7 +5345,7 @@ msgstr "Tipo de lista"
 #. (itstool) path: td/p
 #: C/lists.page:106
 msgid "Row Behavior"
-msgstr ""
+msgstr "Comportamiento de fila"
 
 #. (itstool) path: td/p
 #: C/lists.page:111
