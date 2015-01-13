@@ -51,8 +51,7 @@ msgstr ""
 "Dario Amigon Espinoza <daramigon@gmail.com>, 2015\n"
 "Yenisei Ramírez Pérez <yeniseirape@gmail.com>, 2015\n"
 "José Roberto Ramíres Mendoza <aczella@gmail.com>, 2015\n"
-"Bernardo Sánchez Romero <b.sanchez.rom@gmail.com>, 2015\n"
-"Emmanuel Márquez Juárez <resident3333@gmail.com>, 2015"
+"Bernardo Sánchez Romero <b.sanchez.rom@gmail.com>, 2015"
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -3354,7 +3353,7 @@ msgstr ""
 #: C/keyboard-input.page:117
 #, fuzzy
 msgid "Access keys"
-msgstr "Teclas de acceso"
+msgstr "Elegir teclas de acceso"
 
 #. (itstool) path: section/p
 #: C/keyboard-input.page:119
