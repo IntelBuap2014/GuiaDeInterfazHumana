@@ -9180,7 +9180,7 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/visual-layout.page:23
 msgid "Arranging elements within a user interface."
-msgstr ""
+msgstr "Orgnizar elementos dentro de una interfaz de usuario."
 
 #. (itstool) path: page/title
 #: C/visual-layout.page:26
