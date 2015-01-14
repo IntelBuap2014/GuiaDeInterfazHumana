@@ -1495,6 +1495,8 @@ msgid ""
 "GTK+ provides a number of stock dialogs that can be used, such as for "
 "printing or color selection."
 msgstr ""
+"GTK + proporciona un número de acciones de diálogos que pueden ser usados, "
+"tales como selección de impresión o de color."
 
 #. (itstool) path: page/p
 #: C/dialogs.page:32
