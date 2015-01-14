@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-05 19:32+0000\n"
-"PO-Revision-Date: 2015-01-13 22:26-0600\n"
+"PO-Revision-Date: 2015-01-13 22:41-0600\n"
 "Last-Translator: Miguel Ajuech <miguel.ann.28@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -285,6 +285,8 @@ msgid ""
 "In GNOME 3, only software that conforms to these characteristics should "
 "install an application launcher."
 msgstr ""
+"En GNOME 3, solamente el software que cumpla estas características debe "
+"instalar un lanzador de aplicaciones."
 
 #. (itstool) path: section/title
 #: C/application-basics.page:49
@@ -1522,7 +1524,8 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/dialogs.page:45
 msgid "In-application notifications are an alternative to message dialogs."
-msgstr "En las aplicaciones las notificaciones son una alternativa a los mensajes de "
+msgstr ""
+"En las aplicaciones las notificaciones son una alternativa a los mensajes de "
 "dialogo."
 
 #. (itstool) path: item/p
