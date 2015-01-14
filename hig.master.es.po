@@ -7765,7 +7765,7 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/selection-mode.page:38
-#, fuzzy
+#, fuzzy Reparada
 msgid "Activating selection mode"
 msgstr "Activando modo de selección"
 
@@ -7780,7 +7780,7 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/selection-mode.page:45
-#, fuzzy
+#, fuzzy Reparada
 msgid "The action bar"
 msgstr "La barra de acciones"
 
