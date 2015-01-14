@@ -2189,7 +2189,7 @@ msgstr ""
 msgid ""
 "Consider combining the grid view search, selection mode and collections."
 msgstr ""
-"Considera combinar a vista de busqueda de la cuadricula, el modo de seleccion y las colecciones."
+"Considera combinar la vista de busqueda de la cuadricula, el modo de seleccion y las colecciones."
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -2207,9 +2207,8 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/header-bar-menus.page:14
-#, fuzzy
 msgid "Header bar menus"
-msgstr "Menús estándar"
+msgstr "Menus de la barra de encabezado"
 
 #. (itstool) path: page/p
 #: C/header-bar-menus.page:18
@@ -2218,6 +2217,9 @@ msgid ""
 "contains actions and options for the current view. These menus are located "
 "at the far right side of the header bar."
 msgstr ""
+"<link xref=\"header-bars\">Barras de Encabezado</link> pueden incluir un menu el cual "
+"contiene acciones y opciones para la vista actual. Estos menus estan localizados "
+"en el extremo derecho de la barra de encabezado."
 
 #. (itstool) path: page/p
 #: C/header-bar-menus.page:20
