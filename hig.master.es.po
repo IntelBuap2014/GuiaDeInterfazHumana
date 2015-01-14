@@ -1499,7 +1499,7 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/dialogs.page:32
 msgid "There are three basic types of dialogs."
-msgstr ""
+msgstr "Hay tres tipos básicos de diálogos"
 
 #. (itstool) path: section/p
 #: C/dialogs.page:37
