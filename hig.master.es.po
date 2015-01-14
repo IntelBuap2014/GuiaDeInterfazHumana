@@ -1404,11 +1404,18 @@ msgid ""
 "beautiful, recognizable application icon, to give your application an "
 "attractive and distinctive visual identity."
 msgstr ""
+"El <link xref=\"application-basics#application-names\">nombre</link> e <link "
+"xref=\"icons-and-artwork#application-icons\">icono</link> de su aplicación "
+"son las dos cosas más expresivas acerca de ella, Así que diseñela para que "
+"comunique su funcionalidad e identidad. Asegúrese de que la gente entienda "
+"el propósito de su aplicación a partir del nombre. Asegúrese de que tiene un "
+"icono de aplicación hermoso y reconocido, para dar a su aplicación una "
+"identidad visual atractiva y distintiva."
 
 #. (itstool) path: section/title
 #: C/design-principles.page:114
 msgid "Use emotion and humor (sparingly)"
-msgstr ""
+msgstr "Use de emoción y humor (con moderación)"
 
 #. (itstool) path: section/p
 #: C/design-principles.page:116
