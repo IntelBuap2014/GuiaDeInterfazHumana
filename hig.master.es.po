@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-05 19:32+0000\n"
-"PO-Revision-Date: 2015-01-12 21:01-0600\n"
+"PO-Revision-Date: 2015-01-13 21:25-0600\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -1519,7 +1519,9 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/dialogs.page:45
 msgid "In-application notifications are an alternative to message dialogs."
-msgstr "En las aplicaciones las notificaciones son una alternativa a los mensajes de dialogo."
+msgstr ""
+"En las aplicaciones las notificaciones son una alternativa a los mensajes de "
+"dialogo."
 
 #. (itstool) path: item/p
 #: C/dialogs.page:46
@@ -7763,7 +7765,7 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/selection-mode.page:38
-#, fuzzy Reparada
+#, fuzzy
 msgid "Activating selection mode"
 msgstr "Activando modo de selección"
 
@@ -7778,7 +7780,7 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/selection-mode.page:45
-#, fuzzy  Reparada
+#, fuzzy
 msgid "The action bar"
 msgstr "La barra de acciones"
 
@@ -8637,7 +8639,7 @@ msgid ""
 msgstr ""
 "Aunque las barras de herramientas son un enfoque común, hay casos donde no "
 "son los más eficaces. Las interfaces que se enfocan en manipulación directa, "
-"o aquellas que hacen uso intensivo de revelación progresiva. pueden ofrecer "
+"o aquellas que hacen uso intensivo de revelación progresiva, pueden ofrecer "
 "una mejor alternativa. Cada uno de estos enfoques requieren mas tiempo y "
 "esfuerzo en la fase de diseño, y solo deben llevarse acabo por aquellos que "
 "confian en alcanzar las soluciones de diseño más originales."
@@ -8664,6 +8666,11 @@ msgid ""
 "save as its first three toolbar buttons. Similarly, the first buttons in a "
 "browser application should be back and forward."
 msgstr ""
+"Utilice hábitos en las barras de herramientas para incrementar la "
+"familiaridad. Por ejemplo, la barra de herramientas principal en un "
+"aplicación de ofimática casi siempre tendrá nuevo, abrir y guardar como sus "
+"primeros tres botones en la barra de herramientas. Similarmente, los "
+"primeros botones en un navegador deberán ser atrás y adelante."
 
 #. (itstool) path: item/p
 #: C/toolbars.page:46
