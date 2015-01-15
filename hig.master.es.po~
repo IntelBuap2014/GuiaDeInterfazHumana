@@ -14,15 +14,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-05 19:32+0000\n"
-"PO-Revision-Date: 2015-01-12 21:01-0600\n"
-"Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
+"PO-Revision-Date: 2015-01-14 13:43-0600\n"
+"Last-Translator: Miguel Ajuech <miguel.ann.28@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #. (itstool) path: p/link
 #: C/legal.xml:5
@@ -46,12 +46,14 @@ msgstr ""
 "Rosa Elena Pérez <rozydicemiau@gmail.com>, 2014\n"
 "Oscar Rafael Arachi <arachi910@gmail.com>, 2014\n"
 "Miguel Ajuech <miguel.ann.28@gmail.com>, 2014\n"
-"Adrian Perez Dominguez <adrian@aztli.org>, 2015\n"
+"Adrián Pérez Domínguez <adrian@aztli.org>, 2015\n"
 "Celina Osorio Ochoa <chelinoska@gmail.com>, 2015\n"
 "Dario Amigon Espinoza <daramigon@gmail.com>, 2015\n"
 "Yenisei Ramírez Pérez <yeniseirape@gmail.com>, 2015\n"
 "José Roberto Ramíres Mendoza <aczella@gmail.com>, 2015\n"
-"Bernardo Sánchez Romero <b.sanchez.rom@gmail.com>, 2015"
+"Bernardo Sánchez Romero <b.sanchez.rom@gmail.com>, 2015\n"
+"Emmanuel Márquez Juárez <resident3333@gmail.com>, 2015\n"
+"David Romero Serrano <lemi136@hotmail.com>, 2015"
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -273,6 +275,9 @@ msgid ""
 "installation and use of 3rd party software, in a way that avoids dependency "
 "issues and ensures simplicity of use."
 msgstr ""
+"En el centro de esta definición es un modelo que permite la instalación "
+"modular y el uso de software de terceras partes, de tal forma que evita "
+"problemas de dependencias y garantiza la simplicidad de su uso. "
 
 #. (itstool) path: section/p
 #: C/application-basics.page:38
@@ -280,6 +285,8 @@ msgid ""
 "In GNOME 3, only software that conforms to these characteristics should "
 "install an application launcher."
 msgstr ""
+"En GNOME 3, solamente el software que cumpla estas características debe "
+"instalar un lanzador de aplicaciones."
 
 #. (itstool) path: section/title
 #: C/application-basics.page:49
@@ -293,6 +300,9 @@ msgid ""
 "and will help them decide whether they want to use an application or not. It "
 "is a major part of your application’s public face."
 msgstr ""
+"El nombre de la aplicación es vital . Es la que los usuarios primero "
+"observan, y los ayudará a decidir si ellos quieren usar una aplicación o no. "
+"Esta es una parte importante del rostro publico de tu aplicación."
 
 #. (itstool) path: section/p
 #: C/application-basics.page:53
@@ -1397,11 +1407,18 @@ msgid ""
 "beautiful, recognizable application icon, to give your application an "
 "attractive and distinctive visual identity."
 msgstr ""
+"El <link xref=\"application-basics#application-names\">nombre</link> e <link "
+"xref=\"icons-and-artwork#application-icons\">icono</link> de su aplicación "
+"son las dos cosas más expresivas acerca de ella, Así que diseñela para que "
+"comunique su funcionalidad e identidad. Asegúrese de que la gente entienda "
+"el propósito de su aplicación a partir del nombre. Asegúrese de que tiene un "
+"icono de aplicación hermoso y reconocido, para dar a su aplicación una "
+"identidad visual atractiva y distintiva."
 
 #. (itstool) path: section/title
 #: C/design-principles.page:114
 msgid "Use emotion and humor (sparingly)"
-msgstr ""
+msgstr "Use de emoción y humor (con moderación)"
 
 #. (itstool) path: section/p
 #: C/design-principles.page:116
@@ -1481,11 +1498,13 @@ msgid ""
 "GTK+ provides a number of stock dialogs that can be used, such as for "
 "printing or color selection."
 msgstr ""
+"GTK + proporciona un número de acciones de diálogos que pueden ser usados, "
+"tales como selección de impresión o de color."
 
 #. (itstool) path: page/p
 #: C/dialogs.page:32
 msgid "There are three basic types of dialogs."
-msgstr ""
+msgstr "Hay tres tipos básicos de diálogos"
 
 #. (itstool) path: section/p
 #: C/dialogs.page:37
@@ -1517,7 +1536,9 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/dialogs.page:45
 msgid "In-application notifications are an alternative to message dialogs."
-msgstr "En las aplicaciones las notificaciones son una alternativa a los mensajes de dialogo."
+msgstr ""
+"En las aplicaciones las notificaciones son una alternativa a los mensajes de "
+"dialogo."
 
 #. (itstool) path: item/p
 #: C/dialogs.page:46
@@ -3353,7 +3374,7 @@ msgstr ""
 #: C/keyboard-input.page:117
 #, fuzzy
 msgid "Access keys"
-msgstr "Elegir teclas de acceso"
+msgstr "Teclas de acceso"
 
 #. (itstool) path: section/p
 #: C/keyboard-input.page:119
@@ -7761,7 +7782,7 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/selection-mode.page:38
-#, fuzzy Reparada
+#, fuzzy
 msgid "Activating selection mode"
 msgstr "Activando modo de selección"
 
@@ -7776,7 +7797,7 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/selection-mode.page:45
-#, fuzzy  Reparada
+#, fuzzy
 msgid "The action bar"
 msgstr "La barra de acciones"
 
@@ -8635,7 +8656,7 @@ msgid ""
 msgstr ""
 "Aunque las barras de herramientas son un enfoque común, hay casos donde no "
 "son los más eficaces. Las interfaces que se enfocan en manipulación directa, "
-"o aquellas que hacen uso intensivo de revelación progresiva. pueden ofrecer "
+"o aquellas que hacen uso intensivo de revelación progresiva, pueden ofrecer "
 "una mejor alternativa. Cada uno de estos enfoques requieren mas tiempo y "
 "esfuerzo en la fase de diseño, y solo deben llevarse acabo por aquellos que "
 "confian en alcanzar las soluciones de diseño más originales."
@@ -8662,6 +8683,11 @@ msgid ""
 "save as its first three toolbar buttons. Similarly, the first buttons in a "
 "browser application should be back and forward."
 msgstr ""
+"Utilice hábitos en las barras de herramientas para incrementar la "
+"familiaridad. Por ejemplo, la barra de herramientas principal en un "
+"aplicación de ofimática casi siempre tendrá nuevo, abrir y guardar como sus "
+"primeros tres botones en la barra de herramientas. Similarmente, los "
+"primeros botones en un navegador deberán ser atrás y adelante."
 
 #. (itstool) path: item/p
 #: C/toolbars.page:46
@@ -9178,7 +9204,7 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/visual-layout.page:23
 msgid "Arranging elements within a user interface."
-msgstr ""
+msgstr "Orgnizar elementos dentro de una interfaz de usuario."
 
 #. (itstool) path: page/title
 #: C/visual-layout.page:26
