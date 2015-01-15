@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-05 19:32+0000\n"
-"PO-Revision-Date: 2015-01-13 22:41-0600\n"
+"PO-Revision-Date: 2015-01-14 13:43-0600\n"
 "Last-Translator: Miguel Ajuech <miguel.ann.28@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -300,6 +300,9 @@ msgid ""
 "and will help them decide whether they want to use an application or not. It "
 "is a major part of your application’s public face."
 msgstr ""
+"El nombre de la aplicación es vital. Es lo que los usuarios primero "
+"observan, y los ayudará a decidir si ellos quieren usar una aplicación o no. "
+"Esta es una parte importante del rostro publico de tu aplicación."
 
 #. (itstool) path: section/p
 #: C/application-basics.page:53
