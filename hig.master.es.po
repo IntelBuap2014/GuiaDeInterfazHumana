@@ -13,8 +13,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
-"POT-Creation-Date: 2015-01-05 19:32+0000\n"
-"PO-Revision-Date: 2015-01-14 13:43-0600\n"
+"POT-Creation-Date: 2015-01-15 07:34+0000\n"
+"PO-Revision-Date: 2015-01-08 18:30+0100\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -84,14 +84,14 @@ msgstr ""
 #: C/sliders.page:7 C/spin-boxes.page:7 C/switches.page:7 C/tabs.page:7
 #: C/text-fields.page:7 C/toolbars.page:7 C/typography.page:7
 #: C/ui-elements.page:7 C/view-switchers.page:8 C/visual-layout.page:7
-#: C/writing-style.page:7
+#: C/writing-style.page:10
 msgid "Allan Day"
 msgstr "Allan Day"
 
 #. (itstool) path: page/title
 #: C/action-bars.page:14
 msgid "Action bars"
-msgstr "Barras de Acción"
+msgstr "Barras de acción"
 
 #. (itstool) path: page/p
 #: C/action-bars.page:18
@@ -143,7 +143,7 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/action-bars.page:30 C/check-boxes.page:32 C/radio-buttons.page:32
-#: C/sidebar-lists.page:42 C/sliders.page:48 C/writing-style.page:31
+#: C/sidebar-lists.page:42 C/sliders.page:48 C/writing-style.page:42
 msgid "Guidelines"
 msgstr "Guías"
 
@@ -415,7 +415,6 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/application-menus.page:39
-#, fuzzy
 msgid "Standard menu items"
 msgstr "Objetos estándar de Menú"
 
@@ -664,7 +663,7 @@ msgstr ""
 #: C/keyboard-input.page:11 C/menu-bars.page:11 C/menus.page:11
 #: C/progress-bars.page:11 C/radio-buttons.page:11 C/sliders.page:11
 #: C/spin-boxes.page:11 C/tabs.page:11 C/text-fields.page:11
-#: C/toolbars.page:11 C/visual-layout.page:11 C/writing-style.page:11
+#: C/toolbars.page:11 C/visual-layout.page:11 C/writing-style.page:14
 msgid "Calum Benson"
 msgstr "Calum Benson"
 
@@ -673,7 +672,7 @@ msgstr "Calum Benson"
 #: C/keyboard-input.page:14 C/menu-bars.page:14 C/menus.page:14
 #: C/progress-bars.page:14 C/radio-buttons.page:14 C/sliders.page:14
 #: C/spin-boxes.page:14 C/tabs.page:14 C/text-fields.page:14
-#: C/toolbars.page:14 C/visual-layout.page:14 C/writing-style.page:14
+#: C/toolbars.page:14 C/visual-layout.page:14 C/writing-style.page:17
 msgid "Adam Elman"
 msgstr "Adam Elman"
 
@@ -682,7 +681,7 @@ msgstr "Adam Elman"
 #: C/keyboard-input.page:17 C/menu-bars.page:17 C/menus.page:17
 #: C/progress-bars.page:17 C/radio-buttons.page:17 C/sliders.page:17
 #: C/spin-boxes.page:17 C/tabs.page:17 C/text-fields.page:17
-#: C/toolbars.page:17 C/visual-layout.page:17 C/writing-style.page:17
+#: C/toolbars.page:17 C/visual-layout.page:17 C/writing-style.page:20
 msgid "Seth Nickell"
 msgstr "Seth Nickell"
 
@@ -691,7 +690,7 @@ msgstr "Seth Nickell"
 #: C/keyboard-input.page:20 C/menu-bars.page:20 C/menus.page:20
 #: C/progress-bars.page:20 C/radio-buttons.page:20 C/sliders.page:20
 #: C/spin-boxes.page:20 C/tabs.page:20 C/text-fields.page:20
-#: C/toolbars.page:20 C/visual-layout.page:20 C/writing-style.page:20
+#: C/toolbars.page:20 C/visual-layout.page:20 C/writing-style.page:23
 msgid "Colin Robertson"
 msgstr "Colin Robertson"
 
@@ -2064,7 +2063,7 @@ msgstr ""
 
 #. (itstool) path: td/p
 #. (itstool) path: info/desc
-#: C/essentials.page:48 C/writing-style.page:23
+#: C/essentials.page:48 C/writing-style.page:33
 msgid "Writing text for your user interface, including capitalization rules."
 msgstr ""
 
@@ -3376,7 +3375,6 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/keyboard-input.page:117
-#, fuzzy
 msgid "Access keys"
 msgstr "Teclas de acceso"
 
@@ -7731,7 +7729,6 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/selection-mode.page:14
-#, fuzzy
 msgid "Selection mode"
 msgstr "Modo de selección"
 
@@ -9354,27 +9351,38 @@ msgid ""
 "respect."
 msgstr ""
 
-#. (itstool) path: page/title
+#. (itstool) path: credit/name
 #: C/writing-style.page:26
+msgid "Ekaterina Gerasimova"
+msgstr "Ekaterina Garasimova"
+
+#. (itstool) path: credit/years
+#. (itstool) path: credit/years
+#: C/writing-style.page:28
+msgid "2015"
+msgstr "2015"
+
+#. (itstool) path: page/title
+#: C/writing-style.page:37
 msgid "Writing style"
-msgstr ""
+msgstr "Escribiendo Estilos"
 
 #. (itstool) path: page/p
-#: C/writing-style.page:28
+#: C/writing-style.page:39
 msgid ""
 "Text plays an important role in user interfaces. Take the time to ensure "
 "that any text you use is clearly written and easy to understand."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/writing-style.page:33
+#: C/writing-style.page:44
 msgid ""
 "Your main goal should be to ensure that text is easy to understand and quick "
 "to read."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/writing-style.page:36
+#: C/writing-style.page:47
 msgid ""
 "Keep text short and to the point. This improves speed of comprehension for "
 "the user. It also reduces the expansion of text when translated (remember "
@@ -9382,7 +9390,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/writing-style.page:37
+#: C/writing-style.page:48
 msgid ""
 "Do not shorten your text to the point of losing meaning. A three-word label "
 "that provides clear information is better than a one-word label that is "
@@ -9391,7 +9399,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/writing-style.page:38
+#: C/writing-style.page:49
 #, fuzzy
 msgid ""
 "Use words, phrases, and concepts that are familiar to the people who will be "
@@ -9411,7 +9419,7 @@ msgstr ""
 "«registro del paciente de la base de datos»."
 
 #. (itstool) path: item/p
-#: C/writing-style.page:39
+#: C/writing-style.page:50
 msgid ""
 "Use the standard GNOME terms when referring to parts of the user interface, "
 "such as ‘pointer’ and ‘window’. You can find a full list of these in the "
@@ -9419,30 +9427,30 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/writing-style.page:40
+#: C/writing-style.page:51
 msgid "Avoid repetition where possible."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/writing-style.page:46
+#: C/writing-style.page:57
 msgid "Capitalization"
 msgstr "Capitalización"
 
 #. (itstool) path: section/p
-#: C/writing-style.page:48
+#: C/writing-style.page:59
 msgid ""
 "Two styles of capitalization are used in GNOME user interfaces: header "
 "capitalization and sentence capitalization."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/writing-style.page:51
+#: C/writing-style.page:62
 #, fuzzy
 msgid "Header Capitalization"
 msgstr "Capitalización de la cabecera"
 
 #. (itstool) path: section/p
-#: C/writing-style.page:53
+#: C/writing-style.page:64
 msgid ""
 "Header capitalization should be used for any headings, including header bar "
 "headings and page, tab and menu titles. It should also be used for short "
@@ -9451,45 +9459,45 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/writing-style.page:55 C/writing-style.page:73
+#: C/writing-style.page:66 C/writing-style.page:84
 msgid "Capitalize the first letter of:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/writing-style.page:58
+#: C/writing-style.page:69
 msgid "All words with four or more letters."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/writing-style.page:59
+#: C/writing-style.page:70
 msgid "Verbs of any length, such as “Be”, “Are”, “Is”, “See” and “Add”."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/writing-style.page:60
+#: C/writing-style.page:71
 msgid "The first and last word."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/writing-style.page:61
+#: C/writing-style.page:72
 msgid "Hyphenated words; for example: “Self-Test” or “Post-Install”."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/writing-style.page:64
+#: C/writing-style.page:75
 msgid ""
 "For example: “Create a Document”, “Find and Replace”, “Document Cannot Be "
 "Found”."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/writing-style.page:69
+#: C/writing-style.page:80
 #, fuzzy
 msgid "Sentence Capitalization"
 msgstr "Capitalización de frase"
 
 #. (itstool) path: section/p
-#: C/writing-style.page:71
+#: C/writing-style.page:82
 msgid ""
 "Sentence capitalization should be used for labels that form sentences or "
 "that run on to other text, including labels for check boxes, radio buttons, "
@@ -9498,42 +9506,42 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/writing-style.page:76
+#: C/writing-style.page:87
 msgid "The first word."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/writing-style.page:77
+#: C/writing-style.page:88
 msgid "Any words normally capitalized in sentences, such as proper nouns."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/writing-style.page:80
+#: C/writing-style.page:91
 msgid ""
 "For example: “The document cannot be found in this location.” “Finding "
 "results for London.”"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/writing-style.page:86
+#: C/writing-style.page:97
 msgid "Ellipses (…)"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/writing-style.page:88
+#: C/writing-style.page:99
 msgid ""
-"Use an ellipsis (…) at the end of a label if the action requires further "
-"input from the user before it can be carried out. For example, <gui>Save As…"
-"</gui>, <gui>Find…</gui> or <gui>Rename…</gui>."
+"Use an ellipsis (…) at the end of a label if further input or confirmation "
+"is required from the user before the action can be carried out. For example, "
+"<gui>Save As…</gui>, <gui>Find…</gui> or <gui>Delete…</gui>."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/writing-style.page:90
+#: C/writing-style.page:103
 msgid ""
-"Do not add an ellipsis to commands like <gui>Properties</gui> or "
+"Do not add an ellipsis to labels such as <gui>Properties</gui> or "
 "<gui>Preferences</gui>. While these commands open windows that can "
-"incorporate further functionality, the label does not specify a particular "
-"action, and therefore does not need to communicate that further input is "
+"incorporate further functionality, the label does not specify an action, and "
+"therefore does not need to communicate that further input or confirmation is "
 "required."
 msgstr ""
 
