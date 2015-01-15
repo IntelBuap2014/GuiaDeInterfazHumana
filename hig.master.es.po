@@ -7815,6 +7815,8 @@ msgstr ""
 #: C/selection-mode.page:49
 msgid "Controls in the action toolbar can have icons or text labels."
 msgstr ""
+"Los controles en la barra de herramientas de acción pueden tener" 
+"íconos o etiquetas de texto."
 
 #. (itstool) path: item/p
 #: C/selection-mode.page:50
