@@ -13,8 +13,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
-"POT-Creation-Date: 2015-01-15 07:34+0000\n"
-"PO-Revision-Date: 2015-01-08 18:30+0100\n"
+"POT-Creation-Date: 2015-01-16 19:43+0000\n"
+"PO-Revision-Date: 2015-01-16 12:05+0100\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -175,7 +175,7 @@ msgstr "Características básicas de la aplicación."
 #. (itstool) path: page/title
 #: C/application-basics.page:14
 msgid "Application basics"
-msgstr "Aplicaciones Basicas"
+msgstr "Conceptos básicos de aplicaciones"
 
 #. (itstool) path: page/p
 #: C/application-basics.page:16
@@ -266,8 +266,8 @@ msgid ""
 "Have a unique name and <link xref=\"icons-and-artwork#application-icons"
 "\">icon</link>."
 msgstr ""
-"Tiene un unico nombre e <link xref=\"icons-and-artwork#application-icons"
-"\">iconos</link>."
+"Tiene un nombre e <link xref=\"icons-and-artwork#application-icons\">icono</"
+"link> únicos."
 
 #. (itstool) path: section/p
 #: C/application-basics.page:36
@@ -276,9 +276,9 @@ msgid ""
 "installation and use of 3rd party software, in a way that avoids dependency "
 "issues and ensures simplicity of use."
 msgstr ""
-"En el centro de esta definición es un modelo que permite la instalación "
+"En el centro de esta definición esta el modelo que permite la instalación "
 "modular y el uso de software de terceras partes, de tal forma que evita "
-"problemas de dependencias y garantiza la simplicidad de su uso. "
+"problemas de dependencias y garantiza la simplicidad de su uso."
 
 #. (itstool) path: section/p
 #: C/application-basics.page:38
@@ -302,8 +302,8 @@ msgid ""
 "is a major part of your application’s public face."
 msgstr ""
 "El nombre de la aplicación es vital. Es lo que los usuarios primero "
-"observan, y los ayudará a decidir si ellos quieren usar una aplicación o no. "
-"Esta es una parte importante del rostro publico de tu aplicación."
+"observan, y les ayudará a decidir si ellos quieren usar una aplicación o no. "
+"Esta es una parte importante de la cara pública de su aplicación."
 
 #. (itstool) path: section/p
 #: C/application-basics.page:53
@@ -416,7 +416,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/application-menus.page:39
 msgid "Standard menu items"
-msgstr "Objetos estándar de Menú"
+msgstr "Objetos estándar del menú"
 
 #. (itstool) path: section/p
 #: C/application-menus.page:41
@@ -429,10 +429,8 @@ msgstr ""
 
 #. (itstool) path: td/p
 #: C/application-menus.page:45
-#, fuzzy
-#| msgid "<gui>New</gui>"
 msgid "<gui>New Window</gui>"
-msgstr "<gui>Nueva Ventana</gui>"
+msgstr "<gui>Ventana nueva</gui>"
 
 #. (itstool) path: td/p
 #: C/application-menus.page:46
@@ -769,9 +767,8 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/buttons.page:47
-#, fuzzy
 msgid "Text buttons"
-msgstr "Botones de Texto"
+msgstr "Botones de texto"
 
 #. (itstool) path: item/p
 #: C/buttons.page:50
@@ -1340,7 +1337,7 @@ msgid ""
 "in use."
 msgstr ""
 "Las interrupciones causan frustración y molestia, y evitan que las personas "
-"se enfoquen en lo que les interesa. Diseñe su aplicación para que se queda "
+"se centren en lo que les interesa. Diseñe su aplicación para que se queda "
 "fuera cuando no esté en uso, y no sorprenda cuando esté en uso."
 
 #. (itstool) path: section/p
@@ -1350,9 +1347,10 @@ msgid ""
 "avoid spontaneously popping up dialogs without user intent, and avoid "
 "disruptive feedback mechanisms like message dialogs."
 msgstr ""
-"Use <link xref=\"notifications\">notificaciones</link> con modreación, "
+"Use las <link xref=\"notifications\">notificaciones</link> con moderación, "
 "evitando siempre la aparición de diálogos sin la intención del usuario, y "
-"evitando mecanismos disruptivos de feedback como mensajes de diálogo"
+"evitando mecanismos disruptivos de retroalimentación como mensajes de "
+"diálogo."
 
 #. (itstool) path: section/title
 #: C/design-principles.page:91
@@ -1407,13 +1405,13 @@ msgid ""
 "beautiful, recognizable application icon, to give your application an "
 "attractive and distinctive visual identity."
 msgstr ""
-"El <link xref=\"application-basics#application-names\">nombre</link> e <link "
-"xref=\"icons-and-artwork#application-icons\">icono</link> de su aplicación "
-"son las dos cosas más expresivas acerca de ella, Así que diseñela para que "
-"comunique su funcionalidad e identidad. Asegúrese de que la gente entienda "
-"el propósito de su aplicación a partir del nombre. Asegúrese de que tiene un "
-"icono de aplicación hermoso y reconocido, para dar a su aplicación una "
-"identidad visual atractiva y distintiva."
+"El <link xref=\"application-basics#application-names\">nombre</link> y el "
+"<link xref=\"icons-and-artwork#application-icons\">icono</link> de su "
+"aplicación son las dos cosas más expresivas acerca de ella, Así que diséñela "
+"para que comunique su funcionalidad e identidad. Asegúrese de que la gente "
+"entienda el propósito de su aplicación a partir del nombre. Asegúrese de que "
+"tiene un icono de aplicación bonito y reconocible, para dar a su aplicación "
+"una identidad visual atractiva y distintiva."
 
 #. (itstool) path: section/title
 #: C/design-principles.page:114
@@ -1498,13 +1496,13 @@ msgid ""
 "GTK+ provides a number of stock dialogs that can be used, such as for "
 "printing or color selection."
 msgstr ""
-"GTK + proporciona un número de acciones de diálogos que pueden ser usados, "
-"tales como selección de impresión o de color."
+"GTK+ proporciona un número de diálogos del almacén que se pueden usar, por "
+"ejemplo para la impresión o la selección de color."
 
 #. (itstool) path: page/p
 #: C/dialogs.page:32
 msgid "There are three basic types of dialogs."
-msgstr "Hay tres tipos básicos de diálogos"
+msgstr "Hay tres tipos básicos de diálogos."
 
 #. (itstool) path: section/p
 #: C/dialogs.page:37
@@ -1537,8 +1535,8 @@ msgstr ""
 #: C/dialogs.page:45
 msgid "In-application notifications are an alternative to message dialogs."
 msgstr ""
-"En las aplicaciones las notificaciones son una alternativa a los mensajes de "
-"dialogo."
+"En las aplicaciones, las notificaciones son una alternativa a los mensajes "
+"de dialogo."
 
 #. (itstool) path: item/p
 #: C/dialogs.page:46
@@ -1549,9 +1547,8 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/dialogs.page:52
-#, fuzzy
 msgid "Message Dialogs"
-msgstr "Diálogos de Mensaje"
+msgstr "Mensajes de diálogo"
 
 #. (itstool) path: section/p
 #: C/dialogs.page:56
@@ -1601,9 +1598,8 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/dialogs.page:73
-#, fuzzy
 msgid "Action Dialogs"
-msgstr "Diálogos de Acción"
+msgstr "Diálogos de acción"
 
 #. (itstool) path: section/p
 #: C/dialogs.page:77
@@ -1634,9 +1630,8 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/dialogs.page:90
-#, fuzzy
 msgid "Presentation Dialogs"
-msgstr "Dialogos de presentación"
+msgstr "Diálogos de presentación"
 
 #. (itstool) path: section/p
 #: C/dialogs.page:94
@@ -2191,7 +2186,8 @@ msgstr ""
 msgid ""
 "Consider combining the grid view search, selection mode and collections."
 msgstr ""
-"Considera combinar la vista de busqueda de la cuadricula, el modo de seleccion y las colecciones."
+"Considere combinar la vista de búsqueda de la cuadrícula, el modo de "
+"selección y las colecciones."
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -2210,7 +2206,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/header-bar-menus.page:14
 msgid "Header bar menus"
-msgstr "Menus de la barra de encabezado"
+msgstr "Menús de la barra de encabezado"
 
 #. (itstool) path: page/p
 #: C/header-bar-menus.page:18
@@ -2219,9 +2215,9 @@ msgid ""
 "contains actions and options for the current view. These menus are located "
 "at the far right side of the header bar."
 msgstr ""
-"<link xref=\"header-bars\">Barras de Encabezado</link> pueden incluir un menu el cual "
-"contiene acciones y opciones para la vista actual. Estos menus estan localizados "
-"en el extremo derecho de la barra de encabezado."
+"Las <link xref=\"header-bars\">barras de encabezado</link> pueden incluir un "
+"menú que contiene acciones y opciones para la vista actual. Estos menús se "
+"encuentran en el extremo derecho de la barra de encabezado."
 
 #. (itstool) path: page/p
 #: C/header-bar-menus.page:20
@@ -5350,7 +5346,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/lists.page:98
 msgid "Row behavior"
-msgstr "Comportamiento de Fila"
+msgstr "Comportamiento de la fila"
 
 #. (itstool) path: section/p
 #: C/lists.page:100
@@ -5359,7 +5355,7 @@ msgid ""
 "clicked or pressed. There are three types of list in this regard:"
 msgstr ""
 "Dependiendo del tipo de lista, las filas tienen diferente comportamiento "
-"cuando ellas son seleccionadas o presionadas con el botón del ratón. En este "
+"cuando ellas se seleccionan o pulsan con el botón del ratón. En este "
 "sentido, hay tres tipos de listas:"
 
 #. (itstool) path: td/p
@@ -5370,7 +5366,7 @@ msgstr "Tipo de lista"
 #. (itstool) path: td/p
 #: C/lists.page:106
 msgid "Row Behavior"
-msgstr "Comportamiento de fila"
+msgstr "Comportamiento de la fila"
 
 #. (itstool) path: td/p
 #: C/lists.page:111
@@ -7021,9 +7017,9 @@ msgid ""
 "not rely on dialogs or secondary windows in order to present basic "
 "functionality."
 msgstr ""
-"La ventana principal debe alojar la principal funcionabilidad de su "
-"aplicación. No se base en dialogos o ventanas secundarias a fin de preserbar "
-"funcionalidades básicas."
+"La ventana principal debe contener la principal funcionalidad de su "
+"aplicación. No se base en diálogos o ventanas secundarias con el fin de "
+"preservar funcionalidades básicas."
 
 #. (itstool) path: item/p
 #: C/primary-windows.page:62
@@ -7605,7 +7601,6 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/search.page:32
-#, fuzzy
 msgid "The search bar"
 msgstr "La barra de búsqueda"
 
@@ -7619,8 +7614,8 @@ msgid ""
 msgstr ""
 "El estándar para buscar en GNOME 3 utiliza una barra de búsqueda especial "
 "que se desliza en la parte inferior de la barra de encabezado. En la ventana "
-"primaria, la barra de búsqueda esta típicamente oculta y es activada por el "
-"usuario. Existen tres manera de activar la búsqueda en este contexto:"
+"primaria, la barra de búsqueda esta típicamente oculta y la activa el "
+"usuario. Existen tres maneras de activar la búsqueda en este contexto:"
 
 #. (itstool) path: item/p
 #: C/search.page:39
@@ -7710,7 +7705,7 @@ msgid ""
 "Results should be ordered in a way that ensures that the most relevant items "
 "are displayed first."
 msgstr ""
-"Los resultados deben ser ordenados de tal manera que se asegure que los "
+"Los resultados se deben ordenar de tal manera que se asegure que los "
 "resultados más relevantes se muestren primero."
 
 #. (itstool) path: media
@@ -7783,9 +7778,8 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/selection-mode.page:38
-#, fuzzy
 msgid "Activating selection mode"
-msgstr "Activando modo de selección"
+msgstr "Activar el modo de selección"
 
 #. (itstool) path: section/p
 #: C/selection-mode.page:40
@@ -7798,7 +7792,6 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/selection-mode.page:45
-#, fuzzy
 msgid "The action bar"
 msgstr "La barra de acciones"
 
@@ -7815,8 +7808,8 @@ msgstr ""
 #: C/selection-mode.page:49
 msgid "Controls in the action toolbar can have icons or text labels."
 msgstr ""
-"Los controles en la barra de herramientas de acción pueden tener" 
-"íconos o etiquetas de texto."
+"Los controles en la barra de herramientas de acción pueden tener iconos o "
+"etiquetas de texto."
 
 #. (itstool) path: item/p
 #: C/selection-mode.page:50
@@ -8595,10 +8588,10 @@ msgid ""
 "display additional information, this should only be done when it is "
 "necessary."
 msgstr ""
-"Cuando un usuario quiera apoyarse de información adicional para usar un "
-"campo de entrada de texto, este puede estar pre-llenado con un texto de "
-"sugerencia. Como cualquier decisión para desplegar información adicional, "
-"este deberá hacerse solo cuando sea necesario."
+"Cuando un usuario quiera apoyarse en información adicional para usar un "
+"campo de entrada de texto, este puede estar rellenado previamente con un "
+"texto de sugerencia. Como cualquier decisión para desplegar información "
+"adicional, esto deberá hacerse solo cuando sea necesario."
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -8642,10 +8635,10 @@ msgid ""
 "bars."
 msgstr ""
 "Utilice una barra de herramientas para proporcionar acceso a acciones, "
-"herramientas u opciones comunes en ventanas principales. Las <link xref=\\"
-"\"header-bars\\\">Barras de encabezado</link> también realizan este rol, y "
-"una barra de herramientas generalmente no es necesaria si está usando barras "
-"de encabezado."
+"herramientas u opciones comunes en ventanas principales. Las <link xref="
+"\"header-bars\">barras de encabezado</link> también realizan este rol, y una "
+"barra de herramientas generalmente no es necesaria si está usando barras de "
+"encabezado."
 
 #. (itstool) path: section/p
 #: C/toolbars.page:36
@@ -8672,7 +8665,7 @@ msgid ""
 "too many rows of toolbars reduces the amount of screen space available to "
 "the rest of the application."
 msgstr ""
-"Solo incluir controles para las funciones más importantes. Tener demasiados "
+"Incluya controles solo para las funciones más importantes. Tener demasiados "
 "controles en la barra de herramientas reduce su eficiencia, haciéndolos más "
 "difícil de encontrar, y demasiadas filas en la barra de herramientas reduce "
 "la cantidad de espacio disponible en la pantalla para el resto de la "
@@ -8686,11 +8679,11 @@ msgid ""
 "save as its first three toolbar buttons. Similarly, the first buttons in a "
 "browser application should be back and forward."
 msgstr ""
-"Utilice hábitos en las barras de herramientas para incrementar la "
+"Utilice convenios en las barras de herramientas para incrementar la "
 "familiaridad. Por ejemplo, la barra de herramientas principal en un "
-"aplicación de ofimática casi siempre tendrá nuevo, abrir y guardar como sus "
+"aplicación de ofimática casi siempre tendrá Nuevo, Abrir y Guardar como sus "
 "primeros tres botones en la barra de herramientas. Similarmente, los "
-"primeros botones en un navegador deberán ser atrás y adelante."
+"primeros botones en un navegador deberán ser Atrás y Adelante."
 
 #. (itstool) path: item/p
 #: C/toolbars.page:46
@@ -9354,9 +9347,8 @@ msgstr ""
 #. (itstool) path: credit/name
 #: C/writing-style.page:26
 msgid "Ekaterina Gerasimova"
-msgstr "Ekaterina Garasimova"
+msgstr "Ekaterina Gerasimova"
 
-#. (itstool) path: credit/years
 #. (itstool) path: credit/years
 #: C/writing-style.page:28
 msgid "2015"
@@ -9365,7 +9357,7 @@ msgstr "2015"
 #. (itstool) path: page/title
 #: C/writing-style.page:37
 msgid "Writing style"
-msgstr "Escribiendo Estilos"
+msgstr "Escribiendo estilos"
 
 #. (itstool) path: page/p
 #: C/writing-style.page:39
