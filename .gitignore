@@ -1,0 +1,2 @@
+#Exluimos unicamente el archivo con extension .mo
+*.mo
