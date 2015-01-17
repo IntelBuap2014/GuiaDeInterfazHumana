@@ -395,7 +395,7 @@ msgstr "Guías Generales"
 #. (itstool) path: item/p
 #: C/application-menus.page:31
 msgid "Follow the standard <link xref=\"menus\">guidance for menus</link>."
-msgstr ""
+msgstr "Seguir los estadares <link xref=\"menus\">guias para menus</link>."
 
 #. (itstool) path: item/p
 #: C/application-menus.page:32
@@ -444,7 +444,6 @@ msgstr ""
 
 #. (itstool) path: td/p
 #: C/application-menus.page:49
-#, fuzzy
 #| msgid "<gui>Refresh</gui>"
 msgid "<gui>Preferences</gui>"
 msgstr "<gui>Preferencias</gui>"
@@ -472,7 +471,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/application-menus.page:57 C/keyboard-input.page:290
 msgid "<gui>About</gui>"
-msgstr ""
+msgstr "<gui>Acerca de</gui>"
 
 #. (itstool) path: td/p
 #: C/application-menus.page:58
@@ -1114,9 +1113,8 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/design-principles.page:14
-#, fuzzy
 msgid "Design principles"
-msgstr "Principios de usabilidad"
+msgstr "Principios de diseño"
 
 #. (itstool) path: page/p
 #: C/design-principles.page:16
@@ -1901,7 +1899,7 @@ msgstr "hay poco espacio disponible"
 #. (itstool) path: item/p
 #: C/drop-down-lists.page:24
 msgid "The list of options may change over time."
-msgstr ""
+msgstr "La lista de opciones podria cambiar a través del tiempo"
 
 #. (itstool) path: item/p
 #: C/drop-down-lists.page:25
