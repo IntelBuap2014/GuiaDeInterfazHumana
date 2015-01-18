@@ -7560,9 +7560,9 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/search.page:14
-#, fuzzy
+#, fuzzy - Reparada
 msgid "Search"
-msgstr "Herramienta de búsqueda"
+msgstr "Búsqueda"
 
 #. (itstool) path: page/p
 #: C/search.page:18
@@ -7588,6 +7588,9 @@ msgid ""
 "looking for, and its consistent availability means that users can rely on "
 "and expect it to be present."
 msgstr ""
+"Búsqueda es una gran manera fácil para que los usuarios encuentren qué es "
+"lo que están buscando, y su disponibilidad constante, significa que los "
+"usuarios pueden confiar y esperar que esté presente."
 
 #. (itstool) path: section/p
 #: C/search.page:27
@@ -7596,6 +7599,10 @@ msgid ""
 "others will not. Therefore, try to supplement other means for finding "
 "content items with search, rather than relying on it exclusively."
 msgstr ""
+"Sin embargo, mientras que la búsqueda puede ser muy eficaz, y algunos "
+"usuarios la usarán, otros no. Por lo tanto, trate de complementar otros "
+"medios para encontrar los elementos con la búsqueda, en lugar de confiar "
+"exclusivamente en esta."
 
 #. (itstool) path: section/title
 #: C/search.page:32
@@ -7651,7 +7658,7 @@ msgstr ""
 #: C/search.page:49
 #, fuzzy
 msgid "Search results"
-msgstr "Herramienta de búsqueda"
+msgstr "Resultados de la búsqueda"
 
 #. (itstool) path: item/p
 #: C/search.page:52
@@ -7666,6 +7673,8 @@ msgid ""
 "In order to be effective, it is important that search results are quickly "
 "returned."
 msgstr ""
+"Con el fin de ser eficaz, es importante que los resultados de la búsqueda "
+"sean devueltos rápidamente."
 
 #. (itstool) path: item/p
 #: C/search.page:54
@@ -7676,9 +7685,9 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/search.page:60
-#, fuzzy
+#, fuzzy - Reparado
 msgid "Additional Guidance"
-msgstr "Botones adicionales"
+msgstr "Directrices adicionales"
 
 #. (itstool) path: item/p
 #: C/search.page:63
