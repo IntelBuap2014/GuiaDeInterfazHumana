@@ -1364,6 +1364,11 @@ msgid ""
 "function, it is vital that it is as immediate as possible, and that it "
 "returns the results that are sought by your users."
 msgstr ""
+"<link xref=\"search\">Search</link> es un poderoso mecanismo que puede ser "
+"utilizado para encontrar rápidamente contenido. Siempre le proporciona "
+"grandes cantidades de contenido, Ya sea en forma de listas o tablas. Cuando "
+"provee una función de búsqueda, es vital que sea tan inmediata como sea "
+"posible, y que devuelva los resultados buscados por los usuarios."
 
 #. (itstool) path: section/p
 #: C/design-principles.page:95
@@ -1372,6 +1377,9 @@ msgid ""
 "search into this gives people a quick and easy way to access the content "
 "provided by your application."
 msgstr ""
+"GNOME 3 también ofrece un servicio integrado de búsqueda. Integrar búsqueda "
+"en la aplicación da a la gente una manera rápida y fácil para acceder a los "
+"contenidos proporcionados por su aplicación."
 
 #. (itstool) path: section/title
 #: C/design-principles.page:100
@@ -1386,6 +1394,11 @@ msgid ""
 "to make the default behaviour of your application work for as many people as "
 "possible."
 msgstr ""
+"Agregar opciones a menudo parece ser una solución de diseño simple. Sin "
+"embargo, la mayoría de la gente nunca ve o utiliza las opciones de "
+"configuración. En lugar de agregar opciones, intentan hacer el "
+"comportamiento por defecto de su trabajo de aplicación para tantas personas "
+"como sea posible."
 
 #. (itstool) path: section/title
 #: C/design-principles.page:107
@@ -1425,6 +1438,12 @@ msgid ""
 "to pick a small number of moments to use emotion, rather than spraying them "
 "throughout your user interface."
 msgstr ""
+"Utilizado eficazmente, emoción y humor pueden levantar la experiencia  "
+"proporcionada por su aplicación, y ayudar a desarrollar una relación "
+"positiva con los usuarios. Sea cuidadoso de no abusar de estas técnicas, "
+"sin embargo - es mucho más efectivo recoger una pequeña cantidad de "
+"momentos para utilizar la emoción, en lugar de esparcirlas a lo largo de la"
+"interfaz de usuario."
 
 #. (itstool) path: section/p
 #: C/design-principles.page:118
@@ -1432,6 +1451,8 @@ msgid ""
 "Be welcoming when your application is used for the first time. Using humor "
 "when things go wrong is another effective technique."
 msgstr ""
+"Sea acogedor cuando su aplicación sea utilizada por primera vez. Usar humor "
+"cuando las cosas van mal es otra técnica efectiva."
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -1487,6 +1508,9 @@ msgid ""
 "They are used to present additional information or controls, including "
 "preferences and properties, or to present messages or questions."
 msgstr ""
+"Los diálogos son ventanas secundarias que aparecen sobre una primaria, "
+"ventana padre. Se utilizan para presentar información adicional o controles, "
+"incluyendo las preferencias y propiedades, o presentar mensajes o preguntas."
 
 #. (itstool) path: page/p
 #: C/dialogs.page:30
@@ -1509,6 +1533,10 @@ msgid ""
 "conventions for the different types of dialogs that you might want to use. "
 "The guidelines on each type of dialog provides further information on this."
 msgstr ""
+"Los diálogos son comunmente un patron de diseño reconocido, y hay "
+"convenciones establecidas para los diferentes tipos de diálogos que tal vez "
+"quiera usar. Las directrices sobre cada tipo de diálogo ofrece información "
+"adicional sobre esto."
 
 #. (itstool) path: section/p
 #: C/dialogs.page:39
@@ -1518,6 +1546,11 @@ msgid ""
 "this reason, always question whether a dialog is necessary, and work to "
 "avoid the situations in which they are required."
 msgstr ""
+"Mientras que los diálogos pueden ser una forma efectiva de divulgar "
+"controles adicionales o información, tambien pueden ser una fuente de "
+"interrupción para los usuarios. Por esta razon, siempre cuestiona si es "
+"necesario un diálogo, y trabajar para evitar las situaciones en las que "
+"se requieren."
 
 #. (itstool) path: section/p
 #: C/dialogs.page:41
