@@ -8689,6 +8689,8 @@ msgid ""
 "Place only the most commonly-used application functions on your toolbars. "
 "Don’t just add buttons for every menu item."
 msgstr ""
+"Coloque solo las funciones de la aplicación mas utilizadas en sus barras de "
+"herramientas. No solo agregue botones por cada elemento de menú."
 
 #. (itstool) path: item/p
 #: C/toolbars.page:47
@@ -8698,6 +8700,11 @@ msgid ""
 "an equivalent menu item) or indirectly (e.g. in the <guiseq><gui>Options</"
 "gui><gui>Settings</gui></guiseq> dialog)."
 msgstr ""
+"Si esta usando una <link xref=\"menu-bars\">barra de menú</link>, asegúrese "
+"que éste incluya todas las funciones que aparecen en su barra de "
+"herramientas, ya sea directamente (es decir, un elemento de menú "
+"equivalente) o indirectamente(por ejemplo, en el dialogo de "
+"<guiseq><gui>Opciones</gui> de <gui>Configuración</gui></guiseq>."
 
 #. (itstool) path: item/p
 #: C/toolbars.page:48
