@@ -8725,6 +8725,12 @@ msgid ""
 "the toolbar to do so without sacrificing more useful, application-specific "
 "controls."
 msgstr ""
+"Las barras de herramientas no deben incluir los botones de <gui>Ayuda</gui>, "
+"<gui>Cerrar</gui> o <gui>Salir</gui>, ya que estos son usados rara vez y el "
+"espacio es utilizado mejor para controles más útiles. Similarmente, solo "
+"poner los botones de <gui>Deshacer</gui>, <gui>Rehacer</gui> y las funciones "
+"estándar del portapapeles, si hay espacio en la barra de herramientas para "
+"hacerlo sin sacrificar lo mas útil, controles específicos de la aplicación."
 
 #. (itstool) path: item/p
 #: C/toolbars.page:49
