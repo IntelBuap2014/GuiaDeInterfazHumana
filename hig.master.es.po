@@ -804,6 +804,9 @@ msgid ""
 "Keep labels short, so they don't cause a button to use too much space. It is "
 "also important to consider how labels will change length when localized."
 msgstr ""
+"Guardar etiqutas cortas, que no causen un botón que use demasiado espacio. "
+"También es importante considerar como las etiquetas cambiarán de longitud cuando "
+"se muevan de lugar. "
 
 #. (itstool) path: section/title
 #: C/buttons.page:59
