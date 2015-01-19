@@ -9640,6 +9640,8 @@ msgid ""
 "For example: “Create a Document”, “Find and Replace”, “Document Cannot Be "
 "Found”."
 msgstr ""
+"Por ejemplo: “Crear un Documento”, “Encontrar y Reemplazar”, “Documento No "
+"Encontrado”."
 
 #. (itstool) path: section/title
 #: C/writing-style.page:80
