@@ -1819,6 +1819,8 @@ msgid ""
 "This button order ensures that users become aware of, and are reminded of, "
 "the ability to cancel prior to encountering the affirmative button."
 msgstr ""
+"Este orden de los botones asegura que los usuarios tomen conciencia, y "
+"recuerden, la posibilidad de cancelar antes de encontrar el botón afirmativo."
 
 #. (itstool) path: section/title
 #: C/dialogs.page:132
