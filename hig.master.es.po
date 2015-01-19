@@ -6517,6 +6517,8 @@ msgid ""
 "Do not require the use of chording (pressing multiple mouse buttons "
 "simultaneously) for any operations."
 msgstr ""
+"No requiere el uso de combinación de teclas(presionando simultamente  los mútiples 
+botones del ratón) solo para algunas operaciones"
 
 #. (itstool) path: item/p
 #: C/pointer-and-touch-input.page:46
