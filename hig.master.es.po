@@ -9311,6 +9311,11 @@ msgid ""
 "simpler your layout will appear, and the easier it will be for people to "
 "understand."
 msgstr ""
+"Un punto de alineación es una linea imaginaria vertical u horizontal a "
+"través de su ventana que toca el borde de una o más etiquetas o controles "
+"en la ventana. Minimizar el numero de estos - entre menos existan, más "
+"limpio y simple aparecera su diseño, y más fácil de entender sera para "
+"las personas."
 
 #. (itstool) path: item/p
 #: C/visual-layout.page:37
@@ -9413,7 +9418,7 @@ msgstr "Jerarquia visual"
 #: C/visual-layout.page:73
 msgid ""
 "Organize visual elements from top-to-bottom and left-to-right. This is the "
-"direction that people from western locales tend to read an interface, so "
+"direction that people from western locales tend to aread an interface, so "
 "that the items at the top-left will be encountered first. This ordering "
 "gives interfaces a hierarchy: those components that are viewed first are "
 "perceived to have priority over those that come after them. For this reason, "
