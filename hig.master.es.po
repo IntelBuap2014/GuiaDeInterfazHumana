@@ -5581,6 +5581,10 @@ msgid ""
 "items may increase over time. For options lists, check boxes or radio "
 "buttons can be used as an alternative in this case."
 msgstr ""
+"No usar listas con menos de cinco elementos, a menos que el número de "
+"elementos pueda incrementar con el tiempo. Para listas de opciones, "
+"casillas de selección o botones de selección excluyentes pueden ser "
+"utilizados como una alternativa en este caso."
 
 #. (itstool) path: item/p
 #: C/lists.page:137
@@ -5590,6 +5594,11 @@ msgid ""
 "or contacts that are online might be more interesting than those who are "
 "offline, for example."
 msgstr ""
+"Garantizar que las listas están ordenadas de forma que sean útiles para "
+"aquellos que las están usando. Por ejemplo, documentos recientes podrían "
+"ser más útiles que documentos ordenados alfabéticamente, o contactos que "
+"podrían estar en línea ser más interesantes que aquellos que están "
+"desconectados."
 
 #. (itstool) path: item/p
 #: C/lists.page:138
