@@ -5496,6 +5496,10 @@ msgid ""
 "new view or opening a dialog. This pattern is common for lists of content "
 "items, or for presenting groups of settings."
 msgstr ""
+"Seleccionar una fila abre el elemento correspondiente, si se esta navegando a "
+"una nueva vista o si se está abriendo un cuadro de dialogo. Este patrón es "
+"común para listas de elementos de contenido, o para presentar grupos de "
+"configuraciones."
 
 #. (itstool) path: td/p
 #: C/lists.page:115
@@ -5511,6 +5515,11 @@ msgid ""
 "case of <link xref=\"drop-down-lists\">drop-down lists</link>, one option is "
 "always selected. The selected row is indicated by a check mark."
 msgstr ""
+"El elemento de la lista se selecciona al hacer clic en él. Este enfoque se "
+"usa comunmente para seleccionar una de una serie de opciones de configuración. "
+"En el caso de <link xref=\"drop-down-lists\">menú desplegable</link>, "
+"una opción es siempre seleccionada. La fila seleccionada se indica por una "
+"marca de verificación."
 
 #. (itstool) path: td/p
 #: C/lists.page:120
@@ -5518,6 +5527,9 @@ msgid ""
 "Selecting the row item turns the row into a text entry field, which allows "
 "the item to be edited."
 msgstr ""
+"Seleccionar la fila convierte a la fila en un campo de texto, que permite "
+"que el elemento sea editado."
+
 
 #. (itstool) path: section/p
 #: C/lists.page:125
@@ -5527,6 +5539,11 @@ msgid ""
 "manipulated. Using double-click to open list items should be avoided, since "
 "it is undiscoverable and is incompatible with touch input."
 msgstr ""
+"Los estilos de las listas de navegación pueden combinarse con "
+"<link xref=\"selection-mode\">Función de selección</link> para permitir "
+"a las filas ser abiertas y manipuladas a la vez. Usar doble clic para abrir "
+"elementos de lista debería evitarse, pues es incompatible e irreconocible "
+"por la entrada táctil."
 
 #. (itstool) path: item/p
 #: C/lists.page:133
@@ -5536,6 +5553,10 @@ msgid ""
 "important and relevant information by giving other information a lighter "
 "weight and/or color."
 msgstr ""
+"Distingue los diferentes tipos de información usando alineaciones diferentes, "
+"<link xref=\"typography\">colores de texto y pesos</link>. Resalta la "
+"información más importante y relevante dando otra información de un color "
+"y/o peso más claro."
 
 #. (itstool) path: item/p
 #: C/lists.page:134
@@ -5543,6 +5564,8 @@ msgid ""
 "Be careful not to overpopulate lists with different columns and elements, "
 "and ensure that you only use them to present essential information."
 msgstr ""
+"Cuidado, no sobrepoblar listas con elementos y columnas diferentes, "
+"y asegurarse de usarlas sólo para presentar información esencial."
 
 #. (itstool) path: item/p
 #: C/lists.page:135
@@ -5550,6 +5573,8 @@ msgid ""
 "As a rule of thumb, avoid using several lists in the same window, "
 "particularly primary windows."
 msgstr ""
+"Como regla general, evitar usar muchas listas en la misma ventana, "
+"particulamente ventanas primarias."
 
 #. (itstool) path: item/p
 #: C/lists.page:136
