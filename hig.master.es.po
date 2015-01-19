@@ -1660,6 +1660,10 @@ msgid ""
 "action) and two primary buttons - one which allows the action to be carried "
 "out and one which cancels it."
 msgstr ""
+"Los diálogos de acción presentan opciones e información sobre una acción "
+"específica antes de que se lleva a cabo. Tienen un título (que normalmente "
+"describe la acción) y dos botones primarios - uno que permite la acción a "
+"realizar y uno que la cancela."
 
 #. (itstool) path: section/p
 #: C/dialogs.page:79
