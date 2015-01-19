@@ -1153,6 +1153,7 @@ msgstr ""
 #: C/design-principles.page:28
 msgid "Keep user interface complexity to a minimum"
 msgstr ""
+"Mantenga la complejidad de la interfaz de usuario al mínimo"
 
 #. (itstool) path: section/p
 #: C/design-principles.page:30
