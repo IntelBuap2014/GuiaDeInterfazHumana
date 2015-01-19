@@ -1763,6 +1763,10 @@ msgid ""
 "dialogs have a close button in their header bar, like a <link xref=\"primary-"
 "windows\">primary window</link>."
 msgstr ""
+"La aplicacion instantanea debe utilizarse siempre que sea posible. Los "
+"diálogos de presentación aplicados al instante tienen un botón cerrar en la "
+"barra de encabezado, como una <link xref=\"primary-windows\">ventana "
+"primaria</link>."
 
 #. (itstool) path: section/p
 #: C/dialogs.page:112
