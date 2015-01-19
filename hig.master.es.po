@@ -1846,6 +1846,8 @@ msgid ""
 "Follow the <link xref=\"visual-layout\">layout guidelines</link> when "
 "designing the content of windows."
 msgstr ""
+"Siga las <link xref=\"visual-layout\">guías de etiqueta</link> cuando "
+"esté diseñando el contenido de ventanas."
 
 #. (itstool) path: item/p
 #: C/dialogs.page:160
