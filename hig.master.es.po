@@ -2055,6 +2055,8 @@ msgid ""
 "<link xref=\"design-principles\"><em style=\"strong\">Design principles</"
 "em></link>"
 msgstr ""
+"<link xref=\"design-principles\"><em style=\"strong\">Principios de diseño</"
+"em></link>"
 
 #. (itstool) path: td/p
 #: C/essentials.page:26
