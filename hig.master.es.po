@@ -2920,7 +2920,13 @@ msgid ""
 "specific rendering is required to sizes of 48x48px, 32x32px, 24x24px and "
 "16x16px. Many GNOME icons also ship a 22x22px size for legacy reasons, but "
 "that isn’t required."
-msgstr ""
+msgstr 
+"Aunque no es tan critico, hay áreas todavía donde los iconos de las "
+"aplicaciones son presentados en tamaño pequeño. Para mantener el icono "
+"agudo y bien definido es requerida una renderización especifica a los "
+"tamaños de 48x48px 32x32px, 24x24px y 16x16px. Muchos iconos de GNOME "
+"también envían un tamaño de 22x22px por razones de compatibilidad, pero "
+"eso no es requerido."
 
 #. (itstool) path: section/p
 #: C/icons-and-artwork.page:85
