@@ -1069,6 +1069,7 @@ msgstr ""
 #: C/compatibility.page:36
 msgid "Improved GTK+ abilities, like animations."
 msgstr ""
+"Habilidades de GTK+ mejoradas, tales como las animaciones."
 
 #. (itstool) path: item/p
 #: C/compatibility.page:37
