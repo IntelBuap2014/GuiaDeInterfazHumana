@@ -2073,6 +2073,7 @@ msgstr ""
 msgid ""
 "<link xref=\"compatibility\"><em style=\"strong\">Compatibility</em></link>"
 msgstr ""
+"<link xref=\"compatibility\"><em style=\"strong\">Compatibilidad</em></link>"
 
 #. (itstool) path: section/title
 #: C/essentials.page:39
