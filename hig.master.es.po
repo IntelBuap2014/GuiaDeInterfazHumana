@@ -5216,7 +5216,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-input.page:730
 msgid "<gui>Close All</gui>"
-msgstr ""
+msgstr "<gui> Cerrar Todo </gui>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:732
