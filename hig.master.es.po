@@ -9288,6 +9288,12 @@ msgid ""
 "work is involved in using an application - poor layout results in users "
 "having to put in additional effort, while good layout requires less effort."
 msgstr ""
+"El diseño visual de controles, información y contenido influye en que tan "
+"facil de comprender es su aplicación, asi como lo bien que se ve. Es "
+"importante reconocer que el diseño visual tiene un fuerte impacto en cuanto "
+"trabajo esta implicado en usar una aplicación - diseños pobres resultan en "
+"que usuarios tengan que poner un esfuerzo adicional, mientras que buenos "
+"diseños requieren menos esfuerzo."
 
 #. (itstool) path: page/p
 #: C/visual-layout.page:30
