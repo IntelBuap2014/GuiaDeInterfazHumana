@@ -2823,7 +2823,8 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/icons-and-artwork.page:44
 msgid "You can use the GTK+ icon browser to find recommended icons."
-msgstr ""
+msgstr "Usted puede usar el icono del navegador GTK+ para encontrar iconos "
+"recomendados."
 
 #. (itstool) path: section/title
 #: C/icons-and-artwork.page:47
