@@ -5607,6 +5607,9 @@ msgid ""
 "icons</link>. The lower visual footprint of these icons will mean that they "
 "do not visually overload or dominate your list."
 msgstr ""
+"Si no usa los íconos en su lista, <link xref=\"icons-and-artwork\"> "
+"usar íconos simbólicos</link>. La huella menos visible de estos íconos "
+"significará que ellos no dominan ni sobrecargan visualmente su lista."
 
 #. (itstool) path: item/p
 #: C/lists.page:139
@@ -5614,6 +5617,8 @@ msgid ""
 "If the list is long, make it possible to search it using the standard <link "
 "xref=\"search\">search design pattern</link>."
 msgstr ""
+"Si la lista es larga, hacer posible su búsqueda usando el estándar <link "
+"xref=\"search\">buscar patrón de diseño</link>."
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
