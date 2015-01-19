@@ -1685,6 +1685,11 @@ msgid ""
 "header bar buttons allow the print action to either be cancelled or carried "
 "out."
 msgstr ""
+"Muchos de los diálogos existentes GTK+ son diálogo de acción. El diálogo de "
+"Impresión es un buen ejemplo: Se muestra al usuario en respuesta mediante la "
+"acción de impresión y presenta información y las opciones para la acción de "
+"impresión. Los dos botones de la barra de encabezado permiten que la acción "
+"de impresión sea cancelada o llevada a cabo."
 
 #. (itstool) path: section/title
 #: C/dialogs.page:90
