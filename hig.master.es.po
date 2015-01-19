@@ -330,6 +330,7 @@ msgid ""
 "It needs to identify your application in the systems where it is installed "
 "and run."
 msgstr ""
+"Se necesita identficar tu aplicacion en los sistemas donde se ha instalado."
 
 #. (itstool) path: section/p
 #: C/application-basics.page:61
