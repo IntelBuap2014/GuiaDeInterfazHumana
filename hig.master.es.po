@@ -2081,9 +2081,8 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/essentials.page:39
-#, fuzzy
 msgid "Common guidelines"
-msgstr "Guías"
+msgstr "Guías comunes"
 
 #. (itstool) path: td/p
 #: C/essentials.page:43
