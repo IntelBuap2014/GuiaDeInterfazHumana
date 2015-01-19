@@ -9415,6 +9415,14 @@ msgid ""
 "content that they affect. Header bars are a key design pattern in this "
 "respect."
 msgstr ""
+"Organize los elementos visuales de arriba a abajo y de izquierda a derecha. "
+"Esta es la dirección en que la gente de occidente tiende a leer una "
+"interfaz, asi los elementos en la parte superior izquierda seran encontrados "
+"primero. Este orden da a las interfaces jerarquia: aquellos componentes que "
+"son vistos primero se percive que tienen prioridad sobre aquellos que vienen "
+"despues. Por esta razon, debera colocar los controles dominantes arriba y a "
+"la izquierda de los controles y contenido que ellos afectan. Los encabezados "
+"son un patron de diseño clave en este sentido."
 
 #. (itstool) path: credit/name
 #: C/writing-style.page:26
