@@ -1633,6 +1633,8 @@ msgid ""
 "Error dialogs present an error message to the user. They often include a "
 "single button that allows the user to acknowledge and close the dialog."
 msgstr ""
+"Los diálogo de error presentan al usuario un mensaje de error. A menudo "
+"incluyen solo un botón que permite al usuario reconocer y cerrar el diálogo."
 
 #. (itstool) path: note/p
 #: C/dialogs.page:67
