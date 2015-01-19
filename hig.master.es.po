@@ -2062,6 +2062,8 @@ msgid ""
 "<link xref=\"application-basics\"><em style=\"strong\">Application basics</"
 "em></link>"
 msgstr ""
+"<link xref=\"application-basics\"><em style=\"strong\">Aplicaciones básicas</"
+"em></link>"
 
 #. (itstool) path: td/p
 #: C/essentials.page:27
