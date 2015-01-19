@@ -2125,7 +2125,7 @@ msgstr "Guías para la selección y creación de iconos."
 #. (itstool) path: td/p
 #: C/essentials.page:55
 msgid "<link xref=\"typography\"><em style=\"strong\">Typography</em></link>"
-msgstr ""
+msgstr "<link xref=\"typography\"><em style=\"strong\">Tipografía/em></link>"
 
 #. (itstool) path: td/p
 #: C/essentials.page:56
