@@ -1110,6 +1110,7 @@ msgstr ""
 #: C/design-principles.page:11 C/essentials.page:23
 msgid "General design guidelines and advice."
 msgstr ""
+"Guías de diseño general y consejos."
 
 #. (itstool) path: page/title
 #: C/design-principles.page:14
