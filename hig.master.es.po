@@ -1672,6 +1672,9 @@ msgid ""
 "be carried out. In these cases, the affirmative dialog button should be "
 "insensitive until the required options have been selected."
 msgstr ""
+"A veces, el usuario requere elegir opciones antes de que una acción puede "
+"llevarse a cabo. En estos casos, el botón de diálogo afirmativo debe ser "
+"insensible hasta que hayan sido seleccionadas las opciones necesarias."
 
 #. (itstool) path: section/p
 #: C/dialogs.page:84
