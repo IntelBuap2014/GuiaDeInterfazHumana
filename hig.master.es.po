@@ -2114,6 +2114,8 @@ msgid ""
 "<link xref=\"icons-and-artwork\"><em style=\"strong\">Icons and artwork</"
 "em></link>"
 msgstr ""
+"<link xref=\"icons-and-artwork\"><em style=\"strong\">Iconos e ilustraciones</"
+"em></link>"
 
 #. (itstool) path: td/p
 #: C/essentials.page:52
