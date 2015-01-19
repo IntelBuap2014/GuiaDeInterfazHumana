@@ -14,15 +14,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-16 19:43+0000\n"
-"PO-Revision-Date: 2015-01-16 12:05+0100\n"
-"Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
+"PO-Revision-Date: 2015-01-19 14:26-0600\n"
+"Last-Translator: Miguel Ajuech <miguel.ann.28@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #. (itstool) path: p/link
 #: C/legal.xml:5
@@ -315,7 +315,7 @@ msgstr "Usar nombres de aplicaciones como títulos de ventanas"
 #. (itstool) path: item/p
 #: C/application-basics.page:56
 msgid "It must advertise your application to potential users."
-msgstr ""
+msgstr "Debe hacer publicidad de su aplicación hacia usuarios potenciales."
 
 #. (itstool) path: item/p
 #: C/application-basics.page:57
@@ -805,8 +805,8 @@ msgid ""
 "also important to consider how labels will change length when localized."
 msgstr ""
 "Guardar etiqutas cortas, que no causen un botón que use demasiado espacio. "
-"También es importante considerar como las etiquetas cambiarán de longitud cuando "
-"se muevan de lugar. "
+"También es importante considerar como las etiquetas cambiarán de longitud "
+"cuando se muevan de lugar. "
 
 #. (itstool) path: section/title
 #: C/buttons.page:59
@@ -1073,8 +1073,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/compatibility.page:36
 msgid "Improved GTK+ abilities, like animations."
-msgstr ""
-"Habilidades de GTK+ mejoradas, tales como las animaciones."
+msgstr "Habilidades de GTK+ mejoradas, tales como las animaciones."
 
 #. (itstool) path: item/p
 #: C/compatibility.page:37
@@ -1116,8 +1115,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/design-principles.page:11 C/essentials.page:23
 msgid "General design guidelines and advice."
-msgstr ""
-"Guías de diseño general y consejos."
+msgstr "Guías de diseño general y consejos."
 
 #. (itstool) path: page/title
 #: C/design-principles.page:14
@@ -1160,8 +1158,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/design-principles.page:28
 msgid "Keep user interface complexity to a minimum"
-msgstr ""
-"Mantenga la complejidad de la interfaz de usuario al mínimo"
+msgstr "Mantenga la complejidad de la interfaz de usuario al mínimo"
 
 #. (itstool) path: section/p
 #: C/design-principles.page:30
@@ -1451,10 +1448,10 @@ msgid ""
 msgstr ""
 "Utilizado eficazmente, emoción y humor pueden levantar la experiencia  "
 "proporcionada por su aplicación, y ayudar a desarrollar una relación "
-"positiva con los usuarios. Sea cuidadoso de no abusar de estas técnicas, "
-"sin embargo - es mucho más efectivo recoger una pequeña cantidad de "
-"momentos para utilizar la emoción, en lugar de esparcirlas a lo largo de la"
-"interfaz de usuario."
+"positiva con los usuarios. Sea cuidadoso de no abusar de estas técnicas, sin "
+"embargo - es mucho más efectivo recoger una pequeña cantidad de momentos "
+"para utilizar la emoción, en lugar de esparcirlas a lo largo de lainterfaz "
+"de usuario."
 
 #. (itstool) path: section/p
 #: C/design-principles.page:118
@@ -1560,8 +1557,8 @@ msgstr ""
 "Mientras que los diálogos pueden ser una forma efectiva de divulgar "
 "controles adicionales o información, tambien pueden ser una fuente de "
 "interrupción para los usuarios. Por esta razon, siempre cuestiona si es "
-"necesario un diálogo, y trabajar para evitar las situaciones en las que "
-"se requieren."
+"necesario un diálogo, y trabajar para evitar las situaciones en las que se "
+"requieren."
 
 #. (itstool) path: section/p
 #: C/dialogs.page:41
@@ -1906,8 +1903,8 @@ msgid ""
 "Follow the <link xref=\"visual-layout\">layout guidelines</link> when "
 "designing the content of windows."
 msgstr ""
-"Siga las <link xref=\"visual-layout\">guías de etiqueta</link> cuando "
-"esté diseñando el contenido de ventanas."
+"Siga las <link xref=\"visual-layout\">guías de etiqueta</link> cuando esté "
+"diseñando el contenido de ventanas."
 
 #. (itstool) path: item/p
 #: C/dialogs.page:160
@@ -2027,8 +2024,8 @@ msgid ""
 "If the number of items is very large, provide a search function that filters "
 "the list."
 msgstr ""
-"Si el número de elementos es muy grande, ofrezca una función de búsqueda "
-"que filtre la lista."
+"Si el número de elementos es muy grande, ofrezca una función de búsqueda que "
+"filtre la lista."
 
 #. (itstool) path: item/p
 #: C/drop-down-lists.page:34
@@ -2174,8 +2171,8 @@ msgid ""
 "<link xref=\"icons-and-artwork\"><em style=\"strong\">Icons and artwork</"
 "em></link>"
 msgstr ""
-"<link xref=\"icons-and-artwork\"><em style=\"strong\">Iconos e ilustraciones</"
-"em></link>"
+"<link xref=\"icons-and-artwork\"><em style=\"strong\">Iconos e "
+"ilustraciones</em></link>"
 
 #. (itstool) path: td/p
 #: C/essentials.page:52
@@ -2826,7 +2823,8 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/icons-and-artwork.page:44
 msgid "You can use the GTK+ icon browser to find recommended icons."
-msgstr "Usted puede usar el icono del navegador GTK+ para encontrar iconos "
+msgstr ""
+"Usted puede usar el icono del navegador GTK+ para encontrar iconos "
 "recomendados."
 
 #. (itstool) path: section/title
@@ -2926,13 +2924,12 @@ msgid ""
 "specific rendering is required to sizes of 48x48px, 32x32px, 24x24px and "
 "16x16px. Many GNOME icons also ship a 22x22px size for legacy reasons, but "
 "that isn’t required."
-msgstr "" 
+msgstr ""
 "Aunque no es tan critico, hay áreas todavía donde los iconos de las "
-"aplicaciones son presentados en tamaño pequeño. Para mantener el icono "
-"agudo y bien definido es requerida una renderización especifica a los "
-"tamaños de 48x48px 32x32px, 24x24px y 16x16px. Muchos iconos de GNOME "
-"también envían un tamaño de 22x22px por razones de compatibilidad, pero "
-"eso no es requerido."
+"aplicaciones son presentados en tamaño pequeño. Para mantener el icono agudo "
+"y bien definido es requerida una renderización especifica a los tamaños de "
+"48x48px 32x32px, 24x24px y 16x16px. Muchos iconos de GNOME también envían un "
+"tamaño de 22x22px por razones de compatibilidad, pero eso no es requerido."
 
 #. (itstool) path: section/p
 #: C/icons-and-artwork.page:85
@@ -3005,8 +3002,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/icons-and-artwork.page:107
 msgid "Size and grid"
-msgstr ""
-"Tamaño y cuadrícula"
+msgstr "Tamaño y cuadrícula"
 
 #. (itstool) path: section/p
 #: C/icons-and-artwork.page:109
@@ -6522,8 +6518,6 @@ msgid ""
 "Do not require the use of chording (pressing multiple mouse buttons "
 "simultaneously) for any operations."
 msgstr ""
-"No requiere el uso de combinación de teclas(presionando simultamente  los mútiples 
-botones del ratón) solo para algunas operaciones"
 
 #. (itstool) path: item/p
 #: C/pointer-and-touch-input.page:46
@@ -7680,7 +7674,7 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/search.page:14
-#, fuzzy - Reparada
+#, fuzzy
 msgid "Search"
 msgstr "Búsqueda"
 
@@ -7708,8 +7702,8 @@ msgid ""
 "looking for, and its consistent availability means that users can rely on "
 "and expect it to be present."
 msgstr ""
-"Búsqueda es una gran manera fácil para que los usuarios encuentren qué es "
-"lo que están buscando, y su disponibilidad constante, significa que los "
+"Búsqueda es una gran manera fácil para que los usuarios encuentren qué es lo "
+"que están buscando, y su disponibilidad constante, significa que los "
 "usuarios pueden confiar y esperar que esté presente."
 
 #. (itstool) path: section/p
@@ -7805,7 +7799,7 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/search.page:60
-#, fuzzy - Reparado
+#, fuzzy
 msgid "Additional Guidance"
 msgstr "Directrices adicionales"
 
@@ -9380,10 +9374,9 @@ msgid ""
 "understand."
 msgstr ""
 "Un punto de alineación es una linea imaginaria vertical u horizontal a "
-"través de su ventana que toca el borde de una o más etiquetas o controles "
-"en la ventana. Minimizar el numero de estos - entre menos existan, más "
-"limpio y simple aparecera su diseño, y más fácil de entender sera para "
-"las personas."
+"través de su ventana que toca el borde de una o más etiquetas o controles en "
+"la ventana. Minimizar el numero de estos - entre menos existan, más limpio y "
+"simple aparecera su diseño, y más fácil de entender sera para las personas."
 
 #. (itstool) path: item/p
 #: C/visual-layout.page:37
