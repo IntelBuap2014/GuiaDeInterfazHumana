@@ -1967,6 +1967,8 @@ msgid ""
 "If the number of items is very large, provide a search function that filters "
 "the list."
 msgstr ""
+"Si el número de elementos es muy grande, ofrezca una función de búsqueda "
+"que filtre la lista."
 
 #. (itstool) path: item/p
 #: C/drop-down-lists.page:34
