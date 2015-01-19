@@ -1989,7 +1989,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/drop-down-lists.page:41
 msgid "Custom values"
-msgstr ""
+msgstr "Valores personalizados"
 
 #. (itstool) path: section/p
 #: C/drop-down-lists.page:45
