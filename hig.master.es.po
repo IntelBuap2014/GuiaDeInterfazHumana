@@ -1809,6 +1809,9 @@ msgid ""
 "that the cancel button appears first, before the affirmative button. In left-"
 "to-right locales, this is on the left."
 msgstr ""
+"Cuando un diálogo incluye un botón afirmativo y un botón Cancelar, asegúrese "
+"siempre de que el botón Cancelar aparece primero, antes de que el botón "
+"afirmativo. En posición de izquierda a derecha, ésto está a la izquierda."
 
 #. (itstool) path: section/p
 #: C/dialogs.page:127
