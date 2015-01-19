@@ -54,7 +54,8 @@ msgstr ""
 "Bernardo Sánchez Romero <b.sanchez.rom@gmail.com>, 2015\n"
 "Emmanuel Márquez Juárez <resident3333@gmail.com>, 2015\n"
 "David Romero Serrano <lemi136@hotmail.com>, 2015\n"
-"Omar Garcia Guzman <garciag.omar91@gmail.com>, 2015"
+"Omar Garcia Guzman <garciag.omar91@gmail.com>, 2015\n"
+"Edilberto Huerta Niño <edilberto.huerta0290@gmail.com>, 2015"
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -2920,7 +2921,7 @@ msgid ""
 "specific rendering is required to sizes of 48x48px, 32x32px, 24x24px and "
 "16x16px. Many GNOME icons also ship a 22x22px size for legacy reasons, but "
 "that isn’t required."
-msgstr 
+msgstr "" 
 "Aunque no es tan critico, hay áreas todavía donde los iconos de las "
 "aplicaciones son presentados en tamaño pequeño. Para mantener el icono "
 "agudo y bien definido es requerida una renderización especifica a los "
@@ -3000,6 +3001,7 @@ msgstr ""
 #: C/icons-and-artwork.page:107
 msgid "Size and grid"
 msgstr ""
+"Tamaño y cuadrícula"
 
 #. (itstool) path: section/p
 #: C/icons-and-artwork.page:109
