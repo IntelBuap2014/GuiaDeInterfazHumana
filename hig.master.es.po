@@ -1611,6 +1611,10 @@ msgid ""
 "user wants to carry out an action. They have two buttons: one to confirm "
 "that the action should be carried out and one to cancel the action."
 msgstr ""
+"Los diálogos de confirmación utilizan un mensaje de diá¡logo para comprobar "
+"- o confirmar - que el usuario desea realizar una acción. Estos tienen dos "
+"botones: uno para confirmar que la acción debe llevarse a cabo y otro para "
+"cancelar la acción."
 
 #. (itstool) path: note/p
 #: C/dialogs.page:63
