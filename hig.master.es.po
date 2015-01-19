@@ -1063,6 +1063,7 @@ msgstr ""
 #: C/compatibility.page:35
 msgid "New user interface elements, such as popovers."
 msgstr ""
+"Nuevos elementos de interfaz de usuario, tales como las ventanas emergentes."
 
 #. (itstool) path: item/p
 #: C/compatibility.page:36
