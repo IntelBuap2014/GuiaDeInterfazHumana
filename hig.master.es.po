@@ -1703,6 +1703,10 @@ msgid ""
 "they have a header bar and a subject. However, instead of prefixing an "
 "action, their content relates to an application or content item."
 msgstr ""
+"Los diálogos de presentación muestran información o controles. Como diálogos "
+"de acción, tienen una barra de encabezado y un tema. Sin embargo, en lugar "
+"de determinar una acción, su contenido relata una aplicación o un elemento "
+"de contenido."
 
 #. (itstool) path: section/p
 #: C/dialogs.page:99
