@@ -323,6 +323,8 @@ msgid ""
 "It should serve to reinforce a positive identity, and have expressive "
 "qualities."
 msgstr ""
+"Debe servir para reforzar una identidad positiva, y tiene cualidades"
+"expresivas"
 
 #. (itstool) path: item/p
 #: C/application-basics.page:58
