@@ -2094,7 +2094,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/essentials.page:44
 msgid "Arranging elements within user interfaces."
-msgstr ""
+msgstr "Organización de elementos en las interfaces de usuario."
 
 #. (itstool) path: td/p
 #: C/essentials.page:47
