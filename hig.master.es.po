@@ -2070,7 +2070,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/essentials.page:27
 msgid "Basic application behavior and characteristics."
-msgstr ""
+msgstr "Comportamiento y características de una aplicación básica."
 
 #. (itstool) path: td/p
 #: C/essentials.page:30
