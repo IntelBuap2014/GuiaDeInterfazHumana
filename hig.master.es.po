@@ -1581,6 +1581,8 @@ msgid ""
 "<link xref=\"popovers\">Popovers</link> can be a way to display additional "
 "controls or options in a less disruptive manner."
 msgstr ""
+"Las <link xref=\"popovers\">Ventanas emergentes</link> pueden ser una forma "
+"de mostrar controles u opciones adicionales de una manera menos perjudicial."
 
 #. (itstool) path: section/title
 #: C/dialogs.page:52
