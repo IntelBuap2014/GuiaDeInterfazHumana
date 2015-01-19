@@ -1734,6 +1734,13 @@ msgid ""
 "Make an effort to ensure that your application design works for everybody "
 "without the need to change its settings."
 msgstr ""
+"Resista la tentación de ofrecer una ventana de preferencia para su "
+"aplicación. Siempre cuestione si los ajustes adicionales son realmente "
+"necesarias. La mayoría de la gente no se molestará en investigar las "
+"preferencias que usted proporcione, y las opciones de configuración "
+"contribuirán a la complejidad de su aplicación. Haga un esfuerzo para "
+"asegurar que su diseño de aplicación funcione para todos sin necesidad de "
+"cambiar su configuración."
 
 #. (itstool) path: section/title
 #: C/dialogs.page:106
