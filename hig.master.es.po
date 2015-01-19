@@ -2089,6 +2089,7 @@ msgstr "Guías comunes"
 msgid ""
 "<link xref=\"visual-layout\"><em style=\"strong\">Visual layout</em></link>"
 msgstr ""
+"<link xref=\"visual-layout\"><em style=\"strong\">Etiqueta visual</em></link>"
 
 #. (itstool) path: td/p
 #: C/essentials.page:44
