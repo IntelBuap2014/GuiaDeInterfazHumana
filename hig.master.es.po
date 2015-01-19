@@ -2033,7 +2033,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/essentials.page:13
 msgid "Essentials"
-msgstr ""
+msgstr "Esenciales"
 
 #. (itstool) path: page/p
 #: C/essentials.page:15
