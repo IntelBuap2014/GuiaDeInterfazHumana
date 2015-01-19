@@ -1146,6 +1146,8 @@ msgid ""
 "Remember: the best applications provide an elegant solution to a specific "
 "task area."
 msgstr ""
+"Recuerde: las mejores aplicaciones ofrecen una solución elegante a una zona "
+"de trabajo en especifico."
 
 #. (itstool) path: section/title
 #: C/design-principles.page:28
