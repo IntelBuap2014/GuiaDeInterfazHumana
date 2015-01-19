@@ -1623,6 +1623,9 @@ msgid ""
 "acknowledged, and will not always prevent mistakes from happening. It is "
 "often better to provide undo functionality instead."
 msgstr ""
+"Los diálogo de confirmación serán a menudo accidentalmente o automáticamente "
+"reconocidos y no siempre evitarán errores del suceso. A menudo es mejor "
+"proporcionar funcionalidad de deshacer en su lugar."
 
 #. (itstool) path: section/p
 #: C/dialogs.page:65
