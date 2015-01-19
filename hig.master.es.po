@@ -1717,6 +1717,12 @@ msgid ""
 "example of how dialogs can be used to disclose additional information which "
 "is not always needed in the main application window."
 msgstr ""
+"Las preferencias y propiedades son ejemplos de diálogos de presentación, y "
+"ambos presentan información y ajustes en relación con una entidad específica "
+"(una aplicación o un elemento de contenido). Los diálogos de propiedades son "
+"un buen ejemplo de cómo los diálogos pueden utilizarse para revelar "
+"información adicional que no siempre se necesita en la ventana principal de "
+"la aplicación."
 
 #. (itstool) path: note/p
 #: C/dialogs.page:101
