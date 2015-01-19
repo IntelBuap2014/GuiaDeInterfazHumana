@@ -1792,6 +1792,9 @@ msgid ""
 "window. The order of these buttons, as well as the labels used, are a key "
 "part of the dialog."
 msgstr ""
+"Los diálogos de mensaje y acción incluyen botones primarios que afectan a "
+"toda la ventana. El orden de estos botones, así como las etiquetas "
+"utilizadas, son una parte clave del diálogo."
 
 #. (itstool) path: section/title
 #. (itstool) path: td/p
