@@ -2120,7 +2120,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/essentials.page:52
 msgid "Guidelines on selecting and creating icons."
-msgstr ""
+msgstr "Guías para la selección y creación de iconos."
 
 #. (itstool) path: td/p
 #: C/essentials.page:55
