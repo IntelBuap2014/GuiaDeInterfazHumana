@@ -8975,6 +8975,10 @@ msgid ""
 "effectively, and also play an important role in creating a beautiful "
 "appearance."
 msgstr ""
+"El texto es una parte importante de cualquier interfaz de usuario. El "
+"tamaño, la posición y el peso del texto contribuyen a la capacidad del texto "
+"para transmitir información de manera eficaz, y también juega un rol "
+"importante en la creación de una apariencia atractiva."
 
 #. (itstool) path: section/title
 #: C/typography.page:22
