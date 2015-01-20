@@ -2334,6 +2334,10 @@ msgid ""
 "This ensures that the header bar isn’t overwhelmed with less interesting or "
 "useful controls."
 msgstr ""
+"Mientras las acciones usadas con mayor frecuencia para una vista deben ser colocadas directamente "
+"en la barra de encabezado, un menu de la barra de encabezado provee acceso a acciones menos utilizadas. "
+"Esto asegura que la barra de encabezado no este abrumada con controles menos interesantes o "
+"menos utiles."
 
 #. (itstool) path: page/p
 #: C/header-bar-menus.page:22
@@ -2341,6 +2345,8 @@ msgid ""
 "In this way, the header bar menus help to create focused views that guide "
 "the user towards the most interesting and useful functionality."
 msgstr ""
+"De esta forma, los menus de la barra de encabezado ayudan a crear vistas enfocadas que guiaran "
+"al usuario hacia una funcionalidad mas interesante y util."
 
 #. (itstool) path: section/p
 #: C/header-bar-menus.page:27
