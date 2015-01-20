@@ -8948,11 +8948,14 @@ msgid ""
 "buttons should use <link xref=\"icons-and-artwork#color-vs-symbolic"
 "\">symbolic icons</link>."
 msgstr ""
+"Los <link xref=\"buttons\">botones</link> de la barra de herramientas deben "
+"tener un relieve, y los iconos de los botones deben usar <link xref=\"icons-"
+"and-artwork#color-vs-symbolic\">iconos simbólicos</link>."
 
 #. (itstool) path: credit/name
 #: C/typography.page:11
 msgid "William Jon McCann"
-msgstr ""
+msgstr "William Jon McCann"
 
 #. (itstool) path: info/desc
 #: C/typography.page:14
