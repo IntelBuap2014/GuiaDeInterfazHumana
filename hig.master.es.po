@@ -2371,9 +2371,8 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/header-bar-menus.page:34
-#, fuzzy
 msgid "Guidance"
-msgstr "Guías"
+msgstr "Direccion"
 
 #. (itstool) path: item/p
 #: C/header-bar-menus.page:37
@@ -2381,11 +2380,13 @@ msgid ""
 "Header bar menus should only contain actions for the current view or window "
 "- this differentiates their content from application menus."
 msgstr ""
+"Los menus de la barra de encabezado solo deben contener acciones para la vista o ventana actual "
+"- esto diferencia su contenido de los menus de aplicacion."
 
 #. (itstool) path: item/p
 #: C/header-bar-menus.page:38
 msgid "Follow the <link xref=\"menus\">standard guidelines for menus</link>."
-msgstr ""
+msgstr "Sigue las <link xref=\"menus\">directrices estandar para menus</link>."
 
 #. (itstool) path: item/p
 #: C/header-bar-menus.page:39
