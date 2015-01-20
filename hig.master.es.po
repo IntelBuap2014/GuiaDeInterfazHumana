@@ -5799,6 +5799,10 @@ msgid ""
 "or page, or how items are presented for browsing. Do not place any items on "
 "the <gui>View</gui> menu that affect content items."
 msgstr ""
+"Incluye elementos que afectan la vista del usuario, como el del documento "
+"o página actual, o cómo los elementos son presentados para navegación. No "
+"colocar ningún elemento en el menú de <gui>Vista</gui> que afecte elementos "
+"de contenido."
 
 #. (itstool) path: td/p
 #: C/menu-bars.page:60
