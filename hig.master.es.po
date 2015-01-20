@@ -8960,12 +8960,12 @@ msgstr "William Jon McCann"
 #. (itstool) path: info/desc
 #: C/typography.page:14
 msgid "Font sizes, weights and styles, and special characters."
-msgstr ""
+msgstr "Tamaños, pesos y estilos de fuente, y caracteres especiales."
 
 #. (itstool) path: page/title
 #: C/typography.page:17
 msgid "Typography"
-msgstr ""
+msgstr "Tipografía"
 
 #. (itstool) path: page/p
 #: C/typography.page:19
