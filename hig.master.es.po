@@ -2357,6 +2357,11 @@ msgid ""
 "prominence in the view, an <link xref=\"action-bars\">action bar</link> "
 "might be a better choice."
 msgstr ""
+"Usa un menu de la barra de encabezado para presentar acciones u opciones adicionales para la "
+"vista actual. Estos son más usados cuando no se utilizan estas acciones u opciones "
+"la mayoria del tiempo - si hay un conjunto de acciones que merecen mayor "
+"prominencia en la vista, una <link xref=\"action-bars\">barra de accion</link> "
+"podria ser una mejor opcion."
 
 #. (itstool) path: section/p
 #: C/header-bar-menus.page:29
