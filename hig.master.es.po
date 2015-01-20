@@ -5747,6 +5747,10 @@ msgid ""
 "is the left-most item in the menubar because of its importance and frequency "
 "of use, and because it is a relevant menu in many applications."
 msgstr ""
+"Comandos que operan en conjunto en el documento actual o elemento actual. Es "
+"decir el elemento más a la izquierda en la barra de menú debido a su "
+"importancia y frecuencia de uso, y porque es un menú relevante en muchas "
+"aplicaciones."
 
 #. (itstool) path: td/p
 #: C/menu-bars.page:49
