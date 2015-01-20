@@ -5659,7 +5659,7 @@ msgid ""
 "A menu bar incorporates a strip of drop-down menus. It is typically located "
 "at the top of a primary window, below a window title bar."
 msgstr ""
-"Una barra de menú incorpora tira de menús desplegables. Típicamente está "
+"Una barra de menú incorpora una tira de menús desplegables. Típicamente está "
 "ubicada en la parte superior de una ventana primaria, bajo una barra de "
 "título de la ventana."
 
@@ -5675,6 +5675,15 @@ msgid ""
 "\">selection mode</link>, <link xref=\"action-bars\">action bars</link>, and "
 "<link xref=\"popovers\">popovers</link>."
 msgstr ""
+"Las barras de menú incrementan el impacto vertical de una interfaz de "
+"usuario de la aplicación, introducen un gran número de puntos conocidos, y "
+"funcionan como un conjunto fijo de opciones inflexibles. Por estas razones, "
+"<link xref=\"header-bars\">barras de encabezado</link> y <link xref=\"header- "
+"bar-menus\">menús de barras de encabezados</link> generalmente se recomiendan"
+"en lugar de barras de menú, junto con otros patrones de diseño para mostrar "
+"controles bajo demanda, tales como <link xref=\"selection-mode\">modo de "
+"selección</link>, <link xref=\"action-bars\">barras de acción</link>, y "
+"<link xref=\"popovers\">Popovers</link>."
 
 #. (itstool) path: section/p
 #: C/menu-bars.page:36
@@ -5684,6 +5693,11 @@ msgid ""
 "incorporate space for a menu bar in their user environment, and a menu model "
 "can be desirable for cross-platform integration purposes."
 msgstr ""
+"Al mismo tiempo, puede ser apropiado para aplicaciones complejas que "
+"ya incluyen una barra de menu conservarla. Adicionalmente, algunas plataformas "
+"también pueden incoporar espacio para una barra de menú en su entorno de "
+"usuario, y un modelo de menú puede ser deseable para para propósitos de "
+"integración multiplataforma."
 
 #. (itstool) path: section/title
 #: C/menu-bars.page:41
