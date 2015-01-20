@@ -2420,9 +2420,8 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/header-bars.page:14
-#, fuzzy
 msgid "Header bars"
-msgstr "Cabecera"
+msgstr "Barras de encabezado"
 
 #. (itstool) path: page/p
 #: C/header-bars.page:18
