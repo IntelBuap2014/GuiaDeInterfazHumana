@@ -5712,6 +5712,10 @@ msgid ""
 "details on the standard items to include in each of these menus, see <link "
 "xref=\"keyboard-input#application-shortcuts\">keyboard input</link>."
 msgstr ""
+"Esta sección detalla los menús más comunes y los elementos del menú en una "
+"barra de menú. Para detalles sobre los elementos estandar a incluir en cada uno "
+"de estos menus, ver <link "
+"xref=\"keyboard-input#application-shortcuts\">Entrada de teclado</link>."
 
 #. (itstool) path: td/p
 #: C/menu-bars.page:47
