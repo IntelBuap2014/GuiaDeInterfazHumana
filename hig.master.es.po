@@ -5646,6 +5646,9 @@ msgid ""
 "A menu bar incorporates a strip of drop-down menus. It is typically located "
 "at the top of a primary window, below a window title bar."
 msgstr ""
+"Una barra de menú incorpora tira de menús desplegables. Típicamente está "
+"ubicada en la parte superior de una ventana primaria, bajo una barra de "
+"título de la ventana."
 
 #. (itstool) path: section/p
 #: C/menu-bars.page:34
