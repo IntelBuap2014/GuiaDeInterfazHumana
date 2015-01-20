@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-16 19:43+0000\n"
-"PO-Revision-Date: 2015-01-19 14:26-0600\n"
+"PO-Revision-Date: 2015-01-19 23:50-0600\n"
 "Last-Translator: Miguel Ajuech <miguel.ann.28@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -323,8 +323,8 @@ msgid ""
 "It should serve to reinforce a positive identity, and have expressive "
 "qualities."
 msgstr ""
-"Debe servir para reforzar una identidad positiva, y tiene cualidades"
-"expresivas"
+"Debe servir para reforzar una identidad positiva, y tiene "
+"cualidadesexpresivas"
 
 #. (itstool) path: item/p
 #: C/application-basics.page:58
@@ -384,6 +384,8 @@ msgid ""
 "Application menus are a standard part of GNOME 3, and every application that "
 "runs under GNOME 3 should have one."
 msgstr ""
+"Los menús de aplicaciones son una parte estándar de GNOME 3, y cada "
+"aplicación que se ejecuta en GNOME 3, debe tener uno. "
 
 #. (itstool) path: section/title
 #: C/application-menus.page:28 C/button-menus.page:42 C/dialogs.page:154
@@ -2334,9 +2336,10 @@ msgid ""
 "This ensures that the header bar isn’t overwhelmed with less interesting or "
 "useful controls."
 msgstr ""
-"Mientras las acciones usadas con mayor frecuencia para una vista deben ser colocadas directamente "
-"en la barra de encabezado, un menu de la barra de encabezado provee acceso a acciones menos utilizadas. "
-"Esto asegura que la barra de encabezado no este abrumada con controles menos interesantes o "
+"Mientras las acciones usadas con mayor frecuencia para una vista deben ser "
+"colocadas directamente en la barra de encabezado, un menu de la barra de "
+"encabezado provee acceso a acciones menos utilizadas. Esto asegura que la "
+"barra de encabezado no este abrumada con controles menos interesantes o "
 "menos utiles."
 
 #. (itstool) path: page/p
@@ -2345,8 +2348,9 @@ msgid ""
 "In this way, the header bar menus help to create focused views that guide "
 "the user towards the most interesting and useful functionality."
 msgstr ""
-"De esta forma, los menus de la barra de encabezado ayudan a crear vistas enfocadas que guiaran "
-"al usuario hacia una funcionalidad mas interesante y util."
+"De esta forma, los menus de la barra de encabezado ayudan a crear vistas "
+"enfocadas que guiaran al usuario hacia una funcionalidad mas interesante y "
+"util."
 
 #. (itstool) path: section/p
 #: C/header-bar-menus.page:27
@@ -2357,11 +2361,11 @@ msgid ""
 "prominence in the view, an <link xref=\"action-bars\">action bar</link> "
 "might be a better choice."
 msgstr ""
-"Usa un menu de la barra de encabezado para presentar acciones u opciones adicionales para la "
-"vista actual. Estos son más usados cuando no se utilizan estas acciones u opciones "
-"la mayoria del tiempo - si hay un conjunto de acciones que merecen mayor "
-"prominencia en la vista, una <link xref=\"action-bars\">barra de accion</link> "
-"podria ser una mejor opcion."
+"Usa un menu de la barra de encabezado para presentar acciones u opciones "
+"adicionales para la vista actual. Estos son más usados cuando no se utilizan "
+"estas acciones u opciones la mayoria del tiempo - si hay un conjunto de "
+"acciones que merecen mayor prominencia en la vista, una <link xref=\"action-"
+"bars\">barra de accion</link> podria ser una mejor opcion."
 
 #. (itstool) path: section/p
 #: C/header-bar-menus.page:29
@@ -2385,8 +2389,9 @@ msgid ""
 "Header bar menus should only contain actions for the current view or window "
 "- this differentiates their content from application menus."
 msgstr ""
-"Los menus de la barra de encabezado solo deben contener acciones para la vista o ventana actual "
-"- esto diferencia su contenido de los menus de aplicacion."
+"Los menus de la barra de encabezado solo deben contener acciones para la "
+"vista o ventana actual - esto diferencia su contenido de los menus de "
+"aplicacion."
 
 #. (itstool) path: item/p
 #: C/header-bar-menus.page:38
@@ -2434,8 +2439,8 @@ msgid ""
 "Header bars are a common horizontal element which are placed at the top of "
 "windows. They play a number of roles:"
 msgstr ""
-"Las barras de encabezado son un elemento horizontal comun que se colocan en la parte superior de la "
-"ventana. Estas desempeñan una serie de funciones:"
+"Las barras de encabezado son un elemento horizontal comun que se colocan en "
+"la parte superior de la ventana. Estas desempeñan una serie de funciones:"
 
 #. (itstool) path: item/p
 #: C/header-bars.page:21
@@ -5507,8 +5512,8 @@ msgid ""
 "new view or opening a dialog. This pattern is common for lists of content "
 "items, or for presenting groups of settings."
 msgstr ""
-"Seleccionar una fila abre el elemento correspondiente, si se esta navegando a "
-"una nueva vista o si se está abriendo un cuadro de dialogo. Este patrón es "
+"Seleccionar una fila abre el elemento correspondiente, si se esta navegando "
+"a una nueva vista o si se está abriendo un cuadro de dialogo. Este patrón es "
 "común para listas de elementos de contenido, o para presentar grupos de "
 "configuraciones."
 
@@ -5527,10 +5532,10 @@ msgid ""
 "always selected. The selected row is indicated by a check mark."
 msgstr ""
 "El elemento de la lista se selecciona al hacer clic en él. Este enfoque se "
-"usa comunmente para seleccionar una de una serie de opciones de configuración. "
-"En el caso de <link xref=\"drop-down-lists\">menú desplegable</link>, "
-"una opción es siempre seleccionada. La fila seleccionada se indica por una "
-"marca de verificación."
+"usa comunmente para seleccionar una de una serie de opciones de "
+"configuración. En el caso de <link xref=\"drop-down-lists\">menú "
+"desplegable</link>, una opción es siempre seleccionada. La fila seleccionada "
+"se indica por una marca de verificación."
 
 #. (itstool) path: td/p
 #: C/lists.page:120
@@ -5541,7 +5546,6 @@ msgstr ""
 "Seleccionar la fila convierte a la fila en un campo de texto, que permite "
 "que el elemento sea editado."
 
-
 #. (itstool) path: section/p
 #: C/lists.page:125
 msgid ""
@@ -5550,11 +5554,11 @@ msgid ""
 "manipulated. Using double-click to open list items should be avoided, since "
 "it is undiscoverable and is incompatible with touch input."
 msgstr ""
-"Los estilos de las listas de navegación pueden combinarse con "
-"<link xref=\"selection-mode\">Función de selección</link> para permitir "
-"a las filas ser abiertas y manipuladas a la vez. Usar doble clic para abrir "
-"elementos de lista debería evitarse, pues es incompatible e irreconocible "
-"por la entrada táctil."
+"Los estilos de las listas de navegación pueden combinarse con <link xref="
+"\"selection-mode\">Función de selección</link> para permitir a las filas ser "
+"abiertas y manipuladas a la vez. Usar doble clic para abrir elementos de "
+"lista debería evitarse, pues es incompatible e irreconocible por la entrada "
+"táctil."
 
 #. (itstool) path: item/p
 #: C/lists.page:133
@@ -5564,10 +5568,10 @@ msgid ""
 "important and relevant information by giving other information a lighter "
 "weight and/or color."
 msgstr ""
-"Distingue los diferentes tipos de información usando alineaciones diferentes, "
-"<link xref=\"typography\">colores de texto y pesos</link>. Resalta la "
-"información más importante y relevante dando otra información de un color "
-"y/o peso más claro."
+"Distingue los diferentes tipos de información usando alineaciones "
+"diferentes, <link xref=\"typography\">colores de texto y pesos</link>. "
+"Resalta la información más importante y relevante dando otra información de "
+"un color y/o peso más claro."
 
 #. (itstool) path: item/p
 #: C/lists.page:134
@@ -5575,8 +5579,8 @@ msgid ""
 "Be careful not to overpopulate lists with different columns and elements, "
 "and ensure that you only use them to present essential information."
 msgstr ""
-"Cuidado, no sobrepoblar listas con elementos y columnas diferentes, "
-"y asegurarse de usarlas sólo para presentar información esencial."
+"Cuidado, no sobrepoblar listas con elementos y columnas diferentes, y "
+"asegurarse de usarlas sólo para presentar información esencial."
 
 #. (itstool) path: item/p
 #: C/lists.page:135
@@ -5595,9 +5599,9 @@ msgid ""
 "buttons can be used as an alternative in this case."
 msgstr ""
 "No usar listas con menos de cinco elementos, a menos que el número de "
-"elementos pueda incrementar con el tiempo. Para listas de opciones, "
-"casillas de selección o botones de selección excluyentes pueden ser "
-"utilizados como una alternativa en este caso."
+"elementos pueda incrementar con el tiempo. Para listas de opciones, casillas "
+"de selección o botones de selección excluyentes pueden ser utilizados como "
+"una alternativa en este caso."
 
 #. (itstool) path: item/p
 #: C/lists.page:137
@@ -5608,10 +5612,9 @@ msgid ""
 "offline, for example."
 msgstr ""
 "Garantizar que las listas están ordenadas de forma que sean útiles para "
-"aquellos que las están usando. Por ejemplo, documentos recientes podrían "
-"ser más útiles que documentos ordenados alfabéticamente, o contactos que "
-"podrían estar en línea ser más interesantes que aquellos que están "
-"desconectados."
+"aquellos que las están usando. Por ejemplo, documentos recientes podrían ser "
+"más útiles que documentos ordenados alfabéticamente, o contactos que podrían "
+"estar en línea ser más interesantes que aquellos que están desconectados."
 
 #. (itstool) path: item/p
 #: C/lists.page:138
@@ -5620,8 +5623,8 @@ msgid ""
 "icons</link>. The lower visual footprint of these icons will mean that they "
 "do not visually overload or dominate your list."
 msgstr ""
-"Si no usa los íconos en su lista, <link xref=\"icons-and-artwork\"> "
-"usar íconos simbólicos</link>. La huella menos visible de estos íconos "
+"Si no usa los íconos en su lista, <link xref=\"icons-and-artwork\"> usar "
+"íconos simbólicos</link>. La huella menos visible de estos íconos "
 "significará que ellos no dominan ni sobrecargan visualmente su lista."
 
 #. (itstool) path: item/p
@@ -5678,12 +5681,12 @@ msgstr ""
 "Las barras de menú incrementan el impacto vertical de una interfaz de "
 "usuario de la aplicación, introducen un gran número de puntos conocidos, y "
 "funcionan como un conjunto fijo de opciones inflexibles. Por estas razones, "
-"<link xref=\"header-bars\">barras de encabezado</link> y <link xref=\"header- "
-"bar-menus\">menús de barras de encabezados</link> generalmente se recomiendan"
-"en lugar de barras de menú, junto con otros patrones de diseño para mostrar "
-"controles bajo demanda, tales como <link xref=\"selection-mode\">modo de "
-"selección</link>, <link xref=\"action-bars\">barras de acción</link>, y "
-"<link xref=\"popovers\">Popovers</link>."
+"<link xref=\"header-bars\">barras de encabezado</link> y <link xref="
+"\"header- bar-menus\">menús de barras de encabezados</link> generalmente se "
+"recomiendanen lugar de barras de menú, junto con otros patrones de diseño "
+"para mostrar controles bajo demanda, tales como <link xref=\"selection-mode"
+"\">modo de selección</link>, <link xref=\"action-bars\">barras de acción</"
+"link>, y <link xref=\"popovers\">Popovers</link>."
 
 #. (itstool) path: section/p
 #: C/menu-bars.page:36
@@ -5693,8 +5696,8 @@ msgid ""
 "incorporate space for a menu bar in their user environment, and a menu model "
 "can be desirable for cross-platform integration purposes."
 msgstr ""
-"Al mismo tiempo, puede ser apropiado para aplicaciones complejas que "
-"ya incluyen una barra de menu conservarla. Adicionalmente, algunas plataformas "
+"Al mismo tiempo, puede ser apropiado para aplicaciones complejas que ya "
+"incluyen una barra de menu conservarla. Adicionalmente, algunas plataformas "
 "también pueden incoporar espacio para una barra de menú en su entorno de "
 "usuario, y un modelo de menú puede ser deseable para para propósitos de "
 "integración multiplataforma."
@@ -5713,9 +5716,9 @@ msgid ""
 "xref=\"keyboard-input#application-shortcuts\">keyboard input</link>."
 msgstr ""
 "Esta sección detalla los menús más comunes y los elementos del menú en una "
-"barra de menú. Para detalles sobre los elementos estandar a incluir en cada uno "
-"de estos menus, ver <link "
-"xref=\"keyboard-input#application-shortcuts\">Entrada de teclado</link>."
+"barra de menú. Para detalles sobre los elementos estandar a incluir en cada "
+"uno de estos menus, ver <link xref=\"keyboard-input#application-shortcuts"
+"\">Entrada de teclado</link>."
 
 #. (itstool) path: td/p
 #: C/menu-bars.page:47
