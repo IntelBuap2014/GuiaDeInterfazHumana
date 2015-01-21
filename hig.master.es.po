@@ -2407,6 +2407,9 @@ msgid ""
 "link>. As such, a header bar menu can include a variety of controls, such as "
 "groups of buttons."
 msgstr ""
+"Un menu de la barra de encabezado es contenido dentro de un <link xref=\"popovers\">popover</link>. "
+"Como tal, un menu de la barra de encabezado puede incluir una variedad de controles, como un "
+"grupo de botones."
 
 #. (itstool) path: item/p
 #: C/header-bar-menus.page:40
@@ -2415,6 +2418,9 @@ msgid ""
 "already provided by the header bar. It can also be ambiguous as to what a "
 "close menu item refers to."
 msgstr ""
+"Un menu de la barra de encabezado no debe incluir un elemento cerrar menu, ya que esta accion "
+"ya esta proporcionada por la barra de encabezado. Esto tambien puede ser ambiguo en cuanto a lo "
+"que un elemento cerrar menu se refiere."
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
