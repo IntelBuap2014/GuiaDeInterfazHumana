@@ -5048,7 +5048,7 @@ msgstr "<gui>Editar Marcadores</gui>"
 #. (itstool) path: td/p
 #: C/keyboard-input.page:629
 msgid "Allows the user to edit their bookmarks."
-msgstr ""
+msgstr "Permite al usuario editar sus marcadores."
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:632
