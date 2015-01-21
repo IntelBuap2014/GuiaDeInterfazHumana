@@ -5024,7 +5024,7 @@ msgstr "Teclas rápidas y de acceso para el gestor de ventanas estándar"
 #. (itstool) path: td/p
 #: C/keyboard-input.page:622
 msgid "<gui>Add Bookmark</gui>"
-msgstr ""
+msgstr "<gui>Agregar Marcador</gui>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:623
