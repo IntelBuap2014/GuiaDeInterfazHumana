@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-16 19:43+0000\n"
-"PO-Revision-Date: 2015-01-21 12:58-0600\n"
+"PO-Revision-Date: 2015-01-21 13:00-0600\n"
 "Last-Translator: Miguel Ajuech <miguel.ann.28@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -757,6 +757,8 @@ msgid ""
 "After pressing a button, the user should expect to see the result of their "
 "action within 1 second."
 msgstr ""
+"Después de presiona un botón, el usuario deberá esperar a ver el resultado "
+"de su acción dentro de 1 segundo."
 
 #. (itstool) path: item/p
 #: C/buttons.page:37
