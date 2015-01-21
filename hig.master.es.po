@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-16 19:43+0000\n"
-"PO-Revision-Date: 2015-01-21 12:52-0600\n"
+"PO-Revision-Date: 2015-01-21 12:56-0600\n"
 "Last-Translator: Miguel Ajuech <miguel.ann.28@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -660,6 +660,9 @@ msgid ""
 "menu items should have an obvious relationship with the overall purpose of "
 "the menu."
 msgstr ""
+"Los botones de propósito simple deberán ser definidos de manera clara y "
+"consistente. Sus elementos del menú deberán tener una relación obvia  con el "
+"propósito general del menú."
 
 #. (itstool) path: item/p
 #: C/button-menus.page:48
