@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-16 19:43+0000\n"
-"PO-Revision-Date: 2015-01-21 12:16-0600\n"
+"PO-Revision-Date: 2015-01-21 12:26-0600\n"
 "Last-Translator: Miguel Ajuech <miguel.ann.28@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -380,6 +380,9 @@ msgid ""
 "for your application. These include standard items for accessing "
 "documentation and information about the application."
 msgstr ""
+"Los menús de las aplicaciones que proveen acceso a lo  global , las acciones "
+"y opciones de más alto nivel para tu aplicación. Estas incluyen elementos "
+"estandares para acceso a documentación e información acerca de la aplicación."
 
 #. (itstool) path: section/p
 #: C/application-menus.page:23
