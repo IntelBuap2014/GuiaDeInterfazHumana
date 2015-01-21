@@ -5149,9 +5149,8 @@ msgstr ""
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:681
-#, fuzzy
 msgid "<gui>Previous Page</gui>"
-msgstr "<guimenuitem><accel>P</accel>ágina anterior</guimenuitem>"
+msgstr "<gui>Página Anterior</gui>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:682
