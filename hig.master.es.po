@@ -4977,7 +4977,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-input.page:588
 msgid "<gui>List…</gui>"
-msgstr ""
+msgstr "<gui>Lista…</gui>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:590
