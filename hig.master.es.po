@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-16 19:43+0000\n"
-"PO-Revision-Date: 2015-01-21 12:56-0600\n"
+"PO-Revision-Date: 2015-01-21 12:58-0600\n"
 "Last-Translator: Miguel Ajuech <miguel.ann.28@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -518,6 +518,8 @@ msgid ""
 "Closes the application, including all application windows. Every application "
 "menu should include this item."
 msgstr ""
+"Cerrar la aplicación, incluyendo todas las ventanas de la aplicación. Cada "
+"menú de la aplicación deberá incluir este elemento."
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
