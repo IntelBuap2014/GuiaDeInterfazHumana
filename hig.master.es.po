@@ -5112,9 +5112,8 @@ msgstr "<gui>Arriba</gui>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:667
-#, fuzzy
 msgid "<keyseq><key>Alt</key><key>Up</key></keyseq>"
-msgstr "<keycombo><keycap>Alt</keycap><keysym>Arriba</keysym></keycombo>"
+msgstr "<keyseq><key>Alt</key><key>Arriba</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:668
