@@ -5095,9 +5095,8 @@ msgstr "<gui>Adelante</gui>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:662
-#, fuzzy
 msgid "<keyseq><key>Alt</key><key>Right</key></keyseq>"
-msgstr "<keycombo><keycap>Alt</keycap><keysym>Derecha</keysym></keycombo>"
+msgstr "<keyseq><key>Alt</key><key>Derecha</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:663
