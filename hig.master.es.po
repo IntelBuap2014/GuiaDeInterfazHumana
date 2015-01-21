@@ -7987,7 +7987,7 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/selection-mode.page:25
 msgid "Selection mode is appropriate when:"
-msgstr ""
+msgstr "El Modo de selección es apropiado cuando:"
 
 #. (itstool) path: item/p
 #: C/selection-mode.page:28
