@@ -5865,7 +5865,8 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/menu-bars.page:67
 msgid "Items found on the Format menu are very application-specific."
-msgstr ""
+msgstr "Elementos encontrados en el menú de Formato son muy "
+"específicos de la aplicación."
 
 #. (itstool) path: td/p
 #: C/menu-bars.page:70
@@ -5880,6 +5881,9 @@ msgid ""
 "files and folders, help documents, web pages or any other large information "
 "space."
 msgstr ""
+"Proporcionan un menú de Marcadores en cualquier aplicación que permita al "
+"usuario buscar archivos y carpetas, documentos de ayuda, páginas web o "
+"cualquier otro espacio con gran cantidad de información."
 
 #. (itstool) path: td/p
 #: C/menu-bars.page:74
