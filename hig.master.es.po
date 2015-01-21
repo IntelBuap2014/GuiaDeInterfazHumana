@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-16 19:43+0000\n"
-"PO-Revision-Date: 2015-01-19 23:50-0600\n"
+"PO-Revision-Date: 2015-01-20 18:14-0600\n"
 "Last-Translator: Miguel Ajuech <miguel.ann.28@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -485,6 +485,8 @@ msgid ""
 "Opens the application's about dialog. Every application menu should include "
 "this item."
 msgstr ""
+"Abre el cuadro de diálogo acerca de, propio de la aplicación. Cada menú de "
+"aplicación debe incluir este elemento."
 
 #. (itstool) path: td/p
 #: C/application-menus.page:61 C/keyboard-input.page:295
@@ -2987,12 +2989,12 @@ msgid ""
 "necessary to repeat the idea of an image in every icon. Instead, focus on "
 "what is distinct about each action (for example: rotate, tag, align)."
 msgstr ""
-"Identificar una propiedad simple cuando se busque una metáfora apropiada para " 
-"un icono, y centrarse en la idea que distingue lo que se quiere comunicar. "
-"Por ejemplo, cuando se describe una acción a ser realizada en una imagen, "
-"no es necesario repetir la idea de una imagen en cada icono.  En su lugar, "
-"centrarse en lo que es distinto sobre cada acción (por ejemplo: rotar, etiquetar, "
-"alinear)."
+"Identificar una propiedad simple cuando se busque una metáfora apropiada "
+"para un icono, y centrarse en la idea que distingue lo que se quiere "
+"comunicar. Por ejemplo, cuando se describe una acción a ser realizada en una "
+"imagen, no es necesario repetir la idea de una imagen en cada icono.  En su "
+"lugar, centrarse en lo que es distinto sobre cada acción (por ejemplo: "
+"rotar, etiquetar, alinear)."
 
 #. (itstool) path: item/p
 #: C/icons-and-artwork.page:98
@@ -3159,8 +3161,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/index.page:20
 msgid "Audience"
-msgstr ""
-"Audiencia"
+msgstr "Audiencia"
 
 #. (itstool) path: section/p
 #: C/index.page:22
@@ -3192,8 +3193,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/index.page:30
 msgid "Structure of the HIG"
-msgstr ""
-"Estructura de la IHG"
+msgstr "Estructura de la IHG"
 
 #. (itstool) path: section/p
 #: C/index.page:32
@@ -3202,9 +3202,9 @@ msgid ""
 "a reference resource that can be returned to again and again. They have "
 "three main sections:"
 msgstr ""
-"Los lineamientos de la Interfaz Humano puede ser leída desde principio a "
-"fin o usada como recurso de referencia que puede ser retomada una y otra "
-"vez. Tiene tres secciones principales."
+"Los lineamientos de la Interfaz Humano puede ser leída desde principio a fin "
+"o usada como recurso de referencia que puede ser retomada una y otra vez. "
+"Tiene tres secciones principales."
 
 #. (itstool) path: item/p
 #: C/index.page:35
@@ -5799,8 +5799,8 @@ msgid ""
 "or page, or how items are presented for browsing. Do not place any items on "
 "the <gui>View</gui> menu that affect content items."
 msgstr ""
-"Incluye elementos que afectan la vista del usuario, como el del documento "
-"o página actual, o cómo los elementos son presentados para navegación. No "
+"Incluye elementos que afectan la vista del usuario, como el del documento o "
+"página actual, o cómo los elementos son presentados para navegación. No "
 "colocar ningún elemento en el menú de <gui>Vista</gui> que afecte elementos "
 "de contenido."
 
