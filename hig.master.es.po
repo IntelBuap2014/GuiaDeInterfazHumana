@@ -5154,9 +5154,8 @@ msgstr "<gui>Página Anterior</gui>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:682
-#, fuzzy
 msgid "<key>PageUp</key>"
-msgstr "<keycap>Re Pág</keycap>"
+msgstr "<key>RePág</key>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:683
