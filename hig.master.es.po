@@ -5827,6 +5827,11 @@ msgid ""
 "more than about six types of object that can be inserted, otherwise place "
 "individual items for each type on the <gui>Edit</gui> menu."
 msgstr ""
+"Enlista los tipos de objetos que pueden ser insertados en el documento "
+"actual, tales como imagenes, enlaces o saltos de página. Proporcionar este "
+"menú sólo si se tienen más o aproximadamente seis tipos de objetos que "
+"puedan ser insertados, de otra forma poner elementos individuales para cada "
+"tipo en el menú de <gui>Edición</gui>."
 
 #. (itstool) path: td/p
 #: C/menu-bars.page:64
@@ -5853,6 +5858,9 @@ msgid ""
 "is that changes made with <gui>Format</gui> commands are persistent and "
 "saved as part of the document."
 msgstr ""
+"La diferencia entre estos comandos y aquellos en el menú de <gui>Vista</gui> "
+"es que los cambios hechos con comandos de <gui>Formato</gui> son "
+"persistentes y guardados como parte del documento."
 
 #. (itstool) path: td/p
 #: C/menu-bars.page:67
