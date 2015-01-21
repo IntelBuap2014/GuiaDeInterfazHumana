@@ -5197,9 +5197,8 @@ msgstr "<gui>Primer Página</gui>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:697
-#, fuzzy
 msgid "<keyseq><key>Ctrl</key><key>Home</key></keyseq>"
-msgstr "<keycombo><keycap>Ctrl</keycap><keycap>Inicio</keycap></keycombo>"
+msgstr "<keyseq><key>Ctrl</key><key>Inicio</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:698
