@@ -9533,6 +9533,8 @@ msgid ""
 "differentiate them. This makes an interface far easier to read and "
 "understand."
 msgstr ""
+"Organize controles e información relacionada en grupos, y use espacio para "
+"diferenciarlos. Esto hace una interfaz mucho mas fácil de leer y entender."
 
 #. (itstool) path: item/p
 #: C/visual-layout.page:41
@@ -9540,6 +9542,9 @@ msgid ""
 "As a rule of thumb, leave space between elements in increments of 6 pixels, "
 "going up as the relationship between related elements becomes more distant."
 msgstr ""
+"Como regla de oro, deje espacio entre los elementos en incrementos de 6 "
+"píxeles, aumentando hasta que la relación entre los elementos relacionados "
+"se vuelva mas distante."
 
 #. (itstool) path: item/p
 #: C/visual-layout.page:42
