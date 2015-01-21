@@ -5448,7 +5448,7 @@ msgid ""
 "When using column headers, indicate the sort order using arrows on the "
 "header."
 msgstr ""
-"Al usar encabezados de columnas, indique el orden usando las flechas en el "
+"Al usar encabezados de columnas, indicar el orden usando las flechas en el "
 "encabezado."
 
 #. (itstool) path: td/p
@@ -5510,7 +5510,7 @@ msgid ""
 "clicked or pressed. There are three types of list in this regard:"
 msgstr ""
 "Dependiendo del tipo de lista, las filas tienen diferente comportamiento "
-"cuando ellas se seleccionan o pulsan con el botón del ratón. En este "
+"cuando se pulsa o selecciona alguna con el botón del ratón. En este "
 "sentido, hay tres tipos de listas:"
 
 #. (itstool) path: td/p
@@ -5556,9 +5556,9 @@ msgid ""
 msgstr ""
 "El elemento de la lista se selecciona al hacer clic en él. Este enfoque se "
 "usa comunmente para seleccionar una de una serie de opciones de "
-"configuración. En el caso de <link xref=\"drop-down-lists\">menú "
+"configuración. En el caso del <link xref=\"drop-down-lists\">menú "
 "desplegable</link>, una opción es siempre seleccionada. La fila seleccionada "
-"se indica por una marca de verificación."
+"se indica con una marca de verificación."
 
 #. (itstool) path: td/p
 #: C/lists.page:120
@@ -5566,7 +5566,7 @@ msgid ""
 "Selecting the row item turns the row into a text entry field, which allows "
 "the item to be edited."
 msgstr ""
-"Seleccionar la fila convierte a la fila en un campo de texto, que permite "
+"Seleccionar la fila convierte a la fila en un campo de texto que permite "
 "que el elemento sea editado."
 
 #. (itstool) path: section/p
@@ -5577,10 +5577,10 @@ msgid ""
 "manipulated. Using double-click to open list items should be avoided, since "
 "it is undiscoverable and is incompatible with touch input."
 msgstr ""
-"Los estilos de las listas de navegación pueden combinarse con <link xref="
+"Los estilos de las listas de navegación pueden combinarse con la <link xref="
 "\"selection-mode\">Función de selección</link> para permitir a las filas ser "
-"abiertas y manipuladas a la vez. Usar doble clic para abrir elementos de "
-"lista debería evitarse, pues es incompatible e irreconocible por la entrada "
+"abiertas y manipuladas a la vez. Debería evitarse usar doble clic para abrir "
+"elementos de lista, pues es incompatible e irreconocible por la entrada "
 "táctil."
 
 #. (itstool) path: item/p
@@ -5591,10 +5591,10 @@ msgid ""
 "important and relevant information by giving other information a lighter "
 "weight and/or color."
 msgstr ""
-"Distingue los diferentes tipos de información usando alineaciones "
-"diferentes, <link xref=\"typography\">colores de texto y pesos</link>. "
-"Resalta la información más importante y relevante dando otra información de "
-"un color y/o peso más claro."
+"Distingue los diferentes tipos de información usando ajustes "
+"diferentes, <link xref=\"typography\">colores de texto y grosor</link>. "
+"Resalta la información más importante y relevante dando a otra información "
+"un color y/o grosor más suave."
 
 #. (itstool) path: item/p
 #: C/lists.page:134
