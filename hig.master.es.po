@@ -5899,6 +5899,7 @@ msgstr ""
 msgid ""
 "The contents of the menu will vary depending on the type of application."
 msgstr ""
+"Los contenidos del menú pueden variar dependiendo del tipo de aplicación."
 
 #. (itstool) path: td/p
 #: C/menu-bars.page:79
