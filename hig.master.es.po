@@ -5394,6 +5394,8 @@ msgstr "Cuando una ventana contiene varias listas."
 msgid ""
 "When the list needs to be aligned with other controls inside the window."
 msgstr ""
+"Cuando la lista necesita estar alineada con otros controles dentro de la "
+"ventana."
 
 #. (itstool) path: section/title
 #: C/lists.page:54
