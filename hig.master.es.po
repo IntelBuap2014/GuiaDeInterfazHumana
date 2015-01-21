@@ -2413,6 +2413,12 @@ msgid ""
 "or <link xref=\"popovers\">popovers</link> are a better choice for this "
 "situation."
 msgstr ""
+"Los menús de la barra de encabezado no son una buena opción para ejecutar acciones sobre un contenido "
+"seleccionado: cuando el contenido no ah sido seleccionado, el menú contendrá elementos "
+"de menú insensibles inútiles, y cuando el el contenido ah sido seleccionado, no se anuncian "
+"posibles acciones. El <link xref=\"selection-mode\">Modo de Selección</link> "
+"o <link xref=\"popovers\">popovers</link> son una mejor opción para esta "
+"situación."
 
 #. (itstool) path: section/title
 #: C/header-bar-menus.page:34
