@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-16 19:43+0000\n"
-"PO-Revision-Date: 2015-01-21 12:47-0600\n"
+"PO-Revision-Date: 2015-01-21 12:50-0600\n"
 "Last-Translator: Miguel Ajuech <miguel.ann.28@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -477,6 +477,8 @@ msgid ""
 "Opens the application's preferences dialog. Only show this menu item if your "
 "application has a preferences dialog."
 msgstr ""
+"Abrir el dialogo de preferencias de la aplicación. Solo mostrar este "
+"elemento de menú si su aplicacióntiene dialog de preferencias."
 
 #. (itstool) path: td/p
 #: C/application-menus.page:53 C/keyboard-input.page:285
