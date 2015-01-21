@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-16 19:43+0000\n"
-"PO-Revision-Date: 2015-01-20 18:24-0600\n"
+"PO-Revision-Date: 2015-01-21 12:16-0600\n"
 "Last-Translator: Miguel Ajuech <miguel.ann.28@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -340,6 +340,9 @@ msgid ""
 "Ensure that your application name is short - fewer than 15 characters. This "
 "will ensure that it is always displayed in full within a GNOME 3 environment."
 msgstr ""
+"Se debe asegurar que el nombre de su aplicación es corto - menos de 15 "
+"carácteres. Esto asegurará que siempre se muestre en su totalidad el "
+"ambiente de GNOME3. "
 
 #. (itstool) path: section/p
 #: C/application-basics.page:63
@@ -2086,8 +2089,8 @@ msgstr "Permite valores personalizados para ser eliminados de la lista."
 #: C/drop-down-lists.page:51
 msgid "Validate custom values as they are entered, in order to prevent errors."
 msgstr ""
-"Valida valores personalizados a medida que se introducen, con el fin de"
-"evitar errores."
+"Valida valores personalizados a medida que se introducen, con el fin "
+"deevitar errores."
 
 #. (itstool) path: item/p
 #: C/drop-down-lists.page:52
@@ -2168,8 +2171,8 @@ msgstr "Organización de elementos en las interfaces de usuario."
 msgid ""
 "<link xref=\"writing-style\"><em style=\"strong\">Writing style</em></link>"
 msgstr ""
-"<link xref=\"writing-style\"><em style=\"strong\">Estilo de escritura</em>"
-"</link>"
+"<link xref=\"writing-style\"><em style=\"strong\">Estilo de escritura</em></"
+"link>"
 
 #. (itstool) path: td/p
 #. (itstool) path: info/desc
@@ -2413,9 +2416,9 @@ msgid ""
 "link>. As such, a header bar menu can include a variety of controls, such as "
 "groups of buttons."
 msgstr ""
-"Un menu de la barra de encabezado es contenido dentro de un <link xref=\"popovers\">popover</link>. "
-"Como tal, un menu de la barra de encabezado puede incluir una variedad de controles, como un "
-"grupo de botones."
+"Un menu de la barra de encabezado es contenido dentro de un <link xref="
+"\"popovers\">popover</link>. Como tal, un menu de la barra de encabezado "
+"puede incluir una variedad de controles, como un grupo de botones."
 
 #. (itstool) path: item/p
 #: C/header-bar-menus.page:40
@@ -2424,9 +2427,10 @@ msgid ""
 "already provided by the header bar. It can also be ambiguous as to what a "
 "close menu item refers to."
 msgstr ""
-"Un menu de la barra de encabezado no debe incluir un elemento cerrar menu, ya que esta accion "
-"ya esta proporcionada por la barra de encabezado. Esto tambien puede ser ambiguo en cuanto a lo "
-"que un elemento cerrar menu se refiere."
+"Un menu de la barra de encabezado no debe incluir un elemento cerrar menu, "
+"ya que esta accion ya esta proporcionada por la barra de encabezado. Esto "
+"tambien puede ser ambiguo en cuanto a lo que un elemento cerrar menu se "
+"refiere."
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -5505,8 +5509,8 @@ msgid ""
 "clicked or pressed. There are three types of list in this regard:"
 msgstr ""
 "Dependiendo del tipo de lista, las filas tienen diferente comportamiento "
-"cuando se pulsa o selecciona alguna con el botón del ratón. En este "
-"sentido, hay tres tipos de listas:"
+"cuando se pulsa o selecciona alguna con el botón del ratón. En este sentido, "
+"hay tres tipos de listas:"
 
 #. (itstool) path: td/p
 #: C/lists.page:105
@@ -5561,8 +5565,8 @@ msgid ""
 "Selecting the row item turns the row into a text entry field, which allows "
 "the item to be edited."
 msgstr ""
-"Seleccionar la fila convierte a la fila en un campo de texto que permite "
-"que el elemento sea editado."
+"Seleccionar la fila convierte a la fila en un campo de texto que permite que "
+"el elemento sea editado."
 
 #. (itstool) path: section/p
 #: C/lists.page:125
@@ -5586,10 +5590,10 @@ msgid ""
 "important and relevant information by giving other information a lighter "
 "weight and/or color."
 msgstr ""
-"Distingue los diferentes tipos de información usando ajustes "
-"diferentes, <link xref=\"typography\">colores de texto y grosor</link>. "
-"Resalta la información más importante y relevante dando a otra información "
-"un color y/o grosor más suave."
+"Distingue los diferentes tipos de información usando ajustes diferentes, "
+"<link xref=\"typography\">colores de texto y grosor</link>. Resalta la "
+"información más importante y relevante dando a otra información un color y/o "
+"grosor más suave."
 
 #. (itstool) path: item/p
 #: C/lists.page:134
@@ -5862,8 +5866,9 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/menu-bars.page:67
 msgid "Items found on the Format menu are very application-specific."
-msgstr "Elementos encontrados en el menú de Formato son muy "
-"específicos de la aplicación."
+msgstr ""
+"Elementos encontrados en el menú de Formato son muy específicos de la "
+"aplicación."
 
 #. (itstool) path: td/p
 #: C/menu-bars.page:70
@@ -9513,9 +9518,9 @@ msgid ""
 "distracting."
 msgstr ""
 "Alinear contenido y controles en su diseño con exactitud. El ojo es muy "
-"sensible para alinear y desalinear objetos. Si los elementos visuales no "
-"se alinean, sera dificil para algunos el analizarlos. Los elementos que no "
-"se alinean por completo seran distractivos."
+"sensible para alinear y desalinear objetos. Si los elementos visuales no se "
+"alinean, sera dificil para algunos el analizarlos. Los elementos que no se "
+"alinean por completo seran distractivos."
 
 #. (itstool) path: item/p
 #: C/visual-layout.page:38
