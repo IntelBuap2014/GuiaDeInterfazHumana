@@ -1999,9 +1999,8 @@ msgstr "El número de opciones es grande."
 
 #. (itstool) path: item/p
 #: C/drop-down-lists.page:23
-#, fuzzy
 msgid "There is little available space."
-msgstr "hay poco espacio disponible"
+msgstr "Hay poco espacio disponible."
 
 #. (itstool) path: item/p
 #: C/drop-down-lists.page:24
