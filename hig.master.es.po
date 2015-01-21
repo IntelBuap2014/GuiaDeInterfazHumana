@@ -9514,6 +9514,10 @@ msgid ""
 "be hard for someone to scan them. Elements that do not quite line up will be "
 "distracting."
 msgstr ""
+"Alinear contenido y controles en su diseño con exactitud. El ojo es muy "
+"sensible para alinear y desalinear objetos. Si los elementos visuales no "
+"se alinean, sera dificil para algunos el analizarlos. Los elementos que no "
+"se alinean por completo seran distractivos."
 
 #. (itstool) path: item/p
 #: C/visual-layout.page:38
