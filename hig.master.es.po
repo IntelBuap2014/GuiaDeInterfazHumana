@@ -5212,9 +5212,8 @@ msgstr "<gui>Última Página</gui>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:702
-#, fuzzy
 msgid "<keyseq><key>Ctrl</key><key>End</key></keyseq>"
-msgstr "<keycombo><keycap>Ctrl</keycap><keycap>Fin</keycap></keycombo>"
+msgstr "<keyseq><key>Ctrl</key><key>Fin</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:703
