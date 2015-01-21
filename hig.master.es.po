@@ -868,7 +868,7 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/buttons.page:79
 msgid "Each view should only include a single suggested or destructive button."
-msgstr ""
+msgstr "Cada vista solo deberia incluir un único botón sugerido o destructivo."
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
