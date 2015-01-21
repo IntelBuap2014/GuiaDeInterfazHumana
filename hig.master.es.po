@@ -2080,12 +2080,14 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/drop-down-lists.page:50
 msgid "Allow custom values to be removed from the list."
-msgstr ""
+msgstr "Permite valores personalizados para ser eliminados de la lista."
 
 #. (itstool) path: item/p
 #: C/drop-down-lists.page:51
 msgid "Validate custom values as they are entered, in order to prevent errors."
 msgstr ""
+"Valida valores personalizados a medida que se introducen, con el fin de"
+"evitar errores."
 
 #. (itstool) path: item/p
 #: C/drop-down-lists.page:52
