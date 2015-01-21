@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-16 19:43+0000\n"
-"PO-Revision-Date: 2015-01-21 13:00-0600\n"
+"PO-Revision-Date: 2015-01-21 13:03-0600\n"
 "Last-Translator: Miguel Ajuech <miguel.ann.28@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -782,6 +782,8 @@ msgid ""
 "Make invalid buttons insensitive, rather than popping up an error message "
 "when the user clicks them."
 msgstr ""
+"Hacer botones inválidos insensibles, en  lugar de aparecer un mensaje de "
+"error cuando el usuario hace click en ellos. "
 
 #. (itstool) path: item/p
 #: C/buttons.page:40
