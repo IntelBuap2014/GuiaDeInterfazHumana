@@ -5165,7 +5165,7 @@ msgstr "Navega a la página anterior en el documento."
 #. (itstool) path: td/p
 #: C/keyboard-input.page:686
 msgid "<gui>Next Page</gui>"
-msgstr ""
+msgstr "<gui>siguiente Página</gui>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:687
