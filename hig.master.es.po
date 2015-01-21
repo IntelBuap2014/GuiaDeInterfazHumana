@@ -9489,6 +9489,8 @@ msgid ""
 "Following these visual layout guidelines will help you to produce an "
 "application that is beautiful, easy to understand, and efficient to use."
 msgstr ""
+"Siguiendo estos lineamientos de diseño visual le ayudara a producir una "
+"aplicación que sea agradable, fácil de comprender y eficiente de usar."
 
 #. (itstool) path: item/p
 #: C/visual-layout.page:36
