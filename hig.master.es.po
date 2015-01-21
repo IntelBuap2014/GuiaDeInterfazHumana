@@ -5058,7 +5058,7 @@ msgstr "Lista de marcadores"
 #. (itstool) path: td/p
 #: C/keyboard-input.page:634
 msgid "Displays the user’s bookmarks."
-msgstr ""
+msgstr "Muestra los marcadores del usuario."
 
 #. (itstool) path: section/title
 #: C/keyboard-input.page:642
