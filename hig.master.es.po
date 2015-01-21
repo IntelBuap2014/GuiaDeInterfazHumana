@@ -5310,6 +5310,9 @@ msgid ""
 "information, content items, or controls. There are two primary types of list "
 "in GNOME 3: standard lists and tables."
 msgstr ""
+"Las listas son un elemento básico de la interfaz de usuario que pueden ser "
+"utilizadas para presentar información, elementos de contenido, o controles. "
+"Hay dos tipos principales de lista en GNOME 3: listas estándar y tablas."
 
 #. (itstool) path: page/p
 #: C/lists.page:18
