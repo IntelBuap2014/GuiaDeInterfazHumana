@@ -2168,6 +2168,8 @@ msgstr "Organización de elementos en las interfaces de usuario."
 msgid ""
 "<link xref=\"writing-style\"><em style=\"strong\">Writing style</em></link>"
 msgstr ""
+"<link xref=\"writing-style\"><em style=\"strong\">Estilo de escritura</em>"
+"</link>"
 
 #. (itstool) path: td/p
 #. (itstool) path: info/desc
