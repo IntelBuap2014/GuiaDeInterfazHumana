@@ -5108,7 +5108,7 @@ msgstr "Ir a la siguiente ubicación en la cadena de navegación"
 #. (itstool) path: td/p
 #: C/keyboard-input.page:666 C/keyboard-input.page:671
 msgid "<gui>Up</gui>"
-msgstr ""
+msgstr "<gui>Arriba</gui>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:667
