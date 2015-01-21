@@ -5124,9 +5124,8 @@ msgstr "Navega a la siguiente página en el documento."
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:672
-#, fuzzy
 msgid "<keyseq><key>Alt</key><key>Home</key></keyseq>"
-msgstr "<keycombo><keycap>Alt</keycap><keysym>Inicio</keysym></keycombo>"
+msgstr "<keyseq><key>Alt</key><key>Inicio</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:673
