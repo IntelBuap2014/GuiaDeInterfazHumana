@@ -2373,10 +2373,10 @@ msgid ""
 "useful controls."
 msgstr ""
 "Mientras las acciones usadas con mayor frecuencia para una vista deben ser "
-"colocadas directamente en la barra de encabezado, un menu de la barra de "
+"colocadas directamente en la barra de encabezado, un menú de la barra de "
 "encabezado provee acceso a acciones menos utilizadas. Esto asegura que la "
 "barra de encabezado no este abrumada con controles menos interesantes o "
-"menos utiles."
+"menos útiles."
 
 #. (itstool) path: page/p
 #: C/header-bar-menus.page:22
@@ -2384,9 +2384,9 @@ msgid ""
 "In this way, the header bar menus help to create focused views that guide "
 "the user towards the most interesting and useful functionality."
 msgstr ""
-"De esta forma, los menus de la barra de encabezado ayudan a crear vistas "
-"enfocadas que guiaran al usuario hacia una funcionalidad mas interesante y "
-"util."
+"De esta forma, los menús de la barra de encabezado ayudan a crear vistas "
+"enfocadas que guiarán al usuario hacia una funcionalidad más interesante y "
+"útil."
 
 #. (itstool) path: section/p
 #: C/header-bar-menus.page:27
@@ -2397,11 +2397,11 @@ msgid ""
 "prominence in the view, an <link xref=\"action-bars\">action bar</link> "
 "might be a better choice."
 msgstr ""
-"Usa un menu de la barra de encabezado para presentar acciones u opciones "
+"Usa un menú de la barra de encabezado para presentar acciones u opciones "
 "adicionales para la vista actual. Estos son más usados cuando no se utilizan "
-"estas acciones u opciones la mayoria del tiempo - si hay un conjunto de "
+"estas acciones u opciones la mayoría del tiempo - si hay un conjunto de "
 "acciones que merecen mayor prominencia en la vista, una <link xref=\"action-"
-"bars\">barra de accion</link> podria ser una mejor opcion."
+"bars\">barra de accion</link> podria ser una mejor opción."
 
 #. (itstool) path: section/p
 #: C/header-bar-menus.page:29
@@ -2417,7 +2417,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/header-bar-menus.page:34
 msgid "Guidance"
-msgstr "Direccion"
+msgstr "Dirección"
 
 #. (itstool) path: item/p
 #: C/header-bar-menus.page:37
@@ -2425,14 +2425,14 @@ msgid ""
 "Header bar menus should only contain actions for the current view or window "
 "- this differentiates their content from application menus."
 msgstr ""
-"Los menus de la barra de encabezado solo deben contener acciones para la "
-"vista o ventana actual - esto diferencia su contenido de los menus de "
+"Los menús de la barra de encabezado sólo deben contener acciones para la "
+"vista o ventana actual - esto diferencia su contenido de los menús de "
 "aplicacion."
 
 #. (itstool) path: item/p
 #: C/header-bar-menus.page:38
 msgid "Follow the <link xref=\"menus\">standard guidelines for menus</link>."
-msgstr "Sigue las <link xref=\"menus\">directrices estandar para menus</link>."
+msgstr "Sigue las <link xref=\"menus\">directrices estándar para menús</link>."
 
 #. (itstool) path: item/p
 #: C/header-bar-menus.page:39
@@ -2441,8 +2441,8 @@ msgid ""
 "link>. As such, a header bar menu can include a variety of controls, such as "
 "groups of buttons."
 msgstr ""
-"Un menu de la barra de encabezado es contenido dentro de un <link xref="
-"\"popovers\">popover</link>. Como tal, un menu de la barra de encabezado "
+"Un menú de la barra de encabezado es contenido dentro de un <link xref="
+"\"popovers\">popover</link>. Como tal, un menú de la barra de encabezado "
 "puede incluir una variedad de controles, como un grupo de botones."
 
 #. (itstool) path: item/p
@@ -2452,9 +2452,9 @@ msgid ""
 "already provided by the header bar. It can also be ambiguous as to what a "
 "close menu item refers to."
 msgstr ""
-"Un menu de la barra de encabezado no debe incluir un elemento cerrar menu, "
-"ya que esta accion ya esta proporcionada por la barra de encabezado. Esto "
-"tambien puede ser ambiguo en cuanto a lo que un elemento cerrar menu se "
+"Un menú de la barra de encabezado no debe incluir un elemento cerrar menú, "
+"ya que esta acción ya esta proporcionada por la barra de encabezado. Esto "
+"también puede ser ambiguo en cuanto a lo que un elemento cerrar menu se "
 "refiere."
 
 #. (itstool) path: media
