@@ -5042,9 +5042,8 @@ msgstr ""
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:627
-#, fuzzy
 msgid "<gui>Edit Bookmarks</gui>"
-msgstr "Editar marcadores"
+msgstr "<gui>Editar Marcadores</gui>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:629
