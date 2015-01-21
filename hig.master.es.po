@@ -3267,9 +3267,8 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/keyboard-input.page:26
-#, fuzzy
 msgid "Keyboard input"
-msgstr "Teclado"
+msgstr "Entrada de teclado"
 
 #. (itstool) path: page/p
 #: C/keyboard-input.page:28
