@@ -5207,9 +5207,8 @@ msgstr "Navega hasta la primera página del documento."
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:701
-#, fuzzy
 msgid "<gui>Last Page</gui>"
-msgstr "Última página"
+msgstr "<gui>Última Página</gui>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:702
