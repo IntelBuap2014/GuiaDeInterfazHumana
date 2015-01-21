@@ -5193,7 +5193,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-input.page:696
 msgid "<gui>First Page</gui>"
-msgstr ""
+msgstr "<gui>Primer Página</gui>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:697
