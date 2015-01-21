@@ -7787,6 +7787,9 @@ msgid ""
 "for some objects in the selection and unset for others, show the radio "
 "button in its mixed state."
 msgstr ""
+"Si el botón de opción representa un ajuste en una selección múltiple que "
+"se establece para algunos objetos en la selección y deseleccionar a los "
+"demás, muestre el botón de radio en su estado mixto. "
 
 #. (itstool) path: item/p
 #: C/radio-buttons.page:41
@@ -7804,6 +7807,10 @@ msgid ""
 "this makes them easier to scan visually. Use horizontal or rectangular "
 "alignments only if they greatly improve the layout of the window."
 msgstr ""
+"Trate de alinear grupos de botones de radio verticalmente en lugar de "
+"horizontalmente, ya que esto hace que sea más fácil de visualizar. "
+"Utilice alineaciones horizontales o rectangulares sólo si mejoran en "
+"gran medida el diseño de la ventana. "
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -7914,6 +7921,9 @@ msgid ""
 "can make the search bar permanently visible, or visible when the application "
 "is first started."
 msgstr ""
+"Si búsqueda es el método principal para la búsqueda de contenido en su "
+"aplicación, puede hacer que la barra de búsqueda sea permanentemente "
+"visible, o visible cuando se inicia la aplicación por primera vez."
 
 #. (itstool) path: section/title
 #: C/search.page:49
@@ -7927,6 +7937,9 @@ msgid ""
 "Search should be “live” wherever possible - the content view should update "
 "to display search results as they are entered."
 msgstr ""
+"Buscar debería ser "en tiempo real" siempre que sea posible - la vista de "
+"contenido debe actualizarse para mostrar los resultados de búsqueda a "
+"medida que son introducidos. "
 
 #. (itstool) path: item/p
 #: C/search.page:53
@@ -7943,6 +7956,9 @@ msgid ""
 "If a search term does not return any results, ensure that feedback is given "
 "in the content view. Often a simple \"No results\" label is sufficient."
 msgstr ""
+"Si un término de búsqueda no devuelve ningún resultado, asegúrese de que "
+"la retroalimentación se dé en la vista de contenido. A menudo, una simple"
+"etiqueta \"No hay resultados\" es suficiente."
 
 #. (itstool) path: section/title
 #: C/search.page:60
