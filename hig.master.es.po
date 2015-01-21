@@ -5000,7 +5000,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-input.page:598
 msgid "<gui>Page…</gui>"
-msgstr ""
+msgstr "<gui>Página…</gui>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:600
