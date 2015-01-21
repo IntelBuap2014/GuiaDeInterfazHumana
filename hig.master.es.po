@@ -5235,7 +5235,7 @@ msgstr "Elementos del menú de ventana"
 #. (itstool) path: td/p
 #: C/keyboard-input.page:725
 msgid "<gui>Save All</gui>"
-msgstr ""
+msgstr "<gui>Guardar Todo</gui>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:727
