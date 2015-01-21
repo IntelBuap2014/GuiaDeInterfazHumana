@@ -1577,6 +1577,7 @@ msgstr "Hay muchas formas de evitar el uso de diálogos:"
 #: C/dialogs.page:44
 msgid "Use inline composition for new messages, records or contacts."
 msgstr ""
+"Utilice composición en línea para nuevos mensajes, registros o contactos."
 
 #. (itstool) path: item/p
 #: C/dialogs.page:45
