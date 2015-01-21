@@ -5387,7 +5387,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/lists.page:45
 msgid "When a window contains several lists."
-msgstr ""
+msgstr "Cuando una ventana contiene varias listas."
 
 #. (itstool) path: item/p
 #: C/lists.page:46
