@@ -5078,9 +5078,8 @@ msgstr ""
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:657
-#, fuzzy
 msgid "<keyseq><key>Alt</key><key>Left</key></keyseq>"
-msgstr "<keycombo><keycap>Alt</keycap><keysym>Izquierda</keysym></keycombo>"
+msgstr "<keyseq><key>Alt</key><key>Izquierda</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-input.page:658
