@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
 "POT-Creation-Date: 2015-01-16 19:43+0000\n"
-"PO-Revision-Date: 2015-01-20 18:14-0600\n"
+"PO-Revision-Date: 2015-01-20 18:24-0600\n"
 "Last-Translator: Miguel Ajuech <miguel.ann.28@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -418,6 +418,8 @@ msgid ""
 "If an item from the application menu is frequently used, consider moving it "
 "to a more accessible location."
 msgstr ""
+"Si un elemento del menú de aplicación se usa frecuentemente, considere "
+"moverlo a una ubicación más accesible."
 
 #. (itstool) path: section/title
 #: C/application-menus.page:39
