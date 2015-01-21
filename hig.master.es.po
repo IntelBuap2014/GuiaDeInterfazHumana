@@ -9522,7 +9522,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/visual-layout.page:38
 msgid "Be consistent. Use the same amounts of spacing throughout."
-msgstr ""
+msgstr "Sea consistente. Use la misma cantidad de espacio siempre."
 
 #. (itstool) path: item/p
 #: C/visual-layout.page:39
