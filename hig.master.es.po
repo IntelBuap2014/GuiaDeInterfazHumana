@@ -9531,6 +9531,8 @@ msgid ""
 "differentiate them. This makes an interface far easier to read and "
 "understand."
 msgstr ""
+"Organize controles e información relacionada en grupos, y use espacio para "
+"diferenciarlos. Esto hace una interfaz mucho mas fácil de leer y entender."
 
 #. (itstool) path: item/p
 #: C/visual-layout.page:41
