@@ -2248,6 +2248,8 @@ msgstr ""
 msgid ""
 "<link xref=\"keyboard-input\"><em style=\"strong\">Keyboard input</em></link>"
 msgstr ""
+"<link xref=\"keyboard-input\"><em style=\"strong\">Entrada de "
+"teclado</em></link>"
 
 #. (itstool) path: td/p
 #. (itstool) path: info/desc
