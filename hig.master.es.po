@@ -2498,9 +2498,9 @@ msgid ""
 "window control buttons (typically a single close button), and provide access "
 "to a window controls menu."
 msgstr ""
-"Controles de la ventana - las barras de encabezado permiten mover ventanas arrastrandolas, incluyen "
-"botones de control de la ventana (típicamente un solo boton de cierre), y provee acceso "
-"a un menú de controles de la ventana."
+"Controles de la ventana - las barras de encabezado permiten mover ventanas "
+"arrastrandolas, incluyen botones de control de la ventana (típicamente un "
+" solo boton de cierre), y provee acceso a un menú de controles de la ventana."
 
 #. (itstool) path: item/p
 #: C/header-bars.page:22
@@ -2508,8 +2508,9 @@ msgid ""
 "Headings - a key role of a header bar is to provide context for the content "
 "of the window, either through a heading or view switcher."
 msgstr ""
-"Encabezados - Un papel clave de una barra de encabezado es proporcionar un contexto para el contenido "
-"de la ventana, ya sea a través de un conmutador de encabezado o de vista."
+"Encabezados - Un papel clave de una barra de encabezado es proporcionar un "
+"contexto para el contenido de la ventana, ya sea a través de un conmutador "
+"de encabezado o de vista."
 
 #. (itstool) path: item/p
 #: C/header-bars.page:23
@@ -2517,6 +2518,8 @@ msgid ""
 "Controls - header bars provide a place for key controls, typically in the "
 "form of buttons."
 msgstr ""
+"Controles - Las barras de encabezado proveen un lugar para los controles clave, "
+"típicamente en forma de botones."
 
 #. (itstool) path: section/p
 #: C/header-bars.page:29
