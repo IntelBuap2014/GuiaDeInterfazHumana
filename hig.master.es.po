@@ -2611,9 +2611,8 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/header-bars.page:58
-#, fuzzy
 msgid "Additional guidance"
-msgstr "Botones adicionales"
+msgstr "Orientación adicional"
 
 #. (itstool) path: item/p
 #: C/header-bars.page:61
