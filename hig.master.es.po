@@ -13,8 +13,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
-"POT-Creation-Date: 2015-01-21 19:35+0000\n"                            
-"PO-Revision-Date: 2015-01-16 12:05+0100\n"                             
+"POT-Creation-Date: 2015-01-21 19:35+0000\n"
+"PO-Revision-Date: 2015-01-16 12:05+0100\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Gtranslator 2.91.6\n"  
+"X-Generator: Gtranslator 2.91.6\n"
 
 #. (itstool) path: p/link
 #: C/legal.xml:5
