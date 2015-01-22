@@ -2584,7 +2584,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/header-bars.page:47
 msgid "Header bars are dynamic"
-msgstr ""
+msgstr "Las barras de encabezado son dinámicas"
 
 #. (itstool) path: section/p
 #: C/header-bars.page:49
