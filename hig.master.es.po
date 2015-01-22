@@ -7953,9 +7953,6 @@ msgid ""
 "Search should be “live” wherever possible - the content view should update "
 "to display search results as they are entered."
 msgstr ""
-"Buscar debería ser "en tiempo real" siempre que sea posible - la vista de "
-"contenido debe actualizarse para mostrar los resultados de búsqueda a "
-"medida que son introducidos. "
 
 #. (itstool) path: item/p
 #: C/search.page:53
