@@ -2498,6 +2498,9 @@ msgid ""
 "window control buttons (typically a single close button), and provide access "
 "to a window controls menu."
 msgstr ""
+"Controles de la ventana - las barras de encabezado permiten mover ventanas arrastrandolas, incluyen "
+"botones de control de la ventana (típicamente un solo boton de cierre), y provee acceso "
+"a un menú de controles de la ventana."
 
 #. (itstool) path: item/p
 #: C/header-bars.page:22
