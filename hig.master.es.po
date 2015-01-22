@@ -9075,6 +9075,11 @@ msgid ""
 "GNOME 3, the default font is Cantarell, which was originally designed and "
 "developed by David Crossland."
 msgstr ""
+"Siempre que sea posible, use las fuentes por defecto del sistema "
+"proporcionados por la distribución o sistema operativo en el cual su "
+"aplicación se esta ejecutando. En GNOME 3, la fuente por defecto es "
+"Cantarell, el cual fue diseñado y desarrollado originalmente por David "
+"Crossland."
 
 #. (itstool) path: section/title
 #: C/typography.page:29
