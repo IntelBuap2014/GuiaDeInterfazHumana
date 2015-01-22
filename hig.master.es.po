@@ -9086,7 +9086,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/typography.page:29
 msgid "Variants, Sizes and Weights"
-msgstr ""
+msgstr "Variantes, Tamaños y Grosores"
 
 #. (itstool) path: section/p
 #: C/typography.page:31
