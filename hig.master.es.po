@@ -9606,6 +9606,8 @@ msgstr ""
 #: C/visual-layout.page:42
 msgid "Between labels and associated components, leave 12 horizontal pixels."
 msgstr ""
+"Entre las etiquetas y componentes asociados, deje 12 píxeles "
+"horizontales."
 
 #. (itstool) path: item/p
 #: C/visual-layout.page:43
