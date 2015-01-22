@@ -2488,7 +2488,7 @@ msgid ""
 "Header bars are a common horizontal element which are placed at the top of "
 "windows. They play a number of roles:"
 msgstr ""
-"Las barras de encabezado son un elemento horizontal comun que se colocan en "
+"Las barras de encabezado son un elemento horizontal común que se colocan en "
 "la parte superior de la ventana. Estas desempeñan una serie de funciones:"
 
 #. (itstool) path: item/p
