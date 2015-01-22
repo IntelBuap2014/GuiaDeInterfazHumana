@@ -9097,6 +9097,11 @@ msgid ""
 "way to convey information. Make an effort to minimize the range of font "
 "variants, sizes and weights."
 msgstr ""
+"Los diferentes grosores y colores del texto pueden y deben ser usados para "
+"distringuir los diferentes tipos de información. Al mismo tiempo, muchas "
+"variantes, tamaños y grosores pueden hacer al texto más dificil de leer y no "
+"es una manera eficiente o elegante para transmitir información. Haga un "
+"esfuerzo para reducir el rango de variantes, tamaños y grosores."
 
 #. (itstool) path: item/p
 #: C/typography.page:34
