@@ -2508,6 +2508,8 @@ msgid ""
 "Headings - a key role of a header bar is to provide context for the content "
 "of the window, either through a heading or view switcher."
 msgstr ""
+"Encabezados - Un papel clave de una barra de encabezado es proporcionar un contexto para el contenido "
+"de la ventana, ya sea a través de un conmutador de encabezado o de vista."
 
 #. (itstool) path: item/p
 #: C/header-bars.page:23
