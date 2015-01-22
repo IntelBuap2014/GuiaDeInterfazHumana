@@ -3590,7 +3590,7 @@ msgstr ""
 "Teclas de acceso permiten a alguien operar controles etiquetados usando <key>Alt</"
 "key>. Estos son indicados por una letra subrayada dentro de cada etiqueta de control "
 "(este es desplagado cuando <key>Alt</key> es pulsado)."
-
+ 
 #. (itstool) path: item/p
 #: C/keyboard-input.page:122
 msgid "Where possible, all labelled components should have an access key."
