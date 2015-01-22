@@ -9064,9 +9064,8 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/typography.page:22
-#, fuzzy
 msgid "Default Fonts"
-msgstr "Botones predeterminados"
+msgstr "Fuente por defecto"
 
 #. (itstool) path: section/p
 #: C/typography.page:24
