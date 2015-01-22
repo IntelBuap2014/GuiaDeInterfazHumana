@@ -9042,7 +9042,7 @@ msgstr "William Jon McCann"
 #. (itstool) path: info/desc
 #: C/typography.page:14
 msgid "Font sizes, weights and styles, and special characters."
-msgstr "Tamaños, pesos y estilos de fuente, y caracteres especiales."
+msgstr "Tamaños, grosores y estilos de fuente, y caracteres especiales."
 
 #. (itstool) path: page/title
 #: C/typography.page:17
@@ -9058,8 +9058,8 @@ msgid ""
 "appearance."
 msgstr ""
 "El texto es una parte importante de cualquier interfaz de usuario. El "
-"tamaño, la posición y el peso del texto contribuyen a la capacidad del texto "
-"para transmitir información de manera eficaz, y también juega un rol "
+"tamaño, la posición y el grosor del texto contribuyen a la capacidad del "
+"texto para transmitir información de manera eficaz, y también juega un rol "
 "importante en la creación de una apariencia atractiva."
 
 #. (itstool) path: section/title
