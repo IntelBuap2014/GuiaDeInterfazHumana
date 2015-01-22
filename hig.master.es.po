@@ -9622,6 +9622,8 @@ msgid ""
 "A general padding of 18 pixels is recommended between the contents of a "
 "dialog window and the window borders."
 msgstr ""
+"Un espacio de 18 píxeles es recomendado entre el contenido de una ventana "
+"de diálogo y el borde de la ventana."
 
 #. (itstool) path: item/p
 #: C/visual-layout.page:46
