@@ -2564,6 +2564,10 @@ msgid ""
 "include buttons for navigating back and forward, search, and selecting "
 "content."
 msgstr ""
+"Las barras de encabezado pueden contener controles clave para las ventanas, "
+"que pueden ser colocados en la parte izquierda y derecha de la barra de encabezado. "
+"Ejemplos de estos controles incluyen botones para navegar hacia atrás y adelante, "
+"buscar, y seleccionar contenido."
 
 #. (itstool) path: section/p
 #: C/header-bars.page:40
