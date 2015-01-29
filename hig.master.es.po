@@ -13,8 +13,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: hig.master\n"
+<<<<<<< HEAD
 "POT-Creation-Date: 2015-01-29 07:37+0000\n"
 "PO-Revision-Date: 2015-01-27 12:25+0100\n"
+=======
+"POT-Creation-Date: 2015-01-21 19:35+0000\n"
+"PO-Revision-Date: 2015-01-16 12:05+0100\n"
+>>>>>>> 7e8ed6c34ddfabf790bbc70efd02f10cf21306ee
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -2533,6 +2538,11 @@ msgid ""
 "and mode changes (such as with <link xref=\"selection-mode\">selection mode</"
 "link>)."
 msgstr ""
+"Las barras de encabezado son recomendadas para todas las ventanas de aplicación. "
+"Estas proveen un ventajas sobre la combinación tradicional de la barra de titulo, "
+"la barra de menú y la barra de herramientas, incluyendo una pequeña marca vertical, "
+"y navegacion dinamica, y cambios de modo (tal como el <link xref=\"selection-mode\"> "
+"modo de selección</link>)."
 
 #. (itstool) path: section/p
 #: C/header-bars.page:31
@@ -2542,6 +2552,10 @@ msgid ""
 "these guidelines. See the <link xref=\"menu-bars\">menu bar guidelines</"
 "link> for more details on this."
 msgstr ""
+"Las barras de encabezado son incompatibles con las barras de menú. Si tu "
+"aplicacion ya incorpora una barra de menú, deberás evaluar las alternativas "
+"sugeridas en estas directrices. Ve las <link xref=\"menu-bars\">directrices "
+"de la barra de menú</link> para más detalles sobre esto."
 
 #. (itstool) path: section/title
 #: C/header-bars.page:36
@@ -2556,6 +2570,10 @@ msgid ""
 "include buttons for navigating back and forward, search, and selecting "
 "content."
 msgstr ""
+"Las barras de encabezado pueden contener controles clave para las ventanas, "
+"que pueden ser colocados en la parte izquierda y derecha de la barra de encabezado. "
+"Ejemplos de estos controles incluyen botones para navegar hacia atrás y adelante, "
+"buscar, y seleccionar contenido."
 
 #. (itstool) path: section/p
 #: C/header-bars.page:40
@@ -2576,7 +2594,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/header-bars.page:47
 msgid "Header bars are dynamic"
-msgstr ""
+msgstr "Las barras de encabezado son dinámicas"
 
 #. (itstool) path: section/p
 #: C/header-bars.page:49
@@ -2603,9 +2621,8 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/header-bars.page:58
-#, fuzzy
 msgid "Additional guidance"
-msgstr "Botones adicionales"
+msgstr "Orientación adicional"
 
 #. (itstool) path: item/p
 #: C/header-bars.page:61
@@ -3580,7 +3597,10 @@ msgid ""
 "key>. They are indicated by an underlined letter within each control label "
 "(this is displayed when <key>Alt</key> is held down)."
 msgstr ""
-
+"Teclas de acceso permiten a alguien operar controles etiquetados usando <key>Alt</"
+"key>. Estos son indicados por una letra subrayada dentro de cada etiqueta de control "
+"(este es desplagado cuando <key>Alt</key> es pulsado)."
+ 
 #. (itstool) path: item/p
 #: C/keyboard-input.page:122
 msgid "Where possible, all labelled components should have an access key."
