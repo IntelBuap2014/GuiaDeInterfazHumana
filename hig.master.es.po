@@ -6205,7 +6205,7 @@ msgstr "Iconos de aplicación"
 #. (itstool) path: td/p
 #: C/notifications.page:40
 msgid "Indicates which application sent the notification."
-msgstr ""
+msgstr "Indica que aplicación envía la notificación."
 
 #. (itstool) path: td/p
 #: C/notifications.page:43
