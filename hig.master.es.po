@@ -6070,6 +6070,8 @@ msgid ""
 "Submenus should contain between three and six items, and should never "
 "contain other submenus."
 msgstr ""
+"Los submenús deben contener entre tres y seis elementos, y nunca deben "
+"contener otros submenús."
 
 #. (itstool) path: section/p
 #: C/menus.page:45
