@@ -6338,6 +6338,8 @@ msgid ""
 "It is not necessary to always use notification actions, and many "
 "notifications will not require them."
 msgstr ""
+"No es necesario utilizar siempre las acciones de notificación, y muchas "
+"notificaciones no requerirán de ellas."
 
 #. (itstool) path: item/p
 #: C/notifications.page:81
