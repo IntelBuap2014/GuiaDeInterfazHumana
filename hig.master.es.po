@@ -6322,6 +6322,8 @@ msgid ""
 "Only use notification actions when the functionality that they provide is "
 "commonly required."
 msgstr ""
+"Utilice únicamente las acciones de notificación cuando la funcionalidad que "
+"ofrecen es comúnmente requerida."
 
 #. (itstool) path: item/p
 #: C/notifications.page:79
