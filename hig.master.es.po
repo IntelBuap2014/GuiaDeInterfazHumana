@@ -6052,7 +6052,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/menus.page:39
 msgid "Size and structure"
-msgstr ""
+msgstr "Tamaño y estructura"
 
 #. (itstool) path: section/p
 #: C/menus.page:41
