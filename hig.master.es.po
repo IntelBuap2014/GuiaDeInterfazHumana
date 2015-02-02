@@ -9627,6 +9627,9 @@ msgid ""
 "Avoid using frames with visible borders to separate groups of controls - use "
 "spacing and headers instead."
 msgstr ""
+"Evite usar ventanas con bordes visibles para separar grupos de controles - "
+"en lugar de eso use espaciado y encabezados "
+
 
 #. (itstool) path: section/p
 #: C/visual-layout.page:50
