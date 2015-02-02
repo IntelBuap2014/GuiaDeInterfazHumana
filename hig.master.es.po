@@ -3595,6 +3595,11 @@ msgid ""
 "letter provides a better association (for example: “x” in “Extra Large”) , "
 "consider using that letter instead."
 msgstr ""
+"Elija teclas de acceso que sean fáciles de recordar. Normalmente esto significa usar la "
+"primera letra de la etiqueta. Si la etiqueta tiene mas de una palabra, la primera "
+"letra de una de sus otras palabras pueden también usarse. Además, si otra letra "
+"proporciona una mejor asociación (por ejemplo: “x” en “Extra Grande”) , "
+"considere usar mejor esa letra."
 
 #. (itstool) path: item/p
 #: C/keyboard-input.page:124
