@@ -9662,6 +9662,10 @@ msgid ""
 "justification is not possible if you have indented controls: here left-"
 "justification should be used instead."
 msgstr ""
+"Si es posible, justifique a la derecha las etiquetas (vea el diagrama abajo) "
+"Esto evitará grandes lagunas entre las etiquetas y sus controles asociados. "
+"Este tipo de justificado a la derecha no es posible si tiene controles "
+"con sangría: aquí deberá usar justificación a la izquierda."
 
 #. (itstool) path: section/title
 #: C/visual-layout.page:71
