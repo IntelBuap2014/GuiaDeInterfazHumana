@@ -2533,6 +2533,12 @@ msgid ""
 "and mode changes (such as with <link xref=\"selection-mode\">selection mode</"
 "link>)."
 msgstr ""
+"Las barras de cabecera son recomendadas para todas las ventanas de la "
+"aplicacion. Estas proporcionan cierto numero de ventajas sobre la combinacion "
+"tradicional de la barra de titulo, barra de menú y barra de herramientas, "
+"incluyendo una pequeña huella vertical, y navegacion dinamica y cambios de "
+"modo (tales como los <link xref=\"selection-mode\">modos de seleccion</link>)."
+
 
 #. (itstool) path: section/p
 #: C/header-bars.page:31
