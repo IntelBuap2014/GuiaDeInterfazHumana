@@ -2548,6 +2548,10 @@ msgid ""
 "these guidelines. See the <link xref=\"menu-bars\">menu bar guidelines</"
 "link> for more details on this."
 msgstr ""
+"Las barras de cabecera son incompatibles con las barras de menú. Si tu "
+"aplicacion ya incorpora una barra de menú, deberás evaluar las alternativas "
+"sugeridas en estas directivas. Ver las <link xref=\"menu-bars\">directivas "
+"de las barras de menú</link> para más información."
 
 #. (itstool) path: section/title
 #: C/header-bars.page:36
